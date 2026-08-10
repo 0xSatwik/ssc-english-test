@@ -163,6 +163,94 @@
           "color": "#14b8a6",
           "tag": "CGL • Sel Post • Steno • Practice",
           "order": 9
+        },
+        {
+          "id": "homonyms",
+          "title": "Homonyms",
+          "topic": "Words with same spelling but different meanings",
+          "file": "subjects/homonyms.json",
+          "total": 130,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Stenographer 2025 (Tier-1)"
+          ],
+          "icon": "🔀",
+          "subtitle": "Same spelling, different meanings — pick the right usage.",
+          "color": "#f97316",
+          "tag": "CGL • Steno",
+          "order": 10
+        },
+        {
+          "id": "spelling-check",
+          "title": "Spelling Check",
+          "topic": "Identify misspelled words",
+          "file": "subjects/spelling-check.json",
+          "total": 551,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "✍️",
+          "subtitle": "Spot the misspelled word or fix the spelling error.",
+          "color": "#a855f7",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 11
+        },
+        {
+          "id": "antonyms",
+          "title": "Antonyms",
+          "topic": "Words opposite in meaning",
+          "file": "subjects/antonyms.json",
+          "total": 736,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "↔️",
+          "subtitle": "Pick the word opposite in meaning.",
+          "color": "#ef4444",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 12
+        },
+        {
+          "id": "synonyms",
+          "title": "Synonyms",
+          "topic": "Words similar in meaning",
+          "file": "subjects/synonyms.json",
+          "total": 765,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "🔗",
+          "subtitle": "Pick the word similar in meaning.",
+          "color": "#22c55e",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 13
+        },
+        {
+          "id": "idioms",
+          "title": "Idioms & Phrases",
+          "topic": "Idioms and their meanings",
+          "file": "subjects/idioms.json",
+          "total": 762,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "💭",
+          "subtitle": "Know what common idioms and phrases really mean.",
+          "color": "#eab308",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 14
         }
       ]
     },

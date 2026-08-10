@@ -1,0 +1,2223 @@
+{
+  "meta": {
+    "title": "Homonyms",
+    "subject": "English",
+    "topic": "Words with same spelling but different meanings",
+    "defaultSecondsPerQuestion": 30,
+    "source": "Pinnacle",
+    "language": "English",
+    "totalQuestions": 130
+  },
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "The engineer adjusted the lever to release the pressure.",
+      "options": [
+        "The child used a lever to open the toy",
+        "A lot of money is needed to lever the",
+        "The farmer repaired the broken lever",
+        "The worker cleaned the lever before"
+      ],
+      "exam": "SSC CGL 12/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) A lot of money is needed to\nlever the unions into accepting a deal.\nIn the question, ‘lever’ is used as a noun\nmeaning a bar used to move or lift\nsomething. In option (b), it is used as a\nverb meaning to pressurise someone to\ndo\nsomething,\nwhich\nmakes\nit\na\nhomonym."
+    },
+    {
+      "id": 2,
+      "prompt": "The monk wore a plain habit made of coarse wool.",
+      "options": [
+        "The tailor stitched a new habit for the",
+        "Rising early had become a difficult",
+        "The abbey’s habit was dyed a darker",
+        "The costume designer studied the"
+      ],
+      "exam": "SSC CGL 12/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Rising early had become a\ndifficult habit to maintain.\nIn the question, ‘habit’ means a garment\nworn by members of a religious order,\nsuch as monks and nuns. In option (b),\n‘habit’ refers to a regular practice or\ncustom, which is a different meaning of\nthe same word. Hence, option (b)\ncontains the homonym of the highlighted\nword."
+    },
+    {
+      "id": 3,
+      "prompt": "The sailors struggled to control the ship during the violent gale.",
+      "options": [
+        "The fishermen waited for the gale to",
+        "The meteorologist warned that a gale",
+        "The audience burst into a gale of",
+        "The storm intensified into a powerful"
+      ],
+      "exam": "SSC CGL 12/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The audience burst into a gale\nof laughter at the comedian’s remark.\nIn the question, ‘gale’ means a very\nstrong wind. The required homonym is\ngiven in option (c), which means a\nsudden burst of loud laughter."
+    },
+    {
+      "id": 4,
+      "prompt": "The seal was carved into the wax to close the letter.",
+      "options": [
+        "The explorer watched a seal basking",
+        "The clerk examined the seal for any",
+        "The nobleman pressed his ring into",
+        "The messenger delivered the letter"
+      ],
+      "exam": "SSC CGL 13/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The explorer watched a seal\nbasking on the icy shore.\nIn the question, ‘seal’ refers to a stamp or\ndevice used to authenticate or close\nsomething, while in option (a), ‘seal’\nrefers to a marine animal. Both have the\nsame spelling but have completely\ndifferent meanings. Hence, option (a)\ncontains the homonym of the highlighted\nword."
+    },
+    {
+      "id": 5,
+      "prompt": "The current in the river was too strong for swimming.",
+      "options": [
+        "The sailor struggled against the rapid",
+        "The fisherman measured the depth of",
+        "The swimmer floated easily in the",
+        "The journalist reported on the current"
+      ],
+      "exam": "SSC CGL 13/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The journalist reported on the\ncurrent political developments.\n‘Current’\nin\nthe\nquestion\nmeans\nmovement of water. ‘Current’ in option\n(d) means relating to the present time.\nThese\ntwo\nwords\nconvey\ndifferent\nmeanings despite having the same\nspelling. Hence, option (d) contains the\nhomonym of the highlighted word."
+    },
+    {
+      "id": 6,
+      "prompt": "The nail held the frame securely to the wall.",
+      "options": [
+        "The carpenter hammered another nail",
+        "She painted each nail with a bright",
+        "The builder removed the bent nail",
+        "The shopkeeper sold a box of iron"
+      ],
+      "exam": "SSC CGL 13/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) She painted each nail with a\nbright red polish.\nIn the question, ‘nail’ refers to a small\nmetal spike used to fasten objects, while\nin option (b), it refers to the hard surface\ncovering the tips of fingers or toes. The\nspelling is the same, but the meanings\nare different. Hence, option (b) contains\nthe homonym of the given word."
+    },
+    {
+      "id": 7,
+      "prompt": "The archbishop delivered his sermon beneath the grand see of Canterbury.",
+      "options": [
+        "The sailor strained his eyes to see",
+        "The pilgrims gathered at the ancient",
+        "The cathedral’s see was decorated",
+        "The bishop’s see encompassed"
+      ],
+      "exam": "SSC CGL 14/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The sailor strained his eyes to\nsee through the fog.\nIn the given sentence, the highlighted\nword “see” (noun) refers to the district\nunder a bishop’s authority, this is a noun\nmeaning “bishopric or diocese. In option\n(a), see means to perceive with the eyes,\na completely different meaning. Hence,\noption (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 8,
+      "prompt": "The bark of the old oak tree was rough to the touch.",
+      "options": [
+        "The hunter followed the bark of the",
+        "The bark peeled away easily after the",
+        "The gardener studied the texture of",
+        "The bark of the tree protected it from"
+      ],
+      "exam": "SSC CGL 14/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The hunter followed the bark of\nthe dog through the dense forest.\nIn the given sentence, “bark” refers to the\nouter covering of a tree, while in option\n(a), “bark” refers to the sound made by a\ndog—a completely different meaning of\nthe same word. Hence, option (a) is the\nmost appropriate answer."
+    },
+    {
+      "id": 9,
+      "prompt": "They signed a contract to supply construction materials for the new city bridge.",
+      "options": [
+        "The company renewed its contract",
+        "The legal experts reviewed the",
+        "The cold weather can cause your",
+        "The parties involved agreed that the"
+      ],
+      "exam": "SSC CGL 14/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The cold weather can cause\nyour muscles to contract suddenly and\npainfully.\nThe   word  “contract”  in  the   question\nmeans a legal agreement, while in option\n(c) it means to shrink or become smaller.\nBoth words are spelled the same but\nhave different meanings. Hence, option\n(c)\ncontains\nthe\nmost\nappropriate\nhomonym."
+    },
+    {
+      "id": 10,
+      "prompt": "The sculptor tried to chisel away the excess marble.",
+      "options": [
+        "His jaw was finely chiseled, a sign of",
+        "The con man tried to chisel me out of",
+        "She used a small chisel for the",
+        "The inscription was chiseled into the"
+      ],
+      "exam": "SSC CGL 15/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) The con man tried to chisel\nme out of my money.\nIn the given question, “chisel” means to\ncut or shape stone. In option (b), “chisel”\nmeans to cheat or swindle someone\n(figurative meaning). Both share the\nsame\nspelling\nbut\nhave\ndifferent\nmeanings. Hence, option b is the most\nappropriate answer."
+    },
+    {
+      "id": 11,
+      "prompt": "Select the sentence containing the homonym of the word ‘mantle’ (a cloak or covering).",
+      "options": [
+        "The knight’s mantle fluttered as he",
+        "The earth’s mantle lies between the",
+        "The princess’s mantle was woven",
+        "A mantle of snow covered the silent"
+      ],
+      "exam": "SSC CGL 15/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) \nThe\nearth’s\nmantle\nlies\nbetween the crust and the core.\nIn option (b) the word ‘mantle’ refers to\nthe layer of the Earth between the crust\nand the core. Hence, option (b) is the\nmost appropriate answer."
+    },
+    {
+      "id": 12,
+      "prompt": "Please write your full address along with the postal code on this form.",
+      "options": [
+        "The secretary wrote the wrong",
+        "I received your letter even though it",
+        "The Prime Minister will address the",
+        "The manager confirmed that the letter"
+      ],
+      "exam": "SSC CGL 15/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) \nThe\nPrime\nMinister\nwill\naddress   the    youth    at     the    national\nconference tomorrow.\nIn the question, the word ‘address’ refers\nto the particulars of the place where\nsomeone lives. In option (c), the word\n‘address’ means to make a formal\nspeech to a group of people. The\nspellings are the same but the meanings\nare different. Hence, option (c) contains\nthe most appropriate homonym of the\ngiven word."
+    },
+    {
+      "id": 13,
+      "prompt": "The hunter aimed his bow carefully before releasing the arrow. SSC CGL 16/09/2025 (Shift 1)",
+      "options": [
+        "She gave a graceful bow after her",
+        "The bow was crafted from fine yew",
+        "He tightened the string on his bow",
+        "The archer cleaned his bow and"
+      ],
+      "exam": "SSC CGL 15/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) She gave a graceful bow after\nher performance.\nIn the given sentence, the word “bow”\nrefers to a weapon used for shooting\narrows. In option (a), “bow” refers to the\nact of bending the body forward as a\ngesture of respect or acknowledgment.\nHence, option (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 14,
+      "prompt": "The dancer's movements were so graceful and ethereal, she seemed to float across the stage. SSC CGL 16/09/2025 (Shift 2)",
+      "options": [
+        "The faint, shimmering aurora created",
+        "The old tale spoke of ethereal beings",
+        "The chemist carefully prepared the",
+        "Her voice had an ethereal quality,"
+      ],
+      "exam": "SSC CGL 16/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) \nThe\nchemist\ncarefully\nprepared\nthe\nethereal\nsolution\nby\ndissolving the compound in diethyl ether.\nThe word 'ethereal' in the main sentence\n(and options a, b, d) refers to something\nextremely delicate, light, and not of this\nworld. Option (c) uses 'ethereal' in a\ndistinct sense, meaning 'having diethyl\nether as a solvent'. Hence, option (c) has\nthe most appropriate homonym."
+    },
+    {
+      "id": 15,
+      "prompt": "The right answer was not immediately clear. SSC CGL 16/09/2025 (Shift 3)",
+      "options": [
+        "She made a right turn at the next",
+        "He was right to refuse the offer.",
+        "Everyone has the right to free speech.",
+        "The right timing can make all the"
+      ],
+      "exam": "SSC CGL 16/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) \nEveryone has the right to free speech.\nThe highlighted word “right” in the given\nsentence means “correct”. In option (c),\n“right”\nmeans\n“a\nmoral\nor\nlegal\nentitlement”,\nwhich is a homonym.\nHence, option (c) is the most appropriate\nanswer."
+    },
+    {
+      "id": 16,
+      "prompt": "She wore a delicate veil over her face during the ceremony. SSC CGL 17/09/2025 (Shift 1)",
+      "options": [
+        "The fog began to veil the mountains.",
+        "The bride adjusted her veil before",
+        "The veil was made of silk and lace.",
+        "The designer created a new veil for"
+      ],
+      "exam": "SSC CGL 16/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The fog began to veil the\nmountains.\nThe highlighted word “veil” means a\npiece of cloth worn over the face or\nhead. In option (a) the word “veil” means\nto cover, conceal, or obscure something.\nHence, option (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 17,
+      "prompt": "The quarry was abandoned after the limestone was exhausted. SSC CGL 17/09/2025 (Shift 2)",
+      "options": [
+        "The workers drilled deep into the",
+        "The supervisor inspected the quarry’s",
+        "The miners transported tools to the",
+        "The hunters pursued their quarry"
+      ],
+      "exam": "SSC CGL 17/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The hunters pursued their\nquarry through the forest.\nIn the question, ‘quarry’ refers to a place\nwhere stone or minerals are extracted,\nwhile in option (d), ‘quarry’ means an\nanimal or person being hunted or\npursued. The word has the same spelling\nbut different meanings. Hence, option (d)\ncontains the most appropriate homonym\nof the given word."
+    },
+    {
+      "id": 18,
+      "prompt": "The archaeologist discovered a buried crypt. SSC CGL 17/09/2025 (Shift 3)",
+      "options": [
+        "The poem was written in a crypt style",
+        "The crypt beneath the cathedral held",
+        "The crypt contained relics of early",
+        "Visitors were not allowed inside the"
+      ],
+      "exam": "SSC CGL 17/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The poem was written in a\ncrypt style no one could decipher.\nIn the given sentence, the word “crypt”\nrefers to an underground chamber used\nfor burial. In Option (a), the word “crypt”\nPinnacle          ​ ​\n​\n​\n​\nis used in a different sense, implying\nsomething secret or hidden in meaning.\nHence, option (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 19,
+      "prompt": "The actors waited for the director’s signal before producing sound. SSC CGL 18/09/2025 (Shift 1)",
+      "options": [
+        "The technician adjusted the sound",
+        "The musician tested the sound before",
+        "The engineer designed a sound",
+        "The sailors spotted the sound of the"
+      ],
+      "exam": "SSC CGL 17/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The sailors spotted the sound\nof the bay as the fog lifted.\nIn\nthe\nquestion,\n‘sound’\nmeans\nsomething that we hear or the vibrations\ntravelling through the air that can be\nheard. In option (d), ‘sound’ means a\nnarrow stretch of water connecting two\nlarger bodies of water. Hence, option (d)\nhas the homonym of the given word."
+    },
+    {
+      "id": 20,
+      "prompt": "The eagle perched on a wooden stake fixed firmly near the cliff. SSC CGL 18/09/2025 (Shift 2)",
+      "options": [
+        "The shepherd placed a long stake to",
+        "The hunter hammered a sharp stake",
+        "The investor held a large stake in the",
+        "The gardener removed the stake"
+      ],
+      "exam": "SSC CGL 18/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The investor held a large stake\nin the new company’s future.\nIn the question, ‘stake’ means a post\ndriven into the ground. While in option\n(c), ‘stake’ means a financial share or\ninterest. Hence, option (c) contains the\nmost\nappropriate homonym of the\nhighlighted word."
+    },
+    {
+      "id": 21,
+      "prompt": "The explorer was struck by the eerie beauty of the moonlit moraine along the glacier’s edge. SSC CGL 18/09/2025 (Shift 3)",
+      "options": [
+        "The hikers rested on the moraine",
+        "The old painter described his",
+        "The scientists collected rock samples",
+        "The guide pointed to the moraine that"
+      ],
+      "exam": "SSC CGL 18/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) The old painter described his\ncluttered\nstudio\nas\na\nmoraine\nof\nforgotten dreams.\nIn the question, ‘moraine’ means a mass\nof rocks and sediment carried and\ndeposited by a glacier. In option (b), it is\nused figuratively to mean a confused\nheap or accumulation. Thus, the same\nword has different meanings. Hence,\noption (b) contains the homonym of the\ngiven word."
+    },
+    {
+      "id": 22,
+      "prompt": "The temper of the steel determined its flexibility under stress. SSC CGL 19/09/2025 (Shift 1)",
+      "options": [
+        "His fiery temper made collaboration",
+        "The scientist measured the temper of",
+        "The forge-master studied the temper",
+        "The miner tested the temper of the"
+      ],
+      "exam": "SSC CGL 18/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) \nHis\nfiery\ntemper\nmade\ncollaboration almost impossible.\nIn the given sentence, “temper of the\nsteel” means the hardness or toughness\nproduced by heating and cooling metal.\nIn option (a), “fiery temper” means anger\nor mood, which is a different meaning of\nthe same word. Hence, option (a) is the\nmost appropriate answer."
+    },
+    {
+      "id": 23,
+      "prompt": "The philosopher referred to the ancient canon that guided monastic life. SSC CGL 19/09/2025 (Shift 2)",
+      "options": [
+        "The cathedral choir rehearsed a",
+        "The council reaffirmed the moral",
+        "The theologian translated a lost",
+        "The scribe copied the canon onto"
+      ],
+      "exam": "SSC CGL 19/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The cathedral choir rehearsed\na complex canon for the Easter service.\nIn the question, ‘canon’ means rules and\nprinciples or authoritative writings, while\nin option (a), it means a piece of music in\nwhich voices enter successively at fixed\nintervals. Hence, option (a) contains the\nhomonym of the given word."
+    },
+    {
+      "id": 24,
+      "prompt": "The knight began to hew his way through the dense forest with a heavy sword.​ SSC CGL 19/09/2025 (Shift 3)",
+      "options": [
+        "The sculptor tried to hew a statue out",
+        "He continued to hew to his principles",
+        "The workers were told to hew the logs",
+        "The carpenter was skilled enough to"
+      ],
+      "exam": "SSC CGL 19/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) He continued to hew to his\nprinciples even under political pressure.\nIn the given sentence, “hew” means to\ncut or make a path through something\nusing a tool like a sword or axe. In option\n(b), “hew” is used as a homonym with a\ndifferent meaning, to adhere or conform\nstrictly to something (like rules or\nprinciples). Hence, option (b) is the most\nappropriate answer."
+    },
+    {
+      "id": 25,
+      "prompt": "The pall was drawn over the casket before the final hymn. SSC CGL 20/09/2025 (Shift 1)",
+      "options": [
+        "The mourners adjusted the silk pall",
+        "The craftsman embroidered the pall",
+        "The evening gloom cast a pall over",
+        "The bishop blessed the ceremonial"
+      ],
+      "exam": "SSC CGL 19/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The evening gloom cast a pall\nover the once-cheerful village.\nIn the question, ‘pall’ refers to a cloth\nspread over a coffin or casket during\nfuneral ceremonies. In option (c), ‘pall’\nmeans a feeling or atmosphere of gloom,\nsorrow,\nor\ndespondency. The word\nshares identical spelling but conveys a\ndifferent meaning. Hence, option (c)\ncontains the homonym of the given\nword."
+    },
+    {
+      "id": 26,
+      "prompt": "The sculptor used fine mould to cast the statue’s intricate details. SSC CGL 20/09/2025 (Shift 2)",
+      "options": [
+        "The damp basement began to",
+        "She moulds her opinions based on",
+        "They decided to mould the clay into",
+        "He was praised for his creative mould"
+      ],
+      "exam": "SSC CGL 20/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The damp basement began to\ndevelop green mould on the walls.\nIn the given sentence, “mould” means a\nhollow container used to give shape to\nmolten or soft material. In option (a),\n“mould” is used to mean a fungus that\ngrows in damp conditions, which is a\nhomonym of the original word (same\nspelling,\ndifferent\nmeaning).\nHence,\noption (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 27,
+      "prompt": "The physicist measured the mole of the substance carefully. SSC CGL 20/09/2025 (Shift 3)",
+      "options": [
+        "The gardener found a mole burrowing",
+        "The student solved an equation for a",
+        "The chemist mixed one mole of",
+        "The teacher explained the mole"
+      ],
+      "exam": "SSC CGL 20/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The gardener found a mole\nburrowing under the soil.\nThe word “mole” refers to a scientific unit\nof measurement in chemistry. In option\n(a), mole refers to a small burrowing\nanimal, which has the same spelling but\na\ndifferent\nmeaning,\nmaking\nit\na\nhomonym. Hence, option (a) is the most\nappropriate answer."
+    },
+    {
+      "id": 28,
+      "prompt": "The priest placed the host upon the paten during Mass. SSC CGL 21/09/2025 (Shift 1)",
+      "options": [
+        "The monk lifted the host with",
+        "The baker prepared the unleavened",
+        "The island served as host to several",
+        "The deacon covered the host before"
+      ],
+      "exam": "SSC CGL 20/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The island served as host to\nseveral rare species.\nIn\nthe\nquestion,\nhost\nmeans\na\nconsecrated wafer used in the Eucharist.\nIn option (c), ‘host’ means a place or\norganism\nthat\nprovides\nshelter\nor\nnourishment to another. Thus the same\nword has different meanings. Hence,\noption (c) contains the homonym of the\ngiven word."
+    },
+    {
+      "id": 29,
+      "prompt": "The eyepiece of the microscope had a precisely etched reticule for measuring specimens. SSC CGL 21/09/2025 (Shift 2)",
+      "options": [
+        "The antique dealer specialized in",
+        "She peered through the sniper's",
+        "Before the invention of the laser sight,",
+        "The surveyor's theodolite featured an"
+      ],
+      "exam": "SSC CGL 21/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The antique dealer specialized\nin\nVictorian\nhandbags,\nincluding\na\nbeautiful beaded reticule.\nThe word “reticule” refers to a fine scale\nor grid used in optical instruments. In\noption (a), reticule refers to a small\nhandbag or purse, which is a homonym\nbecause it has the same spelling but a\ncompletely different meaning. Hence,\noption (a) is the most appropriate\nanswer."
+    },
+    {
+      "id": 30,
+      "prompt": "The soldier dressed the wound carefully after the battle. SSC CGL 21/09/2025 (Shift 3)",
+      "options": [
+        "The nurse cleaned the infected",
+        "The doctor examined the deep wound",
+        "He wound the old clock before going",
+        "The patient winced as the surgeon"
+      ],
+      "exam": "SSC CGL 21/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) He wound the old clock before\ngoing to bed.\nIn the question, ‘wound’ means an injury\nto the body caused by a cut, blow, or\nother impact. In option (c), ‘wound’ is the\npast form of the verb “wind”, meaning to\nturn or twist something. These words\nhave the same spelling but different\nmeanings and pronunciations. Hence,\noption (c) contains the homonym of the\ngiven word."
+    },
+    {
+      "id": 31,
+      "prompt": "The entomologist carefully pinned the rose chafer into the display case. Pinnacle ​ ​ ​ ​ ​ SSC CGL 22/09/2025 (Shift 1)",
+      "options": [
+        "The gardener complained that the",
+        "The caterer lit the fuel cell under the",
+        "The metallic green sheen of the",
+        "That particular species of chafer is"
+      ],
+      "exam": "SSC CGL 21/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) \nThe caterer lit the fuel cell under the\nsilver chafer to keep the sauce warm.\nIn the given sentence, “chafer” refers to a\ntype of beetle. In option (b), “chafer”\nrefers to a chafing dish used to keep\nfood warm. Since both words sound the\nsame but have different meanings, they\nare homonyms. Hence, option (b) is the\nmost appropriate answer."
+    },
+    {
+      "id": 32,
+      "prompt": "The carpenter cut a beam to support the ceiling. SSC CGL 22/09/2025 (Shift 2)",
+      "options": [
+        "The workers lifted the wooden beam",
+        "The architect measured the central",
+        "The builder secured each beam with",
+        "The lighthouse sent out a beam of"
+      ],
+      "exam": "SSC CGL 22/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The lighthouse sent out a\nbeam of light across the sea.\nIn the question, ‘beam’ means a long\nthick piece of wood. Similarly, in options\n(a), (b) and (c), ‘beam’ means a long thick\npiece of wood, concrete or metal.\nHowever, in option (d), ‘beam’ means a\nline of light. Hence, option (d) contains\nthe homonym of the given word."
+    },
+    {
+      "id": 33,
+      "prompt": "The seer claimed to have visions of the future. SSC CGL 22/09/2025 (Shift 3)",
+      "options": [
+        "The tailor used a fine seer fabric for",
+        "The audience applauded the seer for",
+        "The mystic seer lived alone in the",
+        "The king consulted his trusted seer"
+      ],
+      "exam": "SSC CGL 22/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The tailor used a fine seer\nfabric for the summer gown.\nThe word “seer” means a person who\ncan predict the future. In option (a),\n“seer” refers to a type of lightweight\ncotton fabric used for clothing, which is a\nhomonym. Hence, option (a) is the most\nappropriate answer."
+    },
+    {
+      "id": 34,
+      "prompt": "The architect used a transparent panel for the skylight design. SSC CGL 23/09/2025 (Shift 1)",
+      "options": [
+        "The minister addressed the",
+        "The carpenter installed a glass panel",
+        "The builders examined the wooden",
+        "The panel was polished to a smooth"
+      ],
+      "exam": "SSC CGL 22/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The minister addressed the\ndiscussion panel at the summit.\nIn the question, ‘panel’ means a flat,\nusually rectangular piece of wood or\nmetal. While in option (a), ‘panel’ means\na small group of people chosen to give\nadvice or suggestions. Hence, option (a)\ncontains the homonym of the given\nword."
+    },
+    {
+      "id": 35,
+      "prompt": "Everyone has the right to a fair trial. SSC CGL 23/09/2025 (Shift 2)",
+      "options": [
+        "Make a right turn at the end of the",
+        "She fought for her right to vote.",
+        "You are within your legal rights to",
+        "It is the right of every citizen to speak"
+      ],
+      "exam": "SSC CGL 23/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) \nMake a right turn at the end of the street.\nThe word “right” in the given sentence\nrefers to a moral or legal entitlement. In\nOption\n(a),\n\"right\"\nmeans\ndirection\n(opposite of left). Both have the same\nspelling but different meanings, making it\na homonym. Hence, option (a) is the\nmost appropriate answer."
+    },
+    {
+      "id": 36,
+      "prompt": "The small brook began to purl as it flowed over the smooth stones. SSC CGL 23/09/2025 (Shift 3)",
+      "options": [
+        "The pattern required her to knit one,",
+        "The jeweler appraised the flawless",
+        "A single purl of sweat trickled down",
+        "The queen admired the purl of her"
+      ],
+      "exam": "SSC CGL 23/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The pattern required her to\nknit one, purl one.\nIn the given sentence, “purl” refers to the\ngentle, murmuring sound of flowing\nwater. In option (a), \"purl\" refers to a type\nof stitch in knitting. Both have the same\nspelling but different meanings, making\nthem homonyms. Hence, option (a) is the\nmost appropriate answer."
+    },
+    {
+      "id": 37,
+      "prompt": "The garden was full of fragrant rose bushes. SSC CGL 24/09/2025 (Shift 1)",
+      "options": [
+        "She rose early to watch the sunrise.",
+        "A single red rose lay on the table.",
+        "He gifted her a bouquet of white",
+        "The rose plant needs regular pruning."
+      ],
+      "exam": "SSC CGL 23/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) \nShe rose early to watch the sunrise.\nPinnacle          ​ ​\n​\n​\n​\nIn the question, ‘rose’ means a flower.\nWhile in option (a), ‘rose’ is the past form\nof the verb ‘rise’, which means to get up.\nHence, option (a) contains the homonym\nof the given word."
+    },
+    {
+      "id": 38,
+      "prompt": "The leader worked to marshal support for the proposal. SSC CGL 24/09/2025 (Shift 2)",
+      "options": [
+        "They tried to marshal their thoughts",
+        "He attempted to marshal every piece",
+        "She began to marshal her arguments",
+        "The Marshal took charge of the"
+      ],
+      "exam": "SSC CGL 24/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The Marshal took charge of\nthe ceremonial parade.\nIn the question, ‘marshal’ is used as a\nverb meaning to organise or arrange.\nOptions (a), (b), and (c) also use marshal\nin this same meaning. Option (d) uses\nMarshal\nas\na\nnoun\nmeaning\na\nhigh-ranking official. Hence, option (d)\ncontains the most appropriate homonym\nof the given word."
+    },
+    {
+      "id": 39,
+      "prompt": "The project manager will lead the team through the transition phase. SSC CGL 24/09/2025 (Shift 3)",
+      "options": [
+        "Exposure to old paint may cause lead",
+        "They plan to lead the discussion on",
+        "Her calm nature helped lead the",
+        "The director continues to lead"
+      ],
+      "exam": "SSC CGL 24/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Exposure to old paint may\ncause lead poisoning.\nThe word ‘lead’ in the question is a verb\nmeaning to guide or direct, while in\noption (a) ‘lead’ (pronounced “led”) is a\nnoun meaning a heavy, metallic element.\nBoth share the same spelling but differ in\npronunciation\nand\nmeaning.\nHence,\noption (a) contains the homonym of the\ngiven word."
+    },
+    {
+      "id": 40,
+      "prompt": "The botanist noted that the plant would yield more sap in warmer conditions. SSC CGL 25/09/2025 (Shift 1)",
+      "options": [
+        "The miners expected the new site to",
+        "Heavy traffic forced the drivers to",
+        "The negotiations will yield results by",
+        "Farmers hope the land will yield more"
+      ],
+      "exam": "SSC CGL 24/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Heavy traffic forced the drivers\nto yield at the junction.\nIn the question, yield means produce or\ngive. In option (b), ‘yield’ means to give\nway to arguments, demands, or pressure.\nThe word has the same spelling but\ndifferent meanings. Hence, option (b)\ncontains the homonym of the given\nword."
+    },
+    {
+      "id": 41,
+      "prompt": "He bore the heavy load with ease. SSC CGL 25/09/2025 (Shift 2)",
+      "options": [
+        "The tree bore fruit in spring.",
+        "He bore the pain silently.",
+        "The worker bore the responsibility",
+        "The child bore a resemblance to his"
+      ],
+      "exam": "SSC CGL 25/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The tree bore fruit in spring.\nThe word “bore” means “carried or\nendured.” In option (a), “bore” means\n“produced or gave birth to,” which is a\ndifferent\nmeaning\nfrom\n“carried or\nendured,” making it a homonym. Hence,\noption (a) is the most appropriate\nAnswer."
+    },
+    {
+      "id": 42,
+      "prompt": "The researcher noted a minute organism under the microscope. SSC CGL 25/09/2025 (Shift 3)",
+      "options": [
+        "She recorded every minute of the",
+        "The minute details of the cell",
+        "The assistant examined another",
+        "The microscope revealed a minute"
+      ],
+      "exam": "SSC CGL 25/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) She recorded every minute of\nthe experiment in her logbook.\nIn the question, ‘minute’ means extremely\nsmall. While in option (a), ‘minute’ means\na period of time equal to 60 seconds.\nThe same word has different meanings.\nHence, option (a) contains the homonym\nof the given word."
+    },
+    {
+      "id": 43,
+      "prompt": "The reptile began to slough its old skin as the season changed. SSC CGL 26/09/2025 (Shift 1)",
+      "options": [
+        "The travellers avoided the deep",
+        "As the creature grew, it continued to",
+        "The bark of the old tree started to",
+        "The surgeon explained how damaged"
+      ],
+      "exam": "SSC CGL 25/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The travellers avoided the\ndeep slough that lay beyond the village.\nIn\nthe question, slough means to\nshed/peel off. Sentence (a) uses slough\nto mean a swamp, marsh, or muddy\nplace, which is the homonym with a\ndifferent meaning."
+    },
+    {
+      "id": 44,
+      "prompt": "The artisan applied a thin layer of varnish to the wooden surface. SSC CGL 26/09/2025 (Shift 2)",
+      "options": [
+        "The curator inspected the ancient",
+        "The craftsman demonstrated how the",
+        "The lawyer attempted to varnish the",
+        "The apprentices watched as the"
+      ],
+      "exam": "SSC CGL 26/09/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) The lawyer attempted to\nvarnish  the   truth   to   make   the  report\nappear more favourable.\nIn the question, ‘varnish’ is used as a\nnoun meaning a protective coating of\npaint. In option (c), varnish is used as a\nverb meaning to disguise the truth. The\nword has the same spelling but different\nmeanings. Hence, option (c) contains the\nhomonym of the given word."
+    },
+    {
+      "id": 45,
+      "prompt": "The temple attendants lit sticks of fragrant incense before the ceremony began. SSC CGL 26/09/2025 (Shift 3)",
+      "options": [
+        "The decision to reduce funding",
+        "The priests placed bowls of incense",
+        "The visitors admired the sweet smell",
+        "The artisans prepared fresh incense"
+      ],
+      "exam": "SSC CGL 26/09/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) \nThe\ndecision\nto\nreduce\nfunding seemed to incense several\nsenior members.\nIn the question, incense means a fragrant\nsubstance burned for its pleasant aroma.\nSentences (b), (c), and (d) use the same\nmeaning. Sentence (a) uses ‘incense’ to\nmean to infuriate or enrage, which is the\ndifferent meaning and therefore the\ncorrect homonym."
+    },
+    {
+      "id": 46,
+      "prompt": "The garden was full of fragrant rose bushes. SSC CGL 14/10/2025 (Shift 1)",
+      "options": [
+        "She rose early to watch the sunrise.",
+        "A single red rose lay on the table.",
+        "He gifted her a bouquet of white",
+        "The rose plant needs regular pruning."
+      ],
+      "exam": "SSC CGL 26/09/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) \nShe rose early to watch the sunrise.\nIn the question, ‘rose’ means a flower.\nWhile in option (a), ‘rose’ is the past form\nof the verb ‘rise’, which means to get up.\nHence, option (a) contains the homonym\nof the given word."
+    },
+    {
+      "id": 47,
+      "prompt": "The explorers sailed into a sheltered bight where the cliffs formed a natural harbour. SSC CGL 14/10/2025 (Shift 2)",
+      "options": [
+        "The map marked a shallow bight",
+        "The coastline’s bight created calm",
+        "The surveyors recorded a narrow",
+        "The sailor tied the knot by first"
+      ],
+      "exam": "SSC CGL 14/10/2025 (Shift 1)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The sailor tied the knot by first\nforming a loose bight in the rope and\nsecuring it to the cleat.\nIn the question, ‘bight’ means a curve in a\ncoastline, river or other geographical\nfeature. While in option (d), ‘bight’ means\na loop of rope. The same word has\ndifferent meanings. Hence, option (d)\ncontains the homonym of the given\nword."
+    },
+    {
+      "id": 48,
+      "prompt": "The sailors struggled as fierce winds began to buffet the ship from all sides. SSC CGL 14/10/2025 (Shift 3)",
+      "options": [
+        "The storm continued to buffet the",
+        "The hotel offered an elaborate buffet",
+        "The travellers watched the hail buffet",
+        "The strong waves would buffet the"
+      ],
+      "exam": "SSC CGL 14/10/2025 (Shift 2)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) The hotel offered an elaborate\nbuffet featuring dishes from several\nregions.\nIn the question, ‘buffet’ means to strike\nrepeatedly and violently. Sentences (a),\n(c), and (d) all use ‘buffet’ with the same\nmeaning. Sentence (d) uses ‘buffet’ to\nmean a self-serve meal, which is a\ncompletely\ndifferent\nmeaning\nand\ntherefore the correct homonym.\nSSC Stenographer 2025 Tier - I"
+    },
+    {
+      "id": 49,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ He left the watch on the nightstand before sleeping.​ SSC Stenographer 06/08/2025 (Shift 1)",
+      "options": [
+        "The guard was assigned to night",
+        "The watch was ticking softly beside",
+        "He set his digital watch to the right",
+        "She bought a new gold watch for her"
+      ],
+      "exam": "SSC CGL 14/10/2025 (Shift 3)",
+      "examType": "SSC CGL 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The guard was assigned to\nnight watch duty.\nIn the sentence given in the question,\n‘watch’ means a small digital device\nworn on the wrist to know the time. The\nword ‘watch’ in option (a) means a period\nof time for keeping guard or duty. Thus,\nthe same word expresses different\nmeanings in two sentences. Hence,\noption (a) contains a homonym of the\nword ‘watch’."
+    },
+    {
+      "id": 50,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ Please close the window before leaving.​ SSC Stenographer 06/08/2025 (Shift 1)",
+      "options": [
+        "He forgot to close the file before",
+        "I always close the curtains at night.​",
+        "Their bond grew close over the years.​",
+        "Make sure to close the back door too."
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) Their bond grew close over the\nyears.\nIn the sentence given in question, the\nword ‘close’ means to change from being\nopen to not open. While the word ‘close’\nin option (c) means intimate or deep.\nThus, option (c) uses the same word in a\ndifferent\nsense.\nHence,\noption\n(c)\ncontains the homonym of the underlined\nword."
+    },
+    {
+      "id": 51,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ The judge will sentence the accused tomorrow.​ SSC Stenographer 06/08/2025 (Shift 1)",
+      "options": [
+        "He received a ten-year sentence for",
+        "The lawyer defended the sentence",
+        "The courtroom fell silent during the",
+        "She wrote a beautiful sentence in her"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) \nShe\nwrote\na\nbeautiful\nsentence in her diary.\nThe sentence given in the question uses\nthe word ‘sentence’ as a form of\npunishment for the guilty. Option (d)\nuses the word ‘sentence’ as a group of\nwords conveying a proper meaning.\nHence, option (d) contains the homonym\nof the word ‘sentence’."
+    },
+    {
+      "id": 52,
+      "prompt": "Select the most appropriate homonym.​ The old fort was taken by storm.​ SSC Stenographer 06/08/2025 (Shift 2)",
+      "options": [
+        "Assault ​",
+        "Tornado",
+        "Rain​ ​",
+        "Breeze"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Assault\nIn this context, \"taken by storm\" means to\ncapture or attack with force, similar in\nmeaning to assault."
+    },
+    {
+      "id": 53,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ He had to tear the envelope to open it.​ SSC Stenographer 06/08/2025 (Shift 2)",
+      "options": [
+        "The comedian caused the audience",
+        "He found a small tear in the corner.​",
+        "Please don't tear the paper again.​",
+        "She used tape to fix the tear on the"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The comedian caused the\naudience to tear up with laughter.\nIn the given sentence, the word ‘tear’\nmeans to pull something apart into\npieces. In option (a), the word ‘tear’\nmeans watery drops that come out of\nour eyes when we are very happy. Hence,\noption (a) gives the correct homonym of\nthe underlined word."
+    },
+    {
+      "id": 54,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ The lead pipes were replaced due to safety concerns.​ SSC Stenographer 06/08/2025 (Shift 2)",
+      "options": [
+        "The general will lead the troops into",
+        "Exposure to lead can cause health",
+        "The old house still had lead in its",
+        "They tested the soil for traces of lead."
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The general will lead the\ntroops into battle.\nIn this sentence, lead (pronounced leed)\nmeans to guide, which is a homonym of\nlead\n(pronounced\nled),\nthe\nmetal\nmentioned in the original sentence.\nPinnacle          ​ ​\n​\n​\n​"
+    },
+    {
+      "id": 55,
+      "prompt": "Select the most appropriate homonym.​ He was charged with theft.​ SSC Stenographer 06/08/2025 (Shift 3)",
+      "options": [
+        "Energized ​",
+        "Filled",
+        "Ordered ​",
+        "Accused"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Accused\n‘Charged’ means formally accused of a\ncrime. ‘Accused’ and ‘charged’ are two\ndifferent words yet they convey the same\nmeaning. Hence, ‘accused’ is a homonym\nof ‘charged’."
+    },
+    {
+      "id": 56,
+      "prompt": "Select the most appropriate homonym.​ The company refused to back the Pinnacle ​ ​ ​ ​ ​ project.​ SSC Stenographer 06/08/2025 (Shift 3)",
+      "options": [
+        "Finish",
+        "Support",
+        "Leave",
+        "Pack"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Support\n‘Back’ means to give financial support.\n‘Back’ and ‘support’ are two different\nwords\nyet\nthey\nconvey\nthe same\nmeaning.\nHence,\n‘support’\nis\nthe\nhomonym of ‘back’."
+    },
+    {
+      "id": 57,
+      "prompt": "Select the most appropriate homonym.​ The diver reached the sea bed.​ SSC Stenographer 06/08/2025 (Shift 3)",
+      "options": [
+        "Mattress",
+        "Bottom",
+        "Rest",
+        "Chair"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) bottom\n‘Sea bed’ means the bottom of a sea or\nthe ocean. ‘Sea bed’ and ‘bottom’ convey\nthe similar meaning. Hence, ‘bottom’ is\nthe homonym of ‘sea bed’."
+    },
+    {
+      "id": 58,
+      "prompt": "Select the most appropriate homonym.​ The new CEO will chair the meeting. SSC Stenographer 07/08/2025 (Shift 1)​",
+      "options": [
+        "Observe​",
+        "Preside over​",
+        "Cancel​",
+        "Furniture"
+      ],
+      "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Preside over\n‘Chair’ means to preside over a meeting.\n‘Chair’ and ‘preside over’ are two different\nwords with similar meanings. Hence,\n‘preside over’ is a homonym of ‘chair’."
+    },
+    {
+      "id": 59,
+      "prompt": "Choose the sentence that uses the homonym of the underlined word:​ The wind howled through the trees. SSC Stenographer 07/08/2025 (Shift 1)​",
+      "options": [
+        "The wind was cold and sharp at night.​",
+        "The wind knocked over the garbage",
+        "A sudden gust of wind blew her hat",
+        "He had to wind the old clock"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 1)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) He had to wind the old clock\nmanually.\nIn the given sentence, the underlined\nword “wind” refers to air in motion. Its\nhomonym “wind” means to turn or twist\nsomething, as in winding a clock. Hence,\noption (d) correctly uses the homonym."
+    },
+    {
+      "id": 60,
+      "prompt": "Choose the sentence that uses a homonym of the underlined word:​ He bought a ticket for the evening show. SSC Stenographer 07/08/2025 (Shift 1)​",
+      "options": [
+        "That was the best stage show I've",
+        "The magic show was amazing​",
+        "We're attending the school show",
+        "The farmers decided to show their"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 1)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The farmers decided to show\ntheir livestock\nIn the given sentence, the word ‘show’ is\nused as a noun meaning a performance\nor event. In option (d), the word ‘show’ is\nused as a verb meaning to display. This\nis a different meaning from the original\nsentence and therefore represents the\ncorrect use of a homonym."
+    },
+    {
+      "id": 61,
+      "prompt": "Select the most appropriate homonym.​ His name has been cleared of all charges. SSC Stenographer 07/08/2025 (Shift 1)​",
+      "options": [
+        "Shifted​",
+        "Removed​",
+        "Made clean​",
+        "Exonerated"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 1)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Exonerated\n‘Cleared’ means exonerated or proved\ninnocent. ‘Cleared’ and ‘exonerated’ are\ntwo\ndifferent\nwords\nwith\nsimilar\nmeanings. Hence, ‘exonerated’ is a\nhomonym of ‘cleared’."
+    },
+    {
+      "id": 62,
+      "prompt": "Select the most appropriate homonym. He could not bank on unreliable friends. SSC Stenographer 07/08/2025 (Shift 2)",
+      "options": [
+        "Deposit ​",
+        "Borrow",
+        "Rely ​ ​",
+        "Dismiss"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 1)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) Rely\nIn the given sentence, ‘bank’ means to\ndepend on something. ‘Rely’ also means\nto depend on something. Thus, ‘bank’\nand ‘rely’ are two different words with\nsimilar meaning. Hence, ‘rely’ is a\nhomonym of ‘bank’."
+    },
+    {
+      "id": 63,
+      "prompt": "Select the most appropriate homonym. The opposition's motion was rejected. SSC Stenographer 07/08/2025 (Shift 2)",
+      "options": [
+        "Commotion​",
+        "Emotion",
+        "Movement​",
+        "Proposal"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Proposal\n‘Motion’ means a formal proposal put to\na committee. ‘Motion’ and ‘proposal’ are\ntwo\ndifferent\nwords\nwith\nsimilar\nmeaning.\nHence,\n‘proposal’\nis\na\nhomonym of ‘motion’."
+    },
+    {
+      "id": 64,
+      "prompt": "Select the most appropriate homonym. ​ He will bat for his friend's innocence.​ SSC Stenographer 07/08/2025 (Shift 3)​",
+      "options": [
+        "Criticize ​",
+        "Play cricket",
+        "Hit ​ ​",
+        "Support"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Support\n‘Bat’ in this sentence means to support\nor defend someone. ‘Bat’ and ‘support’\nare two different words with similar\nmeanings\nin\nthis\ncontext.\nHence,\n‘support’\nis\nthe\nmost\nappropriate\nhomonym of ‘bat’."
+    },
+    {
+      "id": 65,
+      "prompt": "Select the most appropriate homonym. ​ The judge will pass the verdict.​ SSC Stenographer 07/08/2025 (Shift 3)​",
+      "options": [
+        "Cross",
+        "Fail",
+        "Shift",
+        "Announce"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Announce\n‘Pass’ in this sentence means to formally\nannounce or deliver a decision. ‘Pass’\nand ‘announce’ are two different words\nwith similar meanings in this context.\nHence,\n‘announce’\nis\nthe\nmost\nappropriate homonym of ‘pass’."
+    },
+    {
+      "id": 66,
+      "prompt": "Select the most appropriate homonym. ​ The king sat on a throne.​ SSC Stenographer 07/08/2025 (Shift 3)​",
+      "options": [
+        "Crown",
+        "Chair",
+        "Rule",
+        "Sword"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) chair\nIn this sentence, ‘Throne’ refers to a\nceremonial chair used by a king or\nqueen. ‘Throne’ and ‘chair’ are two\ndifferent words with similar meanings in\nthis context. Hence, ‘chair’ is the most\nappropriate homonym of ‘throne’."
+    },
+    {
+      "id": 67,
+      "prompt": "Select the most appropriate homonym. ​ The old man could barely hear.​ SSC Stenographer 07/08/2025 (Shift 3)​",
+      "options": [
+        "Hair",
+        "Listen",
+        "Smell",
+        "See"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Listen\n‘Hear’ in this sentence means to perceive\nsound with the ears. ‘Hear’ and ‘listen’\nare two different words with similar\nmeanings in this context. Hence, ‘listen’\nis the most appropriate homonym of\n‘hear’."
+    },
+    {
+      "id": 68,
+      "prompt": "Select the most appropriate homonym. This case calls for immediate action.​ SSC Stenographer 08/08/2025 (Shift 1)",
+      "options": [
+        "Legal matter​ ​",
+        "Suitcase​",
+        "Example​",
+        "Scenario"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Legal matter\n‘Case’ means a legal matter. ‘Case’ and\n‘legal matter’ are two different words\nwith   similar   meanings.   Hence,   ‘legal\nmatter’ is a homonym of ‘case’."
+    },
+    {
+      "id": 69,
+      "prompt": "Select the most appropriate homonym. He gave her a cold shoulder at the party.​ SSC Stenographer 08/08/2025 (Shift 1)",
+      "options": [
+        "Apology​",
+        "Embrace​",
+        "Complaint​",
+        "Ignore"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Ignore\n‘Cold shoulder’ means to deliberately\nignore someone. ‘Cold shoulder’ and\n‘ignore’ are two different words with\nsimilar meanings. Hence, ‘ignore’ is a\nhomonym of ‘cold shoulder’."
+    },
+    {
+      "id": 70,
+      "prompt": "Select the most appropriate homonym. ​ They had a heated row last night.​ SSC Stenographer 08/08/2025 (Shift 2)",
+      "options": [
+        "Argument",
+        "Line",
+        "Boat",
+        "Series"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Argument\n‘Row’ means a noisy argument or fight.\n‘Row’ and ‘argument’ are two different\nwords with similar meanings. Hence,\n‘argument’ is a homonym of ‘row’."
+    },
+    {
+      "id": 71,
+      "prompt": "Select the most appropriate homonym. ​ The guards will watch over the premises.​ SSC Stenographer 08/08/2025 (Shift 2)",
+      "options": [
+        "Timepiece ​",
+        "Protect",
+        "Warn​​",
+        "Observe"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) protect\n‘Watch’ and ‘protect’ are two different\nwords with similar meaning, i.e. “to guard\nor protect something”. Hence, ‘observe’\nis a homonym of ‘watch’."
+    },
+    {
+      "id": 72,
+      "prompt": "Select the most appropriate homonym. The police seized the counterfeit notes. SSC Stenographer 08/08/2025 (Shift 3)​",
+      "options": [
+        "Letters ​",
+        "Music",
+        "Currency ​",
+        "Messages"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) Currency\nIn the given sentence, ‘notes’ means a\nform of paper currency. Thus, ‘notes’ and\n‘currency’ are two different words with\nsimilar meaning. Hence, ‘currency’ is a\nhomonym of ‘notes’."
+    },
+    {
+      "id": 73,
+      "prompt": "Select the most appropriate homonym. ​ She went to the court to file a case. SSC Stenographer 08/08/2025 (Shift 3)​",
+      "options": [
+        "Ground ​",
+        "Law place",
+        "Yard​ ​",
+        "Field"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Law place\n‘Court’ is a place where justice is\nadministered and helps maintain law and\norder. The word ‘court’ conveys the\nmeaning ‘law place’. Hence, ‘law place’ is\na homonym of ‘court’."
+    },
+    {
+      "id": 74,
+      "prompt": "Select the most appropriate homonym. ​ He was given a light punishment. SSC Stenographer 08/08/2025 (Shift 3)",
+      "options": [
+        "Heavy",
+        "Dark",
+        "Serious",
+        "Mild"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Mild\n‘Mild’ means gentle in nature. ‘Light’\nmeans not harsh or severe. ‘Mild’ and\n‘light’ convey the same meaning. Hence,\n‘mild’ is a homonym of ‘light’."
+    },
+    {
+      "id": 75,
+      "prompt": "Select the most appropriate homonym. ​ The current situation is tense. SSC Stenographer 08/08/2025 (Shift 3)​",
+      "options": [
+        "Running​",
+        "Electric flow​",
+        "Present​",
+        "Modern"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) Present\nThe given sentence uses the word\n‘current’ in the sense ‘present’. Hence,\n‘present’ is a homonym of ‘current’.\neduquity-based pattern\n(ebp) Questions"
+    },
+    {
+      "id": 76,
+      "prompt": "Select the most appropriate homophone from the options to fill in the blank. We should ____ away all prejudices to live in harmony.",
+      "options": [
+        "cast​",
+        "caste",
+        "coast",
+        "cost"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) cast\nThe phrasal verb ‘cast away’ means to\ndismiss ideas or habits. The given\nsentence states that we should cast\naway all the prejudices to live in\nharmony. Hence, ‘cast’ is the most\nappropriate answer."
+    },
+    {
+      "id": 77,
+      "prompt": "Select the most appropriate homonym to fill in the blank. During the____of Queen Victoria, England made all - round progress.",
+      "options": [
+        "rain ​",
+        "rein​",
+        "rhine​",
+        "reign"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) reign\n‘Reign’ means the period of rule of\nmonarch. The given sentence states that\nduring the reign of Queen Victoria,\nEngland made all-round progress. Hence,\n‘reign’ is the most appropriate answer."
+    },
+    {
+      "id": 78,
+      "prompt": "Select the most appropriate homophone to fill in the blank. He has the _____ to express his thoughts.",
+      "options": [
+        "right ​",
+        "ride​",
+        "write",
+        "rite"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) right\nThe given sentence states that he has\nthe right to express his thoughts. Hence,\n‘right’ is the most appropriate answer."
+    },
+    {
+      "id": 79,
+      "prompt": "Select the most appropriate option to fill in the blank. The homophone for the word ‘there’ is____.",
+      "options": [
+        "that​",
+        "their​",
+        "those",
+        "clear"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) their\n‘Their’\nand\n‘There’\nhave\nsimilar\npronunciation. Hence, ‘their’ is the most\nappropriate homophone of ‘there’."
+    },
+    {
+      "id": 80,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The ________ was decorated with candles and chocolates everywhere.",
+      "options": [
+        "flour",
+        "flower",
+        "floor",
+        "flor"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) floor\n‘Floor’ is the lower surface of a room on\nwhich one may walk. The given sentence\nstates that the floor was decorated with\ncandles and chocolates everywhere.\nHence, ‘floor’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 81,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The ointment will help to_____ the wound.",
+      "options": [
+        "he'll​",
+        "heel​",
+        "heal",
+        "kneel"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) heal\n‘Heal’ means to cause (a wound, injury, or\nperson) to become sound or healthy\nagain. The given sentence states that the\nointment will help to heal the wound.\nHence, ‘heal’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 82,
+      "prompt": "Select the most appropriate homophone to fill in the blank. He _____ his bike as fast as he could to reach home.",
+      "options": [
+        "rode​",
+        "road​",
+        "rowed",
+        "rote"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) rode\n‘Rode’ is the past form of ‘ride’ which\nmeans to travel by sitting on a horse,\nbicycle,\nor\nmotorcycle.\nThe\ngiven\nsentence states that he rode his bike as\nfast as he could to reach home. Hence,\n‘rode’ is the most appropriate answer."
+    },
+    {
+      "id": 83,
+      "prompt": "Select the most appropriate homonyms from the given alternatives to fill in the blanks. The rowing instructor commanded them to ________ in a ________. A. row (verb) B. roe C. row (sequence) Pinnacle ​ ​ ​ ​ ​",
+      "options": [
+        "C, A​",
+        "B, C​",
+        "A, B",
+        "A, C"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) A, C\n‘Row’ as a verb means to propel a boat\nby moving oars. ‘In a row’ means one\nafter another without a break. The given\nsentence\nstates\nthat\nThe\nrowing\ninstructor commanded them to row in a\nrow. Hence, 'row, row' is the most\nappropriate answer."
+    },
+    {
+      "id": 84,
+      "prompt": "Select the most appropriate homophone to fill in the blank: The summer was ______ hot this year.",
+      "options": [
+        "tow​",
+        "two​",
+        "to​",
+        "too"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) too\n‘Too’ means very much. The given\nsentence states that the summer was\ntoo hot this year. Hence, 'too' is the most\nappropriate answer."
+    },
+    {
+      "id": 85,
+      "prompt": "Select the most appropriate homophone to fill in the blank. Ruby gave her mother a hug and offered to knead the ________.",
+      "options": [
+        "flora",
+        "flavour",
+        "floor",
+        "flour"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) flour\n‘Flour’ means powder made from grain,\nusually wheat. The given sentence states\nthat Ruby gave her mother a hug and\noffered to knead the flour. Hence, 'flour'\nis the most appropriate answer."
+    },
+    {
+      "id": 86,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The ______ of the flowers spreads everywhere when they bloom.",
+      "options": [
+        "sent ​",
+        "saint",
+        "scent",
+        "cent"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) scent\n‘Scent’\nmeans\na\ndistinctive\nsmell,\nespecially one that is pleasant. The given\nsentence states that the scent of the\nflowers spreads everywhere when they\nbloom. Hence, 'scent' is the most\nappropriate answer."
+    },
+    {
+      "id": 87,
+      "prompt": "Select the most appropriate homonyms from the given alternatives to fill in the blanks. He ________ imitate the playful movement of the ________. Alternatives: A. does (female deer) B. does C. dose",
+      "options": [
+        "C, B​",
+        "B, A​",
+        "A, B​",
+        "A, C"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) does, does(female deer)\n‘Does’ is the helping verb of simple\npresent tense and ‘does’ is the plural\nform of female deer. The given sentence\nstates that he does imitate the playful\nmovement of the does. Hence, option (b)\nis the most appropriate answer."
+    },
+    {
+      "id": 88,
+      "prompt": "Select the most appropriate homonym to fill in the blanks of the given sentences. A. I use a ______ to weigh my ingredients while cooking. B. The mountaineer is going to _______ the rocky hills.",
+      "options": [
+        "horn",
+        "crawl",
+        "scale",
+        "climb"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) scale\nIn Sentence A, ‘scale’ refers to an\ninstrument used to measure the weight.\nIn Sentence B, ‘scale’ means to climb or\nascend, especially a rocky surface.\n‘Scale’\nmakes\nboth\nthe\nsentences\nmeaningful. Hence, ‘scale’ is the most\nappropriate answer."
+    },
+    {
+      "id": 89,
+      "prompt": "Select the most appropriate homophone to fill in the blank. Even animals find it difficult to _____ the loss of their loved ones.",
+      "options": [
+        "bear",
+        "wear",
+        "where",
+        "bare"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) bear\n‘Bear’\nmeans\nto\naccept something\npainful or unpleasant. The given passage\nstates that even animals find it difficult to\nbear the loss of their loved ones. Hence,\n‘bear’ is the most appropriate answer."
+    },
+    {
+      "id": 90,
+      "prompt": "Select the most appropriate homophones to fill in the blanks. Kindly accept my ________ on your new haircut. It ________ your personality.",
+      "options": [
+        "compliment; complaints",
+        "compliment; complements",
+        "compliment; compliments",
+        "complement; complements"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) compliment; complements\n‘Compliment’\nmeans\nto\npolitely\ncongratulate or praise  and ‘complement’\nmeans to enhance something. In the\ngiven sentence, the speaker is praising\nthe new haircut, and it enhances the\nperson's personality. Hence, ‘compliment;\ncomplements’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 91,
+      "prompt": "Select the most appropriate homonym in the context of the following sentence to fill in the blank. My birthday will ____ on a Friday this year.",
+      "options": [
+        "fall: to go down onto the ground",
+        "fall: to come at a particular time or",
+        "fall: to change to a particular",
+        "fall: to be beaten or defeated"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Fall - to come at a particular\ntime or happen in a particular place."
+    },
+    {
+      "id": 92,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The dog took ____ during his walk and lifted his ___ to indicate that he was tired.",
+      "options": [
+        "pause; pours ​",
+        "pours; pores",
+        "paws; pause​",
+        "pause; paws"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) pause; paws\n‘Pause’ means to temporarily stop and\n‘paws’ is the soft, padded part of an\nanimal’s feet. The given sentence states\nthat the dog stopped briefly during his\nwalk and raised its paws to show that it\nwas tired. Hence, ‘pause; paws’ is the\nmost appropriate answer.\nPinnacle          ​ ​\n​\n​\n​"
+    },
+    {
+      "id": 93,
+      "prompt": "Select the most appropriate homonym in the context of the following sentence to fill in the blank. He was convicted of assaulting a police officer, but he got off with a ___sentence.",
+      "options": [
+        "light: any device serving as a source",
+        "light: not serious or profound",
+        "light: the energy from the sun",
+        "light: lightly; with few burdens"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) light: not serious or profound."
+    },
+    {
+      "id": 94,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The doctors gave him more powerful drugs in the _________ hope that he might recover",
+      "options": [
+        "when",
+        "vein",
+        "wane",
+        "vain"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) vain\n‘Vain’\nmeans\nwithout\nsuccess\nor\nproducing no result. The given sentence\nstates that the doctors used stronger\ndrugs in the hope of the patient\nrecovering,\nbut\nit\nwas\nunlikely\nto\nsucceed. Hence, ‘vain’ is the most\nappropriate answer."
+    },
+    {
+      "id": 95,
+      "prompt": "Select the most appropriate homonym in the context of the following sentence to fill in the blank. The key was hanging on a ________ by the door.",
+      "options": [
+        "nail: to catch someone, especially",
+        "nail: a small metal spike, driven into",
+        "nail: a thin, hard area that covers the",
+        "nail: to do something successfully"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) nail: a small metal spike,\ndriven into wood to join things together\nor to serve as a hook."
+    },
+    {
+      "id": 96,
+      "prompt": "Select the most appropriate homophones to fill in the blanks. He was criticised for the______ leadership of his team. His casual body language seemed ______ for a leader.",
+      "options": [
+        "inapt; inapt​",
+        "inapt; inept",
+        "inept; inapt​",
+        "inept; inept"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) Inept; inapt\n‘Inept’ means lacking skill or ability &\n‘Inapt’ means not suitable or appropriate.\nThe given sentence states that he was\ncriticised for lacking skills of leadership\nand his casual body language seemed\ninappropriate for a leader. Hence, ‘inept;\ninapt’ is the most appropriate answer."
+    },
+    {
+      "id": 97,
+      "prompt": "Select the most appropriate homophone to fill in the blank. Developers _____ the old buildings on the site to make way for new construction.",
+      "options": [
+        "raze",
+        "rays",
+        "raise",
+        "rase"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Raze\n‘Raze’ means to completely destroy an\nold building or town. The given sentence\nstates that developers raze the old\nbuildings on the site to make way for\nnew construction. Hence, ‘raze’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 98,
+      "prompt": "Select the most appropriate meaning of the homonym in the context of the following sentence to fill in the blank. They do not say anything but stalk furiously out of the room. 'Stalk' here means ________.",
+      "options": [
+        "the stem or main axis of a plant",
+        "to walk in an angry or proud way",
+        "to go through an area in search of prey",
+        "recur constantly and spontaneously"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) \nto walk in an angry or proud way\nThe given sentence states that they do\nnot say anything but walk furiously out of\nthe room. Hence, ‘to walk in an angry or\nproud way’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 99,
+      "prompt": "Select the most appropriate homophone to fill in the blank. The shareholders are planning to _______ control of the company from the current directors.",
+      "options": [
+        "roost",
+        "roast",
+        "wrest",
+        "rest"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) wrest\n‘Wrest’ means to forcibly take or obtain\nsomething. The given sentence states\nthat the shareholders are planning to\nforcibly take control of the company\nfrom the current directors. Hence, ‘wrest’\nis the most appropriate answer."
+    },
+    {
+      "id": 100,
+      "prompt": "Select the most appropriate homophones to fill in the blanks. I got _______ while replacing the ________.",
+      "options": [
+        "tyre; tire​",
+        "tyred; tire",
+        "tired; tier​",
+        "tired; tyre"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) tired; tyre\n‘Tired’ means feeling a need to rest &\n‘tyre’ means a rubber ring placed over the\nrim of a wheel. The given sentence\nstates that I got tired while replacing the\ntyre. Hence, ‘tired; tyre’ is the most\nappropriate answer."
+    },
+    {
+      "id": 101,
+      "prompt": "Select the most appropriate homonym to fill in the blank. Should we go shopping for a ________ fan for our new house?",
+      "options": [
+        "ceiling​",
+        "sealink",
+        "sealing​",
+        "selling"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) Ceiling\n‘Ceiling’ means the upper surface of a\nroom. The given sentence states a\nquestion, asking about going shopping\nfor a ceiling fan. Hence, ‘ceiling’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 102,
+      "prompt": "Select the most appropriate homophone to fill in the blank. Ants_________food during the summer and save it for winter.",
+      "options": [
+        "horde",
+        "hoard",
+        "heard",
+        "herd"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) hoard\n‘Hoard’ means to store large amounts of\nsomething. The given sentence states\nthat ants store a large amount of food\nduring the summer and save it for winter.\nHence, ‘hoard’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 103,
+      "prompt": "Select the most appropriate homonym to fill in the blank. The hunter dogs followed the hyena's ______.",
+      "options": [
+        "sense",
+        "scent",
+        "cense",
+        "cents"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) scent\n‘Scent’ means a smell that is pleasant.\nThe given sentence states that the\nhunter dogs followed the hyena’s scent.\nHence, ‘scent’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 104,
+      "prompt": "Select the correct homonym to fill in the blank in the given sentence. I will just ________some figures for comparison.",
+      "options": [
+        "cete ​",
+        "cite  ​",
+        "site ​",
+        "sight"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) cite\n‘Cite’ means to refer to a source as\nevidence for a statement. The given\nsentence states that I will just cite some\nfigures for comparison. Hence, ‘cite’ is\nthe most appropriate answer."
+    },
+    {
+      "id": 105,
+      "prompt": "Select the most appropriate homonym to fill in the blank. The villagers kept _____the out, to collect the rain water.",
+      "options": [
+        "crus​",
+        "cruse​",
+        "crews",
+        "cruise"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) cruse\n‘Cruse’ means a small container or jar\nused for holding liquids. The given\nsentence states that the villagers kept\nthe cruse out, to collect the rainwater.\nHence, ‘cruse’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 106,
+      "prompt": "Identify the option that defines the homonyms 'gate' and 'gait' most appropriately.",
+      "options": [
+        "Gate means to achieve or receive, and",
+        "Gate means a hinged barrier used to",
+        "Gate means general agreement on",
+        "Gate means a hinged barrier used to"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) ‘Gate’ means a hinged barrier\nused to close an opening in a wall or\nfence, and ‘Gait’ means a person's\nmanner of walking."
+    },
+    {
+      "id": 107,
+      "prompt": "Select the most appropriate Pinnacle ​ ​ ​ ​ ​ homonym to fill in the blank. Please _______ more sugar to the juice so that it becomes sweeter.",
+      "options": [
+        "aide",
+        "ad",
+        "aid",
+        "add"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Add\nThe given sentence states that please\nadd more sugar to the juice so that it\nbecomes sweeter. Hence, ‘add’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 108,
+      "prompt": "Select the most appropriate homonym to fill in the blank. The children enjoyed the ____ very much.",
+      "options": [
+        "feer",
+        "fear",
+        "fere",
+        "fair"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) fair\n‘Fair’ means an event with amusements\nand activities. The given sentence states\nthat the children enjoyed the fair very\nmuch. Hence, ‘fair’ is the most\nappropriate answer."
+    },
+    {
+      "id": 109,
+      "prompt": "Select the most appropriate homophone to fill in the blank. In many road accidents people break their bones mainly because their vehicle ___________ fails.",
+      "options": [
+        "broke​",
+        "brow",
+        "brake",
+        "bleak"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) brake\n“Brake” means component of a vehicle\nused to stop the vehicle. The given\nsentence states that people break their\nbones mainly because their vehicle brake\nfails.\nHence,\n“brake”\nis\nthe\nmost\nappropriate answer."
+    },
+    {
+      "id": 110,
+      "prompt": "Select the most appropriate homonym to fill in the blank. He confessed about his affairs as the _________ made him sleepless.",
+      "options": [
+        "gilled​",
+        "gild",
+        "guild",
+        "guilt"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Guilt\n‘Guilt’ means the fact or state of having\ndone something wrong or committed a\ncrime. The given sentence states that he\nconfessed about his affairs as the guilt\nmade him sleepless. Hence, ‘guilt’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 111,
+      "prompt": "Select the most appropriate homonym to fill in the blank. What _________ of a movie is this?",
+      "options": [
+        "can",
+        "keen",
+        "con",
+        "kind"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) kind\n‘Kind’ means a group of things having\nsimilar\ncharacteristics.\nThe\ngiven\nsentence is a question about the kind of\nmovie.\nHence,\n‘kind’\nis\nthe\nmost\nappropriate answer."
+    },
+    {
+      "id": 112,
+      "prompt": "Fill in the blanks with appropriate homonym. If you want to __________ the world, you should be the one to take the first step.",
+      "options": [
+        "change (alter)",
+        "change (loose money)",
+        "change (transfer)",
+        "change (switch)"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) change (alter)\n“Alter” means to make some changes to\nsomething. The given sentence states if\nyou want to alter the world, you should\nbe the one to take the first step. Hence,\n“alter” is the most appropriate answer."
+    },
+    {
+      "id": 113,
+      "prompt": "Fill in the blanks with the correct homophone. I _______ some essential items from the supermarket.",
+      "options": [
+        "bout",
+        "bought",
+        "boat",
+        "bot"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) bought\n‘Bought’ is the second form (V2) of ‘buy’,\nwhich means to get something by paying\nmoney for it. The given sentence states\nthat I bought some essential items from\nthe supermarket. Hence, ‘bought’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 114,
+      "prompt": "Select the correct homonym from the given options to fill in the blank. Which ______ does the minister take to reach the Assembly?",
+      "options": [
+        "root",
+        "rot",
+        "route",
+        "riot"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) ‘Route’ means a way to go\nfrom one place to another. The given\nsentence states the route(the way) which\nthe minister takes to reach the assembly.\nHence, ‘route’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 115,
+      "prompt": "Select the correct homonym from the given options to fill in the blank. The wind _______ so powerfully that the door closed.",
+      "options": [
+        "blow",
+        "blew",
+        "blues",
+        "blue​"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) \n‘Blew’ means to cause\nsomething to move. The given sentence\nstates that the wind blew so powerfully\nthat the door closed. Hence, ‘blew’ is the\nmost appropriate answer."
+    },
+    {
+      "id": 116,
+      "prompt": "Select the most appropriate homonym to fill in the blank. The farmers grow ________ in their fields.",
+      "options": [
+        "maze",
+        "mays",
+        "mase",
+        "maize"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) ‘Maize’ is a tall plant that\nproduces yellow grains in a large mass.\nThe given sentence states that the\nfarmers grow maize in their fields. Hence\n‘maize’ is the most appropriate answer."
+    },
+    {
+      "id": 117,
+      "prompt": "Select the most appropriate homonym to fill in the blank. The authorities ________ the unregistered companies.",
+      "options": [
+        "seize",
+        "sees",
+        "seas",
+        "cease"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) cease\n‘Cease’ means to put a stop or end to\nsomething. The given sentence states\nthat the authorities put an end to the\nunregistered companies. Hence, ‘cease’\nis the most appropriate answer."
+    },
+    {
+      "id": 118,
+      "prompt": "Select the correct homonym from the given options to fill in the blank. The athlete’s ________ was badly injured due to a fall on the track.",
+      "options": [
+        "toad",
+        "toe",
+        "tow",
+        "to​"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) ‘Toe’ is one of the small parts\nlike fingers at the end of each foot of a\nhuman. The given sentence states that\nthe athlete’s toe was badly injured due to\na fall on the track. Hence, ‘toe’ is the\nmost appropriate answer.\nPinnacle          ​ ​\n​\n​\n​\nMiscellaneous\nMiscellaneous\nExamination wise\nQuestions\nSSC Selection Post (Phase - XIII)"
+    },
+    {
+      "id": 119,
+      "prompt": "The word “fine” can mean good or a penalty one must pay. This is an example of _____. Matriculation Level 29/07/2025 (Shift - 1)",
+      "options": [
+        "antonym   ​",
+        "homonym",
+        "metaphor ​",
+        "synonym"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 3)​",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) homonym.\nThe\nword\n‘fine’\nhas\ntwo\ndifferent\nmeanings but the same spelling and\npronunciation. Therefore, ‘fine’ is an\nexample of a homonym."
+    },
+    {
+      "id": 120,
+      "prompt": "Identify the sentence that uses the superlative degree of comparison. Matriculation Level 31/07/2025 (Shift - 1)",
+      "options": [
+        "He is as talented as his brother.",
+        "He is more talented than his friend.",
+        "He is the most talented artist in the",
+        "He is talented in painting."
+      ],
+      "exam": "Matriculation Level 29/07/2025 (Shift - 1)",
+      "examType": "Matriculation Level 29/07/2025 (Shift - 1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 2,
+      "explanation": "(c) He is the most talented artist in\nthe competition.\nThe superlative degree ‘most talented’ is\nused in Option (c). Hence, option (c) is\nthe most appropriate answer."
+    },
+    {
+      "id": 121,
+      "prompt": "Choose the sentence that correctly uses the comparative degree. Matriculation Level 31/07/2025 (Shift - 1)",
+      "options": [
+        "Her idea is the more creative of all.",
+        "Her idea is the most creative in the",
+        "Her idea is as creative as mine.",
+        "Her idea is more creative than mine."
+      ],
+      "exam": "Matriculation Level 31/07/2025 (Shift - 1)",
+      "examType": "Matriculation Level 31/07/2025 (Shift - 1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) Her idea is more creative than\nmine.\nThe sentence given in option (d) uses the\ncorrect comparative degree, i.e. ‘more\ncreative’. Hence, option (d) is the most\nappropriate answer."
+    },
+    {
+      "id": 122,
+      "prompt": "Which among the following sentences is wrong? Higher Secondary 02/08/2025 (Shift - 2)",
+      "options": [
+        "The captain turned down the sails to",
+        "The captain looked after the injured",
+        "The captain put up the flag on the",
+        "The captain called off the meeting"
+      ],
+      "exam": "Matriculation Level 31/07/2025 (Shift - 1)",
+      "examType": "Matriculation Level 31/07/2025 (Shift - 1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) The captain turned down the\nsails to increase the speed.\nThe phrasal verb “turn down” means to\nreject or to reduce, so it cannot be used\nfor increasing speed.\nLowering sails would actually decrease\nthe\nspeed,\nmaking\nthe\nsentence\nincorrect. The other sentences correctly\nuse their phrasal verbs."
+    },
+    {
+      "id": 123,
+      "prompt": "Select the sentence containing the homonym of the highlighted word: The fisherman struggled against the strong current of the river. Higher Secondary 29/08/2025 (Shift - 2)",
+      "options": [
+        "The current near the waterfall pulls",
+        "The reporter covered the current",
+        "The swimmers avoided the",
+        "The rescue team measured the water"
+      ],
+      "exam": "Higher Secondary 02/08/2025 (Shift - 2)",
+      "examType": "Higher Secondary 02/08/2025 (Shift - 2)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) The reporter covered the\ncurrent events happening in the city.\nIn the highlighted sentence, ‘current’\nmeans water flow.In option (b), ‘current’\nmeans present or recent, which has a\ndifferent meaning but same spelling and\npronunciation, making it a homonym."
+    },
+    {
+      "id": 124,
+      "prompt": "Select the correct adverb form to fill in the blank. The athlete completed the final lap __________ despite extreme fatigue. Graduate Level 25/07/2025 (Shift - 3)",
+      "options": [
+        "stronger​",
+        "strongly",
+        "strongerly​",
+        "more strongly"
+      ],
+      "exam": "Higher Secondary 29/08/2025 (Shift - 2)",
+      "examType": "Higher Secondary 29/08/2025 (Shift - 2)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) strongly\nAs there is no comparison in the given\nsentence, positive degree will be used.\n‘Strongly’ is a positive degree adverb.\nHence, ‘strongly’ is the most appropriate\nanswer."
+    },
+    {
+      "id": 125,
+      "prompt": "Determine the part of speech of the highlighted word in the given sentence. This is the most simple and basic component of life. Graduate Level 26/07/2025 (Shift - 3)",
+      "options": [
+        "Noun​​",
+        "Pronoun",
+        "Adjective​",
+        "Adverb"
+      ],
+      "exam": "Graduate Level 25/07/2025 (Shift - 3)",
+      "examType": "Graduate Level 25/07/2025 (Shift - 3)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) Pronoun\n‘This’ is a demonstrative pronoun in the\ngiven sentence. There are four main\ndemonstrative\npronouns:-\nthis,\nthat,\nthese, those.\nSSC Stenographer 2025 Tier - I"
+    },
+    {
+      "id": 126,
+      "prompt": "Which among the following sentences uses adjective with correct degree of comparison. SSC Stenographer 07/08/2025 (Shift 2)",
+      "options": [
+        "New Delhi is more hotter to",
+        "New Delhi is more hotter than",
+        "New Delhi is hotter to Chandigarh.",
+        "New Delhi is hotter than Chandigarh."
+      ],
+      "exam": "Graduate Level 26/07/2025 (Shift - 3)",
+      "examType": "Graduate Level 26/07/2025 (Shift - 3)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) New Delhi is hotter than\nChandigarh.\nThe adjective ‘hot’ in the comparative\ndegree becomes ‘hotter’, not ‘more\nhotter’.\nThe\ncorrect\nstructure\nis\ncomparative adjective + than. Hence,\noption (d) is the most appropriate\nanswer."
+    },
+    {
+      "id": 127,
+      "prompt": "Choose the sentence with correct collocation for the word 'pattern' SSC Stenographer 07/08/2025 (Shift 2)",
+      "options": [
+        "The chef has arranged the cherries by",
+        "The chef has arranged the cherries of",
+        "The chef has arranged the cherries",
+        "The chef has arranged the cherries in"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) The chef has arranged the\ncherries in a pattern.\n‘In a pattern’ is the correct collocation,\nwhich means according to a particular\nPinnacle          ​ ​\n​\n​\n​\nMiscellaneous\ndesign or order. Hence, option (d) uses\nthe correct collocation."
+    },
+    {
+      "id": 128,
+      "prompt": "Identify the sentence that correctly uses the word ‘memento’. SSC Stenographer 08/08/2025 (Shift 1)",
+      "options": [
+        "She mementoed the event by writing",
+        "He kept the ticket as a memento of",
+        "The teacher memento the student for",
+        "A memento is something that will"
+      ],
+      "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 1,
+      "explanation": "(b) He kept the ticket as a\nmemento of his first train journey.\n‘Memento’ means an object kept as a\nreminder of a person, place, or event. In\noption (b), ‘memento’ is used as a noun\nin its proper sense, showing something\npreserved\nto\nremember\na\npast\nexperience."
+    },
+    {
+      "id": 129,
+      "prompt": "Fill in the blank with the correct homophone: _______coming from the kitchen. SSC Stenographer 08/08/2025 (Shift 2)",
+      "options": [
+        "They",
+        "There",
+        "Their",
+        "They’re"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 3,
+      "explanation": "(d) They’re\n‘They’re is a contraction of “They are”.\n‘Are + Ving’ is the correct grammatical\nstructure of present continuous tense.\nHence, They’re is the most appropriate\nanswer."
+    },
+    {
+      "id": 130,
+      "prompt": "Select the sentence that needs improvement. SSC Stenographer 08/08/2025 (Shift 3)",
+      "options": [
+        "I waited for so more years to be with",
+        "Each of the players were given a",
+        "Neither of the answers seem",
+        "One of the books was missing from"
+      ],
+      "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
+      "examType": "SSC Stenographer 2025 (Tier-1)",
+      "year": "2025",
+      "setId": 0,
+      "passage": "",
+      "answer": 0,
+      "explanation": "(a) I waited for so more years to\nbe with you.\n‘Many’ is used with plural countable\nnouns. ‘Years’ is a plural noun. Hence, ‘I\nwaited for so many’ is the most\nappropriate answer."
+    }
+  ]
+}
