@@ -1,0 +1,137 @@
+{
+  "siteTitle": "SSC Exam Practice",
+  "tagline": "Free chapter-wise practice for SSC CGL, CHSL, MTS, GD, Stenographer, Selection Post — from Pinnacle 2025 papers, every question verified against the source PDF.",
+  "groups": [
+    {
+      "subject": "English",
+      "icon": "📖",
+      "color": "#3b82f6",
+      "chapters": [
+        {
+          "id": "narration",
+          "title": "Narration – Direct & Indirect Speech",
+          "topic": "Direct / Indirect Speech",
+          "file": "subjects/narration.json",
+          "total": 238,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)"
+          ],
+          "icon": "💬",
+          "subtitle": "Turn quoted speech into reported speech.",
+          "color": "#3b82f6",
+          "tag": "CGL • Sel Post • Steno",
+          "order": 1
+        },
+        {
+          "id": "voice",
+          "title": "Voice – Active & Passive Voice",
+          "topic": "Active / Passive Voice",
+          "file": "subjects/voice.json",
+          "total": 250,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)"
+          ],
+          "icon": "🗣️",
+          "subtitle": "Flip sentences between active ↔ passive.",
+          "color": "#8b5cf6",
+          "tag": "CGL • Sel Post • Steno",
+          "order": 2
+        },
+        {
+          "id": "jumble",
+          "title": "Jumbled Sentences",
+          "topic": "Sentence Rearrangement",
+          "file": "subjects/jumble.json",
+          "total": 330,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)"
+          ],
+          "icon": "🧩",
+          "subtitle": "Reorder the parts to build the sentence.",
+          "color": "#f59e0b",
+          "tag": "CGL • Sel Post • Steno",
+          "order": 3
+        },
+        {
+          "id": "fill",
+          "title": "Fill in the Blanks",
+          "topic": "Vocabulary & Usage",
+          "file": "subjects/fill.json",
+          "total": 656,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "📝",
+          "subtitle": "Pick the word that completes the sentence.",
+          "color": "#0ea5e9",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 4
+        },
+        {
+          "id": "cloze",
+          "title": "Cloze Test",
+          "topic": "Reading Comprehension – Fill gaps",
+          "file": "subjects/cloze.json",
+          "total": 669,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "📘",
+          "subtitle": "Fill the gaps in a passage.",
+          "color": "#ef4444",
+          "tag": "CGL • Steno • Practice",
+          "order": 5
+        },
+        {
+          "id": "comprehension",
+          "title": "Reading Comprehension",
+          "topic": "English Comprehension",
+          "file": "subjects/comprehension.json",
+          "total": 297,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)"
+          ],
+          "icon": "📖",
+          "subtitle": "Read the passage, answer the questions.",
+          "color": "#10b981",
+          "tag": "CGL • Sel Post • Steno",
+          "order": 6
+        }
+      ]
+    },
+    {
+      "subject": "Quantitative Aptitude (Maths)",
+      "icon": "🧮",
+      "color": "#f59e0b",
+      "comingSoon": true,
+      "description": "Arithmetic, algebra & advanced maths practice sets from 2025 papers."
+    },
+    {
+      "subject": "Reasoning & General Intelligence",
+      "icon": "🧠",
+      "color": "#8b5cf6",
+      "comingSoon": true,
+      "description": "Analogy, coding-decoding, series, puzzles & non-verbal reasoning."
+    },
+    {
+      "subject": "General Awareness (GK)",
+      "icon": "🌐",
+      "color": "#10b981",
+      "comingSoon": true,
+      "description": "Static GK, current affairs & science questions asked in SSC exams."
+    }
+  ]
+}
