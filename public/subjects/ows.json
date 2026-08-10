@@ -11,7 +11,7 @@
   "questions": [
     {
       "id": 1,
-      "prompt": "'A word or phrase that reads the",
+      "prompt": "'A word or phrase that reads the same backwards as forwards'.",
       "options": [
         "Anagram",
         "Palindrome",
@@ -28,7 +28,7 @@
     },
     {
       "id": 2,
-      "prompt": "'Practising severe self - discipline",
+      "prompt": "'Practising severe self - discipline and abstention, typically for religious reasons'.",
       "options": [
         "Hedonistic",
         "Austere",
@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "prompt": "‘A sudden, violent outburst of",
+      "prompt": "‘A sudden, violent outburst of emotion or activity.’",
       "options": [
         "Frenzy",
         "Apoplexy",
@@ -62,7 +62,7 @@
     },
     {
       "id": 4,
-      "prompt": "Choose the correct meaning of the",
+      "prompt": "Choose the correct meaning of the word: Nihilism",
       "options": [
         "a small group of people having",
         "a form of government in which power",
@@ -79,7 +79,7 @@
     },
     {
       "id": 5,
-      "prompt": "'A prolonged and bitter quarrel or",
+      "prompt": "'A prolonged and bitter quarrel or dispute'.",
       "options": [
         "Consensus",
         "Amity",
@@ -113,7 +113,7 @@
     },
     {
       "id": 7,
-      "prompt": "'A person who talks too much about",
+      "prompt": "'A person who talks too much about trivial matters.'",
       "options": [
         "Loquacious",
         "Taciturn",
@@ -130,7 +130,7 @@
     },
     {
       "id": 8,
-      "prompt": "'A person who believes that pleasure",
+      "prompt": "'A person who believes that pleasure is the chief good in life.'",
       "options": [
         "Stoic",
         "Cynic",
@@ -147,7 +147,7 @@
     },
     {
       "id": 9,
-      "prompt": "'A general pardon for offences,",
+      "prompt": "'A general pardon for offences, especially political ones, against a state'.",
       "options": [
         "Absolution",
         "Amnesty",
@@ -181,7 +181,7 @@
     },
     {
       "id": 11,
-      "prompt": "‘Friendly and welcoming to",
+      "prompt": "‘Friendly and welcoming to strangers or foreigners’.",
       "options": [
         "Misoneistic",
         "Xenodochial",
@@ -198,7 +198,7 @@
     },
     {
       "id": 12,
-      "prompt": "“A person who believes that only",
+      "prompt": "“A person who believes that only the self exists and that everything outside one’s own mind is merely an illusion.”",
       "options": [
         "Nihilist",
         "Solipsist",
@@ -215,7 +215,7 @@
     },
     {
       "id": 13,
-      "prompt": "“A person who deliberately stirs up",
+      "prompt": "“A person who deliberately stirs up discord or rebellion within an organization, often to achieve personal or political ends.”",
       "options": [
         "Iconoclast",
         "Incendiary",
@@ -232,7 +232,7 @@
     },
     {
       "id": 14,
-      "prompt": "'A collection of literary extracts,",
+      "prompt": "'A collection of literary extracts, especially from one author'.",
       "options": [
         "Lexicographer",
         "Bibliophile",
@@ -249,7 +249,7 @@
     },
     {
       "id": 15,
-      "prompt": "‘A speech made without any",
+      "prompt": "‘A speech made without any preparation.’",
       "options": [
         "Extempore",
         "Dialogue",
@@ -266,7 +266,7 @@
     },
     {
       "id": 16,
-      "prompt": "‘A person who studies ancient",
+      "prompt": "‘A person who studies ancient writings and inscriptions.’",
       "options": [
         "Archaeologist",
         "Epigraphist",
@@ -283,7 +283,7 @@
     },
     {
       "id": 17,
-      "prompt": "Able to be understood by only a",
+      "prompt": "Able to be understood by only a few people who have special knowledge or interest.",
       "options": [
         "Opaque",
         "Inefficient",
@@ -334,7 +334,7 @@
     },
     {
       "id": 20,
-      "prompt": "‘A statement that seems self -",
+      "prompt": "‘A statement that seems self - contradictory but may be true.’",
       "options": [
         "Epigram",
         "Paradox",
@@ -351,7 +351,7 @@
     },
     {
       "id": 21,
-      "prompt": "‘A person who avoids human",
+      "prompt": "‘A person who avoids human society and prefers to live alone.’",
       "options": [
         "Recluse",
         "Renegade",
@@ -368,7 +368,7 @@
     },
     {
       "id": 22,
-      "prompt": "‘One who engages in a foolishly",
+      "prompt": "‘One who engages in a foolishly idealistic pursuit of unreachable goals.’",
       "options": [
         "Visionary",
         "Quixotic",
@@ -385,7 +385,7 @@
     },
     {
       "id": 23,
-      "prompt": "'A person who believes that war",
+      "prompt": "'A person who believes that war and violence are unjustifiable'.",
       "options": [
         "Chauvinist",
         "Maverick",
@@ -402,7 +402,7 @@
     },
     {
       "id": 24,
-      "prompt": "One who finds it difficult to believe",
+      "prompt": "One who finds it difficult to believe anything without proof.",
       "options": [
         "Credulous",
         "Agnostic",
@@ -419,7 +419,7 @@
     },
     {
       "id": 25,
-      "prompt": "A person who loves and seeks",
+      "prompt": "A person who loves and seeks wisdom or knowledge.",
       "options": [
         "Philanthropist",
         "Philosopher",
@@ -436,7 +436,7 @@
     },
     {
       "id": 26,
-      "prompt": "A person who gives opinions on",
+      "prompt": "A person who gives opinions on something beyond their knowledge.",
       "options": [
         "Amateur",
         "Dilettante",
@@ -453,7 +453,7 @@
     },
     {
       "id": 27,
-      "prompt": "A story, poem, or picture that can",
+      "prompt": "A story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one.",
       "options": [
         "Fable",
         "Parable",
@@ -470,7 +470,7 @@
     },
     {
       "id": 28,
-      "prompt": "A general pardon for offences,",
+      "prompt": "A general pardon for offences, especially political ones, granted by an authority.Download Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS",
       "options": [
         "Amnesty",
         "Absolution",
@@ -487,7 +487,7 @@
     },
     {
       "id": 29,
-      "prompt": "'A person who travels to sacred",
+      "prompt": "'A person who travels to sacred places for religious reasons'.",
       "options": [
         "Ascetic",
         "Hermit",
@@ -504,7 +504,7 @@
     },
     {
       "id": 30,
-      "prompt": "'To clear someone of blame or",
+      "prompt": "'To clear someone of blame or suspicion'.",
       "options": [
         "Accuse",
         "Indict",
@@ -521,7 +521,7 @@
     },
     {
       "id": 31,
-      "prompt": "A person who acts as a",
+      "prompt": "A person who acts as a go-between or intermediary between two parties.",
       "options": [
         "Arbitrator",
         "Mediator",
@@ -538,7 +538,7 @@
     },
     {
       "id": 32,
-      "prompt": "A person who believes that all",
+      "prompt": "A person who believes that all people are motivated by self-interest.",
       "options": [
         "Philanthropist",
         "Altruist",
@@ -555,7 +555,7 @@
     },
     {
       "id": 33,
-      "prompt": "‘A person who believes that",
+      "prompt": "‘A person who believes that pleasure is the chief good in life’.​",
       "options": [
         "Epicurean",
         "Stoic",
@@ -572,7 +572,7 @@
     },
     {
       "id": 34,
-      "prompt": "‘A government or state ruled",
+      "prompt": "‘A government or state ruled directly by the military’.​",
       "options": [
         "Bureaucracy",
         "Autocracy",
@@ -589,7 +589,7 @@
     },
     {
       "id": 35,
-      "prompt": "A place where coins, medals, or",
+      "prompt": "A place where coins, medals, or tokens are made.",
       "options": [
         "Mint",
         "Foundry",
@@ -606,7 +606,7 @@
     },
     {
       "id": 36,
-      "prompt": "A place for the care and treatment",
+      "prompt": "A place for the care and treatment of people who are recovering from illness",
       "options": [
         "Dormitory",
         "Cemetery",
@@ -623,7 +623,7 @@
     },
     {
       "id": 37,
-      "prompt": "‘A form of government",
+      "prompt": "‘A form of government characterized by rampant corruption, where leaders exploit national resources for personal gain’.",
       "options": [
         "Plutocracy",
         "Oligarchy",
@@ -640,7 +640,7 @@
     },
     {
       "id": 38,
-      "prompt": "‘A drug or agent that relieves pain",
+      "prompt": "‘A drug or agent that relieves pain without causing loss of consciousness’.",
       "options": [
         "Narcotic",
         "Sedative",
@@ -657,7 +657,7 @@
     },
     {
       "id": 39,
-      "prompt": "The official act of a country or",
+      "prompt": "The official act of a country or state allowing a person who is not a citizen to live there permanently.",
       "options": [
         "Asylum",
         "Expatriation",
@@ -674,7 +674,7 @@
     },
     {
       "id": 40,
-      "prompt": "The deliberate use of misleading",
+      "prompt": "The deliberate use of misleading information to influence public opinion.",
       "options": [
         "Transparency",
         "Candour",
@@ -691,7 +691,7 @@
     },
     {
       "id": 41,
-      "prompt": "‘A person who draws or makes",
+      "prompt": "‘A person who draws or makes maps.’",
       "options": [
         "Cartographer",
         "Choreographer",
@@ -708,7 +708,7 @@
     },
     {
       "id": 42,
-      "prompt": "The professor delivered a",
+      "prompt": "The professor delivered a fascinating lecture on the study of birds.",
       "options": [
         "Entomology",
         "Ornithology",
@@ -725,7 +725,7 @@
     },
     {
       "id": 43,
-      "prompt": "‘Excessively idealistic; unrealistic",
+      "prompt": "‘Excessively idealistic; unrealistic and impractical.’",
       "options": [
         "Quixotic",
         "Temerity",
@@ -742,7 +742,7 @@
     },
     {
       "id": 44,
-      "prompt": "‘A person morally unprincipled; a",
+      "prompt": "‘A person morally unprincipled; a wicked or evil person.’",
       "options": [
         "Reprobate",
         "Sycophant",
@@ -759,7 +759,7 @@
     },
     {
       "id": 45,
-      "prompt": "The detective was searching for a",
+      "prompt": "The detective was searching for a person who is blamed for the wrongdoings, mistakes, or faults of others, especially for reasons of expediency.",
       "options": [
         "Culprit",
         "Accomplice",
@@ -776,7 +776,7 @@
     },
     {
       "id": 46,
-      "prompt": "A factual written account of",
+      "prompt": "A factual written account of important or historical events in the order they happened.",
       "options": [
         "Diary",
         "Chronicle",
@@ -793,7 +793,7 @@
     },
     {
       "id": 47,
-      "prompt": "‘The study of handwriting to",
+      "prompt": "‘The study of handwriting to analyse personality.’",
       "options": [
         "Graphology",
         "Typography",
@@ -810,7 +810,7 @@
     },
     {
       "id": 48,
-      "prompt": "‘A speech made without any",
+      "prompt": "‘A speech made without any preparation.’​",
       "options": [
         "Oration",
         "Extempore",
@@ -827,7 +827,7 @@
     },
     {
       "id": 49,
-      "prompt": "A person who does not eat meat",
+      "prompt": "A person who does not eat meat for moral, religious, or health reasons.",
       "options": [
         "Vegetarian",
         "Vegan",
@@ -844,7 +844,7 @@
     },
     {
       "id": 50,
-      "prompt": "A person who pretends to have",
+      "prompt": "A person who pretends to have virtues, morals, or principles that they do not actually possess.",
       "options": [
         "Hypocrite",
         "Philosopher",
@@ -878,7 +878,7 @@
     },
     {
       "id": 52,
-      "prompt": "‘A place where weapons and",
+      "prompt": "‘A place where weapons and ammunition are stored’.",
       "options": [
         "Arsenal",
         "Dockyard",
@@ -895,7 +895,7 @@
     },
     {
       "id": 53,
-      "prompt": "The ancient scroll contained a daily",
+      "prompt": "The ancient scroll contained a daily record of events or observations.",
       "options": [
         "epic",
         "souvenir",
@@ -912,7 +912,7 @@
     },
     {
       "id": 54,
-      "prompt": "A person who denies the existence",
+      "prompt": "A person who denies the existence of God.",
       "options": [
         "Agnostic",
         "Theist",
@@ -963,7 +963,7 @@
     },
     {
       "id": 57,
-      "prompt": "The humorous or mildly sarcastic",
+      "prompt": "The humorous or mildly sarcastic use of words to imply the opposite of what they normally mean",
       "options": [
         "Sarcasm",
         "Irony",
@@ -980,7 +980,7 @@
     },
     {
       "id": 58,
-      "prompt": "A person who believes that all",
+      "prompt": "A person who believes that all events are ultimately determined by causes external to the will",
       "options": [
         "Nihilist",
         "Fatalist",
@@ -997,7 +997,7 @@
     },
     {
       "id": 59,
-      "prompt": "‘A person who deliberately sets fire",
+      "prompt": "‘A person who deliberately sets fire to property’.",
       "options": [
         "Pyromaniac",
         "Arsonist",
@@ -1014,7 +1014,7 @@
     },
     {
       "id": 60,
-      "prompt": "‘A speech delivered without any",
+      "prompt": "Choose the one-word substitution for the following sentence.​ Someone who has been forced to flee his or her country because of persecution, war or violence.",
       "options": [
         "Extempore",
         "Monologue",
@@ -1031,7 +1031,7 @@
     },
     {
       "id": 61,
-      "prompt": "‘A person who believes that all",
+      "prompt": "‘A person who believes that all events are predetermined and inevitable’.",
       "options": [
         "Fatalist",
         "Optimist",
@@ -1048,7 +1048,7 @@
     },
     {
       "id": 62,
-      "prompt": "‘A government ruled by a king or",
+      "prompt": "‘A government ruled by a king or queen’",
       "options": [
         "Democracy",
         "Oligarchy",
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 63,
-      "prompt": "A secret plot or conspiracy,",
+      "prompt": "A secret plot or conspiracy, especially one intended to overthrow a government or leader.",
       "options": [
         "Coup",
         "Mutiny",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": 64,
-      "prompt": "A person who is excessively",
+      "prompt": "A person who is excessively concerned with minor details and rules.",
       "options": [
         "Pedant",
         "Altruist",
@@ -1099,7 +1099,7 @@
     },
     {
       "id": 65,
-      "prompt": "‘A person who pretends to have",
+      "prompt": "‘A person who pretends to have virtues, moral or religious beliefs he does not possess’",
       "options": [
         "Hypocrite",
         "Charlatan",
@@ -1133,7 +1133,7 @@
     },
     {
       "id": 67,
-      "prompt": "A person who finds joy in the pain",
+      "prompt": "A person who finds joy in the pain or suffering of others.",
       "options": [
         "Pessimist",
         "Sadist",
@@ -1150,7 +1150,7 @@
     },
     {
       "id": 68,
-      "prompt": "A statement that appears self-",
+      "prompt": "A statement that appears self- contradictory but contains a deeper truth.",
       "options": [
         "Conundrum",
         "Paradox",
@@ -1167,7 +1167,7 @@
     },
     {
       "id": 69,
-      "prompt": "A person who chooses to live a",
+      "prompt": "A person who chooses to live a simple life, often for religious or spiritual reasons, abstaining from worldly pleasures.",
       "options": [
         "Hedonist",
         "Sybarite",
@@ -1184,7 +1184,7 @@
     },
     {
       "id": 70,
-      "prompt": "An organism that is genetically",
+      "prompt": "An organism that is genetically identical to another organism.",
       "options": [
         "Blueprint",
         "Prototype",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": 71,
-      "prompt": "'An animal that feeds on dead",
+      "prompt": "'An animal that feeds on dead animals'",
       "options": [
         "Predator",
         "Scavenger",
@@ -1218,7 +1218,7 @@
     },
     {
       "id": 72,
-      "prompt": "'An expression of excessive pride",
+      "prompt": "'An expression of excessive pride or self-importance.'",
       "options": [
         "Arrogance",
         "Hubris",
@@ -1235,7 +1235,7 @@
     },
     {
       "id": 73,
-      "prompt": "A form of government in which",
+      "prompt": "A form of government in which power is held by the nobility.",
       "options": [
         "Monarchy",
         "Gerontocracy",
@@ -1252,7 +1252,7 @@
     },
     {
       "id": 74,
-      "prompt": "A person appointed to advise an",
+      "prompt": "A person appointed to advise an organization on a particular subject.",
       "options": [
         "Delegate",
         "Consultant",
@@ -1303,7 +1303,7 @@
     },
     {
       "id": 77,
-      "prompt": "A person who lives a solitary life",
+      "prompt": "A person who lives a solitary life and tends to avoid other people.",
       "options": [
         "Hedonist",
         "Recluse",
@@ -1320,7 +1320,7 @@
     },
     {
       "id": 78,
-      "prompt": "A drug that causes temporary loss",
+      "prompt": "A drug that causes temporary loss of memory.",
       "options": [
         "Amnesiac",
         "Narcotic",
@@ -1371,7 +1371,7 @@
     },
     {
       "id": 81,
-      "prompt": "A sudden, violent outburst of",
+      "prompt": "A sudden, violent outburst of emotion or activity.",
       "options": [
         "Frenzy",
         "Apoplexy",
@@ -1388,7 +1388,7 @@
     },
     {
       "id": 82,
-      "prompt": "Vocabulary that is used between",
+      "prompt": "Vocabulary that is used between people who belong to the same social group and who know each other well.",
       "options": [
         "Idiom",
         "Colloquialism",
@@ -1405,7 +1405,7 @@
     },
     {
       "id": 83,
-      "prompt": "A person who talks too much",
+      "prompt": "A person who talks too much about trivial matters.",
       "options": [
         "Loquacious",
         "Taciturn",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": 84,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ ''A doctor who treats diseases of the eyes.''",
       "options": [
         "Physician",
         "Optician",
@@ -1439,7 +1439,7 @@
     },
     {
       "id": 85,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ ''A short, interesting story about a real person.''",
       "options": [
         "Fable",
         "Anecdote",
@@ -1456,7 +1456,7 @@
     },
     {
       "id": 86,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"An animal that lives on land and in water.\"",
       "options": [
         "Reptile",
         "Amphibian",
@@ -1473,7 +1473,7 @@
     },
     {
       "id": 87,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The art and technique of arranging type to make written language legible, readable and appealing when displayed.\"",
       "options": [
         "Lithography",
         "Biography",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": 88,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A book written by a person about his or her own life _____.\"",
       "options": [
         "Bibliography",
         "Autobiography",
@@ -1507,7 +1507,7 @@
     },
     {
       "id": 89,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"an official order that has the force of law.\"",
       "options": [
         "Decree",
         "Suggestion",
@@ -1524,7 +1524,7 @@
     },
     {
       "id": 90,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"an infant that has been abandoned by its parents and is discovered and cared for by others.\"",
       "options": [
         "Waif",
         "Foundling",
@@ -1541,7 +1541,7 @@
     },
     {
       "id": 91,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A low continuous humming sound.\"",
       "options": [
         "Murmur",
         "Thunder",
@@ -1558,7 +1558,7 @@
     },
     {
       "id": 92,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"extreme or irrational fear of water.\"",
       "options": [
         "Pyrophobia",
         "Hydrophobia",
@@ -1575,7 +1575,7 @@
     },
     {
       "id": 93,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The killing of one’s father.\"",
       "options": [
         "Patricide",
         "Infanticide",
@@ -1592,7 +1592,7 @@
     },
     {
       "id": 94,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who is excessively in love with himself.\"",
       "options": [
         "Introvert",
         "Narcissist",
@@ -1609,7 +1609,7 @@
     },
     {
       "id": 95,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who pretends to know more than they actually do.\"",
       "options": [
         "Scholar",
         "Charlatan",
@@ -1626,7 +1626,7 @@
     },
     {
       "id": 96,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"Scientific study of the causes and effects of diseases.\"",
       "options": [
         "Pathology",
         "Ecology",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": 97,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who believes that everything happens for the best.\"",
       "options": [
         "Pessimist",
         "Opportunist",
@@ -1660,7 +1660,7 @@
     },
     {
       "id": 98,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The scientific study of language and its structure.\"",
       "options": [
         "Ecology",
         "Sociology",
@@ -1677,7 +1677,7 @@
     },
     {
       "id": 99,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The scientific study of fish.\"",
       "options": [
         "Ecology",
         "Archaeology",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": 100,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A long speech by one person during a conversation.\"",
       "options": [
         "Monologue",
         "Dialogue",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": 101,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"Having an obstinately uncooperative attitude, especially towards authority or discipline.\"",
       "options": [
         "Obdurate",
         "Notorious",
@@ -1728,7 +1728,7 @@
     },
     {
       "id": 102,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"certain to happen and unable to be avoided or prevented\"",
       "options": [
         "Inevitable",
         "Invisible",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": 103,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who speaks very little or is reserved.\"",
       "options": [
         "Talkative",
         "Reticent",
@@ -1762,7 +1762,7 @@
     },
     {
       "id": 104,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A figure of speech in which exaggeration is used for emphasis.\"",
       "options": [
         "Hyperbole",
         "Dialogue",
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 105,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A pithy saying or remark expressing an idea in a clever and amusing way.\"",
       "options": [
         "Proverb",
         "Epigram",
@@ -1796,7 +1796,7 @@
     },
     {
       "id": 106,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitute for the following phrase: \"A very small patch of colour or light.\"",
       "options": [
         "Chunk",
         "Fleck",
@@ -1813,7 +1813,7 @@
     },
     {
       "id": 107,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitute for: \"An extremely strong and offensive smell.\"",
       "options": [
         "Vapour",
         "Scent",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 108,
-      "prompt": "Choose the best one-word",
+      "prompt": "Choose the best one-word substitute for: \"A person who writes poems.\"",
       "options": [
         "Poet",
         "Critic",
@@ -1847,7 +1847,7 @@
     },
     {
       "id": 109,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person having great natural ability or talent, especially at a young age.\"",
       "options": [
         "Prodigy",
         "Trainee",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": 110,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A custom, belief, or method that is old-fashioned and outdated.\"",
       "options": [
         "Tradition",
         "Innovation",
@@ -1881,7 +1881,7 @@
     },
     {
       "id": 111,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who believes in fate and accepts events as unavoidable.\"",
       "options": [
         "Fatalist",
         "Realist",
@@ -1898,7 +1898,7 @@
     },
     {
       "id": 112,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who avoids eating any animal product including meat, milk, and eggs.\"",
       "options": [
         "Vegetarian",
         "Vegan",
@@ -1915,7 +1915,7 @@
     },
     {
       "id": 113,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who talks while sleeping.\"",
       "options": [
         "Hypersomnia",
         "Somniloquist",
@@ -1932,7 +1932,7 @@
     },
     {
       "id": 114,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"the belief in a supernatural power that organizes and animates the material universe.\"",
       "options": [
         "Deism",
         "Animism",
@@ -1949,7 +1949,7 @@
     },
     {
       "id": 115,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A group of people who have a common characteristic or occupation.\"",
       "options": [
         "Posse",
         "Convoy",
@@ -1966,7 +1966,7 @@
     },
     {
       "id": 116,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The fear of doctors or medical treatment.\"",
       "options": [
         "Astraphobia",
         "Iatrophobia",
@@ -1983,7 +1983,7 @@
     },
     {
       "id": 117,
-      "prompt": "Choose the correct one word",
+      "prompt": "Choose the correct one word substitution for: \"Language that is informal and typically used in casual conversation.\"",
       "options": [
         "Slang",
         "Patois",
@@ -2000,7 +2000,7 @@
     },
     {
       "id": 118,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who believes that pleasure is the most important goal in life.\"",
       "options": [
         "Pessimist",
         "Hedonist",
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 119,
-      "prompt": "What is the term for the fear of",
+      "prompt": "What is the term for the fear of heights that causes anxiety when a person is at an elevated place?",
       "options": [
         "Claustrophobia",
         "Acrophobia",
@@ -2034,7 +2034,7 @@
     },
     {
       "id": 120,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"The scientific study of soils in relation to plant growth.\"",
       "options": [
         "Pedology",
         "Bryology",
@@ -2051,7 +2051,7 @@
     },
     {
       "id": 121,
-      "prompt": "Choose the best one-word",
+      "prompt": "Choose the best one-word substitute for: \"a person who loves books\"",
       "options": [
         "Bibliophile",
         "Pedant",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": 122,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who believes that nothing is known or can be known of the existence or nature of God.\"",
       "options": [
         "Atheist",
         "Agnostic",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": 123,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who lives in extreme self-denial, rejecting physical comforts for spiritual discipline.\"",
       "options": [
         "Ascetic",
         "Iconoclast",
@@ -2102,7 +2102,7 @@
     },
     {
       "id": 124,
-      "prompt": "What is the fear of open or",
+      "prompt": "What is the fear of open or crowded public places known as?",
       "options": [
         "Agoraphobia",
         "Monophobia",
@@ -2119,7 +2119,7 @@
     },
     {
       "id": 125,
-      "prompt": "Which term refers to:",
+      "prompt": "Which term refers to: ​ “A figure of speech in which a word or a phrase from figurative speech is used in a new context.”",
       "options": [
         "Metalepsis",
         "Anachrony",
@@ -2136,7 +2136,7 @@
     },
     {
       "id": 126,
-      "prompt": "Which term refers to:",
+      "prompt": "Which term refers to: \"A state in which a person experiences a continuous and intrusive stream of anxious thoughts that they cannot control\"?",
       "options": [
         "Rumination",
         "Cataplexy",
@@ -2153,7 +2153,7 @@
     },
     {
       "id": 127,
-      "prompt": "What term refers to:",
+      "prompt": "What term refers to: \"The philosophical view that reality is mentally constructed and that external objects cannot be known independently of human perception\"?",
       "options": [
         "Constructivism",
         "Dualism",
@@ -2170,7 +2170,7 @@
     },
     {
       "id": 128,
-      "prompt": "What is the term for:",
+      "prompt": "What is the term for: \"A device where the audience is aware of information unknown to the characters,Download Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS causing contrast between perception and reality.\"?",
       "options": [
         "Satire",
         "Dramatic Irony",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": 129,
-      "prompt": "What term refers to:",
+      "prompt": "What term refers to: \"The science of phenomena as distinct from that of the nature of being.\"?",
       "options": [
         "Phenomenology",
         "Empiricism",
@@ -2204,7 +2204,7 @@
     },
     {
       "id": 130,
-      "prompt": "What is the term for:",
+      "prompt": "What is the term for: \"An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect\"?",
       "options": [
         "Parody",
         "Metonymy",
@@ -2221,7 +2221,7 @@
     },
     {
       "id": 131,
-      "prompt": "What is the one-word term for:",
+      "prompt": "What is the one-word term for: \"The condition in which some cells in an organism have different chromosome numbers or genetic makeup from others\"?",
       "options": [
         "Mosaicism",
         "Polyploidy",
@@ -2238,7 +2238,7 @@
     },
     {
       "id": 132,
-      "prompt": "What is the one-word substitute",
+      "prompt": "What is the one-word substitute for: “A moral fable, especially one with animals as characters.”",
       "options": [
         "Apologue",
         "Chronicle",
@@ -2255,7 +2255,7 @@
     },
     {
       "id": 133,
-      "prompt": "Which of the following refers to \"A",
+      "prompt": "Which of the following refers to \"A massive, luminous explosion marking the violent death of a large star\"?",
       "options": [
         "Supernova",
         "Pulsar",
@@ -2272,7 +2272,7 @@
     },
     {
       "id": 134,
-      "prompt": "What is the one-word term for:",
+      "prompt": "What is the one-word term for: \"A figure of speech that juxtaposes concepts with opposite meanings within a word or in a phrase that is a self-contradiction.\"",
       "options": [
         "Apostrophe",
         "Oxymoron",
@@ -2289,7 +2289,7 @@
     },
     {
       "id": 135,
-      "prompt": "Select the one-word substitute for",
+      "prompt": "Select the one-word substitute for \"a person who derives pleasure from causing pain to others.\"",
       "options": [
         "Altruist",
         "Sadist",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": 136,
-      "prompt": "What is the one-word substitute",
+      "prompt": "What is the one-word substitute for: \"A person who has an uncontrollable impulse to wander away from home or travel aimlessly.\"",
       "options": [
         "Peripatetic",
         "Solivagant",
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 137,
-      "prompt": "Which term refers to \"The",
+      "prompt": "Which term refers to \"The tendency of individuals to act in ways they normally wouldn’t when their identity is concealed, such as wearing masks or uniforms\"?",
       "options": [
         "Persona",
         "Disinhibition",
@@ -2340,7 +2340,7 @@
     },
     {
       "id": 138,
-      "prompt": "What is the one-word substitute",
+      "prompt": "What is the one-word substitute for: \"A technique in which small dots of color are applied to create an image when viewed from a distance.\"",
       "options": [
         "Pointillism",
         "Cubism",
@@ -2357,7 +2357,7 @@
     },
     {
       "id": 139,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for the sentence below. \"An official order that prohibits or restricts commerce or exchange with a particular country.\"",
       "options": [
         "Interdict",
         "Stipend",
@@ -2374,7 +2374,7 @@
     },
     {
       "id": 140,
-      "prompt": "Choose the correct one word",
+      "prompt": "Choose the correct one word substitution for: \"A person who is indifferent to pleasure or pain\".​",
       "options": [
         "Epicure",
         "Stoic",
@@ -2391,7 +2391,7 @@
     },
     {
       "id": 141,
-      "prompt": "Choose the correct one word",
+      "prompt": "Choose the correct one word substitution for: \"An ideal society marked by justice, equality, and happiness.\"​",
       "options": [
         "Oligarchy",
         "Technocracy",
@@ -2408,7 +2408,7 @@
     },
     {
       "id": 142,
-      "prompt": "Which of the following words",
+      "prompt": "Which of the following words means \"prohibited by law or treaty from being imported or exported\" ?​",
       "options": [
         "Restricted",
         "Illegal",
@@ -2425,7 +2425,7 @@
     },
     {
       "id": 143,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"A humorous poem of five lines\"​",
       "options": [
         "Elegy",
         "Limerick",
@@ -2442,7 +2442,7 @@
     },
     {
       "id": 144,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"A person who hates other people or mankind\"​",
       "options": [
         "Misanthrope",
         "Optimist",
@@ -2459,7 +2459,7 @@
     },
     {
       "id": 145,
-      "prompt": "Choose the correct one word",
+      "prompt": "Choose the correct one word substitution for: \"The practice of deliberately expressing less than what is meant.\"​",
       "options": [
         "Euphemism",
         "Irony",
@@ -2476,7 +2476,7 @@
     },
     {
       "id": 146,
-      "prompt": "Select the one-word term for:",
+      "prompt": "Select the one-word term for:​ \"A brief note or explanation added alongside a diagram or passage to provide clarity or context.\"​",
       "options": [
         "Annotation",
         "Footnote",
@@ -2493,7 +2493,7 @@
     },
     {
       "id": 147,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ A place where aircraft are kept​",
       "options": [
         "Dockyard",
         "Depot",
@@ -2510,7 +2510,7 @@
     },
     {
       "id": 148,
-      "prompt": "Select the one-word term for:",
+      "prompt": "Select the one-word term for: \"Someone who is consistently excluded or ignored by a community due to lack of trust or popularity.\"​",
       "options": [
         "Dissenter",
         "Noble",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": 149,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"Property inherited from one's father\"​",
       "options": [
         "Matrimony",
         "Patrimony",
@@ -2544,7 +2544,7 @@
     },
     {
       "id": 150,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"A facility equipped with instruments for studying stars, planets, and other celestial bodies\"​",
       "options": [
         "Laboratory",
         "Observatory",
@@ -2561,7 +2561,7 @@
     },
     {
       "id": 151,
-      "prompt": "What is the place for ammunition",
+      "prompt": "What is the place for ammunition and weapons called ?​",
       "options": [
         "Gallery",
         "Library",
@@ -2578,7 +2578,7 @@
     },
     {
       "id": 152,
-      "prompt": "What is the one word for \"A",
+      "prompt": "What is the one word for \"A person who is talkative\" ?​",
       "options": [
         "Introvert",
         "Garrulous",
@@ -2595,7 +2595,7 @@
     },
     {
       "id": 153,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ A medicine that induces sleep​",
       "options": [
         "Sedative",
         "Narcotic",
@@ -2612,7 +2612,7 @@
     },
     {
       "id": 154,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ One who studies the evolution of mankind​",
       "options": [
         "Archaeologist",
         "Sociologist",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": 155,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ A place where wild animals are kept",
       "options": [
         "Abattoir",
         "Aquarium",
@@ -2646,7 +2646,7 @@
     },
     {
       "id": 156,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ A person's peculiar habit or mannerism",
       "options": [
         "Idiosyncrasy",
         "Illusion",
@@ -2663,7 +2663,7 @@
     },
     {
       "id": 157,
-      "prompt": "Which of the following refers to",
+      "prompt": "Which of the following refers to the branch of science concerned with the study of sound, its production, transmission, and effects ?Download Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS",
       "options": [
         "Acoustics",
         "Geology",
@@ -2680,7 +2680,7 @@
     },
     {
       "id": 158,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"A speech delivered without preparation\"",
       "options": [
         "Soliloquy",
         "Rebuttal",
@@ -2697,7 +2697,7 @@
     },
     {
       "id": 159,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for:​ \"the act of placing a dead person in a grave.\"",
       "options": [
         "Interment",
         "Funeral",
@@ -2731,7 +2731,7 @@
     },
     {
       "id": 161,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. A word formed from the initial letters of a name",
       "options": [
         "Pseudonym",
         "Homonym",
@@ -2748,7 +2748,7 @@
     },
     {
       "id": 162,
-      "prompt": "What is the meaning of the word",
+      "prompt": "What is the meaning of the word \"Superannuation\" ?",
       "options": [
         "A system of retirement benefits for",
         "The act of receiving a bonus",
@@ -2765,7 +2765,7 @@
     },
     {
       "id": 163,
-      "prompt": "Which of the following words",
+      "prompt": "Which of the following words refers to a group of people who have graduated from a particular school, college, or university ?",
       "options": [
         "Student",
         "Visitor",
@@ -2782,7 +2782,7 @@
     },
     {
       "id": 164,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for the following description. \"A person who talks excessively\"",
       "options": [
         "Silent",
         "Introvert",
@@ -2799,7 +2799,7 @@
     },
     {
       "id": 165,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A person who studies the origin and development of human societies and cultures.\"",
       "options": [
         "Sociologist",
         "Historian",
@@ -2816,7 +2816,7 @@
     },
     {
       "id": 166,
-      "prompt": "Which of the following terms",
+      "prompt": "Which of the following terms refers to a person who loves or collects books ?",
       "options": [
         "Bibliophile",
         "Philatelist",
@@ -2833,7 +2833,7 @@
     },
     {
       "id": 167,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ A person who writes books​",
       "options": [
         "Publisher",
         "Editor",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": 168,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ The murder of a king​",
       "options": [
         "Regicide",
         "Patricide",
@@ -2867,7 +2867,7 @@
     },
     {
       "id": 169,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ A political disorder and absence of government​",
       "options": [
         "Plutocracy",
         "Monarchy",
@@ -2884,7 +2884,7 @@
     },
     {
       "id": 170,
-      "prompt": "What is the one-word substitute",
+      "prompt": "What is the one-word substitute for \"A poem of mourning\" ?​",
       "options": [
         "Ballad",
         "Ode",
@@ -2901,7 +2901,7 @@
     },
     {
       "id": 171,
-      "prompt": "Choose the correct one-word",
+      "prompt": "Choose the correct one-word substitution for: \"A symbol that serves as an emblem of a group of people\"​",
       "options": [
         "Token",
         "Totem",
@@ -2918,7 +2918,7 @@
     },
     {
       "id": 172,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. A short amusing story.​",
       "options": [
         "Anecdote",
         "Chronicle",
@@ -2935,7 +2935,7 @@
     },
     {
       "id": 173,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. The act of killing one's brother.​",
       "options": [
         "Fratricide",
         "Suicide",
@@ -2952,7 +2952,7 @@
     },
     {
       "id": 174,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. An official pardon for offenders.​",
       "options": [
         "Reprieve",
         "Absolution",
@@ -2969,7 +2969,7 @@
     },
     {
       "id": 175,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. A man whose wife is dead.",
       "options": [
         "Widower",
         "Bachelor",
@@ -2986,7 +2986,7 @@
     },
     {
       "id": 176,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. A partner in crime.​",
       "options": [
         "Rival",
         "Accomplice",
@@ -3003,7 +3003,7 @@
     },
     {
       "id": 177,
-      "prompt": "Choose the best one-word",
+      "prompt": "Choose the best one-word substitute for: ​ \"An inscription written on stone in the memory of a deceased person.\"​",
       "options": [
         "Epigraph",
         "Epitaph",
@@ -3020,7 +3020,7 @@
     },
     {
       "id": 178,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ A person without a settled home​",
       "options": [
         "Noble",
         "Native",
@@ -3037,7 +3037,7 @@
     },
     {
       "id": 179,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given group of words.​ An imaginary ideal place of perfection​",
       "options": [
         "Monarchy",
         "Utopia",
@@ -3054,7 +3054,7 @@
     },
     {
       "id": 180,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ A person who is extremely selective or difficult to please​",
       "options": [
         "Docile",
         "Hostile",
@@ -3071,7 +3071,7 @@
     },
     {
       "id": 181,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence.​ A person who has long experience in a field​",
       "options": [
         "Veteran",
         "Novice",
@@ -3088,7 +3088,7 @@
     },
     {
       "id": 182,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ A short stay at a place​",
       "options": [
         "Odyssey",
         "Peregrination",
@@ -3105,7 +3105,7 @@
     },
     {
       "id": 183,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ One who abandons one's religious faith or principles",
       "options": [
         "Apostate",
         "Heretic",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": 184,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can beDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS substituted for the given sentence. Killing of one's mother",
       "options": [
         "Fratricide",
         "Patricide",
@@ -3139,7 +3139,7 @@
     },
     {
       "id": 185,
-      "prompt": "Choose the one which can be",
+      "prompt": "Choose the one which can be substituted for the given sentence. ​ A place where dead bodies are kept temporarily",
       "options": [
         "Dispensary",
         "Crematorium",
@@ -3156,7 +3156,7 @@
     },
     {
       "id": 186,
-      "prompt": "What is the one-word substitution",
+      "prompt": "What is the one-word substitution for the misappropriation of money ?",
       "options": [
         "Fraud",
         "Extortion",
@@ -3173,7 +3173,7 @@
     },
     {
       "id": 187,
-      "prompt": "Not able to be changed or",
+      "prompt": "Not able to be changed or adapted",
       "options": [
         "Rigid",
         "Austere",
@@ -3190,7 +3190,7 @@
     },
     {
       "id": 188,
-      "prompt": "A complete, usually alphabetical",
+      "prompt": "A complete, usually alphabetical list of items, often with notes giving details.",
       "options": [
         "Catalogue",
         "Brochure",
@@ -3207,7 +3207,7 @@
     },
     {
       "id": 189,
-      "prompt": "Not active but has the ability to be",
+      "prompt": "Not active but has the ability to be active anytime later",
       "options": [
         "Ambiguous",
         "Conscious",
@@ -3224,7 +3224,7 @@
     },
     {
       "id": 190,
-      "prompt": "Protect from a danger, risk, or",
+      "prompt": "Protect from a danger, risk, or unpleasant experience",
       "options": [
         "Scare",
         "Seize",
@@ -3241,7 +3241,7 @@
     },
     {
       "id": 191,
-      "prompt": "The person who presents and",
+      "prompt": "The person who presents and coordinates a show on stage or television",
       "options": [
         "Anchor",
         "Jockey",
@@ -3258,7 +3258,7 @@
     },
     {
       "id": 192,
-      "prompt": "An eloquent and skilled public",
+      "prompt": "An eloquent and skilled public speaker",
       "options": [
         "Elector",
         "Leader",
@@ -3309,7 +3309,7 @@
     },
     {
       "id": 195,
-      "prompt": "A sudden and violent change or",
+      "prompt": "A sudden and violent change or upheaval",
       "options": [
         "Tranquility",
         "Turbulence",
@@ -3343,7 +3343,7 @@
     },
     {
       "id": 197,
-      "prompt": "Someone who loves and admires",
+      "prompt": "Someone who loves and admires himself the most",
       "options": [
         "Recluse",
         "Altruist",
@@ -3360,7 +3360,7 @@
     },
     {
       "id": 198,
-      "prompt": "In the makeshift place of activity,",
+      "prompt": "In the makeshift place of activity, debate or conflict, there were hundreds of people with the queen's team of advisors and servants sitting within the ring against the wall.",
       "options": [
         "casino",
         "arena",
@@ -3377,7 +3377,7 @@
     },
     {
       "id": 199,
-      "prompt": "Speaking disrespectfully about",
+      "prompt": "Speaking disrespectfully about sacred or religious things",
       "options": [
         "Blasphemy",
         "Bigamy",
@@ -3394,7 +3394,7 @@
     },
     {
       "id": 200,
-      "prompt": "Because the politician's speech",
+      "prompt": "Because the politician's speech was high-flown and pretentious, it gained popularity.",
       "options": [
         "bombastic",
         "austere",
@@ -3411,7 +3411,7 @@
     },
     {
       "id": 201,
-      "prompt": "The minister went to visit the",
+      "prompt": "The minister went to visit the monuments set up for people who were buried in other countries.",
       "options": [
         "graves",
         "cemetery",
@@ -3428,7 +3428,7 @@
     },
     {
       "id": 202,
-      "prompt": "Exactly the same words as were",
+      "prompt": "Exactly the same words as were used originally.Download Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS",
       "options": [
         "Factual",
         "Ornate",
@@ -3445,7 +3445,7 @@
     },
     {
       "id": 203,
-      "prompt": "A room in a hospital used",
+      "prompt": "A room in a hospital used especially for sunbathing or therapeutic exposure to light",
       "options": [
         "Sanatorium",
         "Solarium",
@@ -3479,7 +3479,7 @@
     },
     {
       "id": 205,
-      "prompt": "The analysis of a person's",
+      "prompt": "The analysis of a person's handwriting to determine his/her personality",
       "options": [
         "Numismatics",
         "Graphology",
@@ -3496,7 +3496,7 @@
     },
     {
       "id": 206,
-      "prompt": "The branch of geography that",
+      "prompt": "The branch of geography that studies mountains and their formation",
       "options": [
         "Palaeography",
         "Orthography",
@@ -3513,7 +3513,7 @@
     },
     {
       "id": 207,
-      "prompt": "A policy that separates people on",
+      "prompt": "A policy that separates people on the basis of race",
       "options": [
         "Apostasy",
         "Apartheid",
@@ -3530,7 +3530,7 @@
     },
     {
       "id": 208,
-      "prompt": "The tailor was called to stitch the",
+      "prompt": "The tailor was called to stitch the long loose gowns worn by priests and choristers.",
       "options": [
         "frocks",
         "cassocks",
@@ -3547,7 +3547,7 @@
     },
     {
       "id": 209,
-      "prompt": "Can you please stop continuously",
+      "prompt": "Can you please stop continuously complaining about the student's shortcomings?",
       "options": [
         "Grunting",
         "Crying",
@@ -3564,7 +3564,7 @@
     },
     {
       "id": 210,
-      "prompt": "The old library had a musty smell",
+      "prompt": "The old library had a musty smell from years of neglect.",
       "options": [
         "casual",
         "foggy",
@@ -3581,7 +3581,7 @@
     },
     {
       "id": 211,
-      "prompt": "The land that is best suitable for",
+      "prompt": "The land that is best suitable for growing crops",
       "options": [
         "Arable",
         "Barren",
@@ -3598,7 +3598,7 @@
     },
     {
       "id": 212,
-      "prompt": "A serpent having many heads in",
+      "prompt": "A serpent having many heads in Greek mythology",
       "options": [
         "Hydra",
         "Python",
@@ -3632,7 +3632,7 @@
     },
     {
       "id": 214,
-      "prompt": "She is proficient in speaking",
+      "prompt": "She is proficient in speaking many languages.",
       "options": [
         "Monolithic",
         "Multilingual",
@@ -3649,7 +3649,7 @@
     },
     {
       "id": 215,
-      "prompt": "A person who likes to argue about",
+      "prompt": "A person who likes to argue about anything",
       "options": [
         "Reticent",
         "Coward",
@@ -3683,7 +3683,7 @@
     },
     {
       "id": 217,
-      "prompt": "One who does not show response",
+      "prompt": "One who does not show response to good or bad",
       "options": [
         "Stoic",
         "Sceptic",
@@ -3700,7 +3700,7 @@
     },
     {
       "id": 218,
-      "prompt": "Morbid compulsion to consume",
+      "prompt": "Morbid compulsion to consume alcohol continuously",
       "options": [
         "Satyromania",
         "Maniac",
@@ -3717,7 +3717,7 @@
     },
     {
       "id": 219,
-      "prompt": "The question papers are placed in",
+      "prompt": "The question papers are placed in the lockers of the school in a way that they can’t be reached.",
       "options": [
         "are irrepressible",
         "are inaccessible",
@@ -3734,7 +3734,7 @@
     },
     {
       "id": 220,
-      "prompt": "An order of law requiring people",
+      "prompt": "An order of law requiring people to remain indoors",
       "options": [
         "Restriction",
         "Curfew",
@@ -3751,7 +3751,7 @@
     },
     {
       "id": 221,
-      "prompt": "A person who sells and arranges",
+      "prompt": "A person who sells and arranges cut flowers.",
       "options": [
         "Horticulturist",
         "Botanist",
@@ -3785,7 +3785,7 @@
     },
     {
       "id": 223,
-      "prompt": "An often-imaginary place or state",
+      "prompt": "An often-imaginary place or state of utter perfection and happiness.",
       "options": [
         "Inferno",
         "Dystopia",
@@ -3819,7 +3819,7 @@
     },
     {
       "id": 225,
-      "prompt": "a short section (as of a book) that",
+      "prompt": "a short section (as of a book) that leads to or explains the main part.",
       "options": [
         "Foreword",
         "Conclusion",
@@ -3836,7 +3836,7 @@
     },
     {
       "id": 226,
-      "prompt": "Choice between two",
+      "prompt": "Choice between two unsatisfactory alternatives",
       "options": [
         "Dilemma",
         "Problem",
@@ -3853,7 +3853,7 @@
     },
     {
       "id": 227,
-      "prompt": "Despite recent superficial moves",
+      "prompt": "Despite recent superficial moves toward political reconciliation, Libya remains in the grip of a bloodstained corrupt military exclusive circle of people with a common purpose.",
       "options": [
         "oblique",
         "pique",
@@ -3870,7 +3870,7 @@
     },
     {
       "id": 228,
-      "prompt": "An instrument for viewing distant",
+      "prompt": "An instrument for viewing distant objects in space.",
       "options": [
         "Microscope",
         "Spectrograph",
@@ -3904,7 +3904,7 @@
     },
     {
       "id": 230,
-      "prompt": "A person who is trained to travel",
+      "prompt": "A person who is trained to travel in a spacecraft.",
       "options": [
         "Astronaut",
         "Anthropologist",
@@ -3921,7 +3921,7 @@
     },
     {
       "id": 231,
-      "prompt": "Failing to give proper care and",
+      "prompt": "Failing to give proper care and attention",
       "options": [
         "Lax",
         "Cautious",
@@ -3972,7 +3972,7 @@
     },
     {
       "id": 234,
-      "prompt": "In Indian mythology, most of the",
+      "prompt": "In Indian mythology, most of the Asuras wish to be never able to die.",
       "options": [
         "Invincible",
         "Impervious",
@@ -3989,7 +3989,7 @@
     },
     {
       "id": 235,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate meaning of the underlined word in the given sentence. He is an atheist, although he respects everyone’s belief.",
       "options": [
         "One who believes in God",
         "One who believes in nature",
@@ -4006,7 +4006,7 @@
     },
     {
       "id": 236,
-      "prompt": "The list of subjects to be",
+      "prompt": "The list of subjects to be discussed at a meeting",
       "options": [
         "Minutes",
         "Objectives",
@@ -4091,7 +4091,7 @@
     },
     {
       "id": 241,
-      "prompt": "An important person who",
+      "prompt": "An important person who represents his/her country in a foreign country",
       "options": [
         "Amateur",
         "Ambassador",
@@ -4108,7 +4108,7 @@
     },
     {
       "id": 242,
-      "prompt": "A person who is unsure about",
+      "prompt": "A person who is unsure about God’s existence",
       "options": [
         "Ignorant",
         "Atheist",
@@ -4142,7 +4142,7 @@
     },
     {
       "id": 244,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate meaning of the given word. Illiterate",
       "options": [
         "A person who cannot speak",
         "One who is well-educated",
@@ -4176,7 +4176,7 @@
     },
     {
       "id": 246,
-      "prompt": "A person who is inclined to see",
+      "prompt": "A person who is inclined to see the worst aspect of things",
       "options": [
         "Pessimist",
         "Philanthropist",
@@ -4193,7 +4193,7 @@
     },
     {
       "id": 247,
-      "prompt": "Almost immediately, they heard",
+      "prompt": "Almost immediately, they heard the high shrill piercing cry of tires on the side road.",
       "options": [
         "beseech",
         "creche",
@@ -4227,7 +4227,7 @@
     },
     {
       "id": 249,
-      "prompt": "A person who deceives others by",
+      "prompt": "A person who deceives others by pretending to be someone else",
       "options": [
         "Unrecognisable",
         "Fraud",
@@ -4244,7 +4244,7 @@
     },
     {
       "id": 250,
-      "prompt": "The workers received a sum for",
+      "prompt": "The workers received a sum for the services they rendered.",
       "options": [
         "Recruitment",
         "Remembrance",
@@ -4261,7 +4261,7 @@
     },
     {
       "id": 251,
-      "prompt": "Foul smell will come if the food is",
+      "prompt": "Foul smell will come if the food is not fresh.",
       "options": [
         "brittle",
         "crisp",
@@ -4295,7 +4295,7 @@
     },
     {
       "id": 253,
-      "prompt": "One who eats the flesh of his own",
+      "prompt": "One who eats the flesh of his own species",
       "options": [
         "Non-vegetarian",
         "Vegan",
@@ -4312,7 +4312,7 @@
     },
     {
       "id": 254,
-      "prompt": "My father always tells amusing",
+      "prompt": "My father always tells amusing and true stories from his childhood at bedtime.",
       "options": [
         "anecdotes",
         "sonnets",
@@ -4329,7 +4329,7 @@
     },
     {
       "id": 255,
-      "prompt": "Humour that describes the",
+      "prompt": "Humour that describes the weaknesses of the other person is itself a crime among peer groups.",
       "options": [
         "A joke",
         "Attire",
@@ -4346,7 +4346,7 @@
     },
     {
       "id": 256,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate option that means the same as the underlined group of words to fill in the blank. Most of the rivers dry up during the summer season, but the Ganga is full of water round the year because it is ______.",
       "options": [
         "biennial",
         "biannual",
@@ -4363,7 +4363,7 @@
     },
     {
       "id": 257,
-      "prompt": "Much more than usual or",
+      "prompt": "Much more than usual or expected",
       "options": [
         "Mordancy",
         "Ordinate",
@@ -4380,7 +4380,7 @@
     },
     {
       "id": 258,
-      "prompt": "A short stay that you make while",
+      "prompt": "A short stay that you make while on a longer journey",
       "options": [
         "Saga",
         "Stopover",
@@ -4414,7 +4414,7 @@
     },
     {
       "id": 260,
-      "prompt": "A person who performs magic to",
+      "prompt": "A person who performs magic to entertain people",
       "options": [
         "Alchemist",
         "Angel",
@@ -4431,7 +4431,7 @@
     },
     {
       "id": 261,
-      "prompt": "A person who is kept captive for",
+      "prompt": "A person who is kept captive for fulfilment of demands of money or conditions",
       "options": [
         "Hostage",
         "Hermit",
@@ -4448,7 +4448,7 @@
     },
     {
       "id": 262,
-      "prompt": "The statistical study of human",
+      "prompt": "The statistical study of human populations.",
       "options": [
         "Photography",
         "Palaeography",
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 263,
-      "prompt": "In industries, it is very common to",
+      "prompt": "In industries, it is very common to observe that people show undue favour to one’s own relative during the hiring process.",
       "options": [
         "nepotism",
         "racism",
@@ -4482,7 +4482,7 @@
     },
     {
       "id": 264,
-      "prompt": "One who tends to look at the dark",
+      "prompt": "One who tends to look at the dark side of things",
       "options": [
         "Dynamist",
         "Polemist",
@@ -4516,7 +4516,7 @@
     },
     {
       "id": 266,
-      "prompt": "Lack of interest, enthusiasm or",
+      "prompt": "Lack of interest, enthusiasm or concern",
       "options": [
         "Sympathy",
         "Apathy",
@@ -4533,7 +4533,7 @@
     },
     {
       "id": 267,
-      "prompt": "The study of ancient things such",
+      "prompt": "The study of ancient things such as art, graves, ruins etc.",
       "options": [
         "Astrology",
         "Archaeology",
@@ -4550,7 +4550,7 @@
     },
     {
       "id": 268,
-      "prompt": "A continuing unpleasant situation,",
+      "prompt": "A continuing unpleasant situation, created when one problem causes another problem that then makes the first problem worse",
       "options": [
         "Vicious cycle",
         "Round cycle",
@@ -4567,7 +4567,7 @@
     },
     {
       "id": 269,
-      "prompt": "A person who has supreme power",
+      "prompt": "A person who has supreme power or authority",
       "options": [
         "Secular",
         "Sovereign",
@@ -4584,7 +4584,7 @@
     },
     {
       "id": 270,
-      "prompt": "Speaking disrespectfully about",
+      "prompt": "Speaking disrespectfully about sacred or religious things.",
       "options": [
         "Blasphemy",
         "Mystic",
@@ -4601,7 +4601,7 @@
     },
     {
       "id": 271,
-      "prompt": "A thing that can be easily carried",
+      "prompt": "A thing that can be easily carried by hands",
       "options": [
         "Export",
         "Import",
@@ -4635,7 +4635,7 @@
     },
     {
       "id": 273,
-      "prompt": "Athens was suffering under the",
+      "prompt": "Athens was suffering under the rule of a powerful small group that had no concern for the people's welfare.",
       "options": [
         "a democracy",
         "an oligarchy",
@@ -4652,7 +4652,7 @@
     },
     {
       "id": 274,
-      "prompt": "The evening time when the sun",
+      "prompt": "The evening time when the sun has just set and it is almost dark.",
       "options": [
         "Dusk",
         "Night",
@@ -4669,7 +4669,7 @@
     },
     {
       "id": 275,
-      "prompt": "Dealing with things in a practical",
+      "prompt": "Dealing with things in a practical and sensible way",
       "options": [
         "Pragmatic",
         "Sceptic",
@@ -4703,7 +4703,7 @@
     },
     {
       "id": 277,
-      "prompt": "That which is no longer in",
+      "prompt": "That which is no longer in existence",
       "options": [
         "Extinct",
         "Removed",
@@ -4720,7 +4720,7 @@
     },
     {
       "id": 278,
-      "prompt": "We, as human beings, have a",
+      "prompt": "We, as human beings, have a tendency of believing in the things that can be seen and touched.",
       "options": [
         "impalpable",
         "spiritual",
@@ -4754,7 +4754,7 @@
     },
     {
       "id": 280,
-      "prompt": "A performer’s first public",
+      "prompt": "A performer’s first public appearance",
       "options": [
         "Foundation",
         "Debut",
@@ -4771,7 +4771,7 @@
     },
     {
       "id": 281,
-      "prompt": "To go through an area making a",
+      "prompt": "To go through an area making a lot of noise and causing damage",
       "options": [
         "Brutality",
         "Cacophony",
@@ -4788,7 +4788,7 @@
     },
     {
       "id": 282,
-      "prompt": "The ship launched out on a",
+      "prompt": "The ship launched out on a journey by water or sea of discovery.",
       "options": [
         "voyage",
         "rendezvous",
@@ -4805,7 +4805,7 @@
     },
     {
       "id": 283,
-      "prompt": "The line, 'Round the rugged rocks",
+      "prompt": "The line, 'Round the rugged rocks the ragged rascal ran' uses the repetition of usually initial consonant sounds in two or more neighbouring words or syllables.",
       "options": [
         "alliteration",
         "epithet",
@@ -4822,7 +4822,7 @@
     },
     {
       "id": 284,
-      "prompt": "The soldier struck the enemy with",
+      "prompt": "The soldier struck the enemy with the short sword fixed onto the end of the gun.",
       "options": [
         "Baron",
         "Bayonet",
@@ -4839,7 +4839,7 @@
     },
     {
       "id": 285,
-      "prompt": "His parents didn’t allow him to",
+      "prompt": "His parents didn’t allow him to enrol in the arts college because he is a dabbler in arts, science or literature.",
       "options": [
         "Connoisseur",
         "Taciturn",
@@ -4890,7 +4890,7 @@
     },
     {
       "id": 288,
-      "prompt": "Hospital for people with mental",
+      "prompt": "Hospital for people with mental illnesses",
       "options": [
         "Druggist",
         "Shelter",
@@ -4907,7 +4907,7 @@
     },
     {
       "id": 289,
-      "prompt": "These glass windows are so old",
+      "prompt": "These glass windows are so old and one can't even see through them, they need to be replaced.",
       "options": [
         "Black",
         "Opaque",
@@ -4924,7 +4924,7 @@
     },
     {
       "id": 290,
-      "prompt": "A professional rider in horse",
+      "prompt": "A professional rider in horse races",
       "options": [
         "Batsman",
         "Jockey",
@@ -4941,7 +4941,7 @@
     },
     {
       "id": 291,
-      "prompt": "A woman having more than one",
+      "prompt": "A woman having more than one husband at the same time",
       "options": [
         "Monogamy",
         "Polymathy",
@@ -4958,7 +4958,7 @@
     },
     {
       "id": 292,
-      "prompt": "Attempting to impress by",
+      "prompt": "Attempting to impress by affecting greater importance or merit than is actually possessed",
       "options": [
         "Airy",
         "Pretentious",
@@ -4975,7 +4975,7 @@
     },
     {
       "id": 293,
-      "prompt": "A society or company provides",
+      "prompt": "A society or company provides these convenient features",
       "options": [
         "Equipment",
         "Facilitate",
@@ -4992,7 +4992,7 @@
     },
     {
       "id": 294,
-      "prompt": "A story intended to teach",
+      "prompt": "A story intended to teach moral lessons",
       "options": [
         "Parable",
         "Parole",
@@ -5009,7 +5009,7 @@
     },
     {
       "id": 295,
-      "prompt": "Feeling of being in a place before",
+      "prompt": "Feeling of being in a place before having already experienced the present situation",
       "options": [
         "Spirituality",
         "Delusion",
@@ -5026,7 +5026,7 @@
     },
     {
       "id": 296,
-      "prompt": "An unpleasant mixture of loud",
+      "prompt": "An unpleasant mixture of loud sounds.",
       "options": [
         "Irony",
         "Cacophony",
@@ -5043,7 +5043,7 @@
     },
     {
       "id": 297,
-      "prompt": "An open space usually",
+      "prompt": "An open space usually rectangular and enclosed in a building",
       "options": [
         "Quinton",
         "Quadrangle",
@@ -5060,7 +5060,7 @@
     },
     {
       "id": 298,
-      "prompt": "The act or process of going from",
+      "prompt": "The act or process of going from the simple or basic to the complex or advanced.",
       "options": [
         "Wither",
         "Evolution",
@@ -5077,7 +5077,7 @@
     },
     {
       "id": 299,
-      "prompt": "One who believes in the existence",
+      "prompt": "One who believes in the existence of God",
       "options": [
         "Atheist",
         "Fatalist",
@@ -5094,7 +5094,7 @@
     },
     {
       "id": 300,
-      "prompt": "A deal of agreement done in a",
+      "prompt": "A deal of agreement done in a company or firm.",
       "options": [
         "Conformity",
         "Acceptance",
@@ -5111,7 +5111,7 @@
     },
     {
       "id": 301,
-      "prompt": "The doctor who deals with the",
+      "prompt": "The doctor who deals with the female reproductive system.",
       "options": [
         "Orthodontist",
         "Cardiologist",
@@ -5162,7 +5162,7 @@
     },
     {
       "id": 304,
-      "prompt": "An area/place in which dead",
+      "prompt": "An area/place in which dead bodies are buried",
       "options": [
         "Clementi",
         "Cemetery",
@@ -5179,7 +5179,7 @@
     },
     {
       "id": 305,
-      "prompt": "He was promoted to a higher",
+      "prompt": "He was promoted to a higher position in the first year due to his careful nature and hard-working efforts.",
       "options": [
         "extraordinary",
         "diligence",
@@ -5230,7 +5230,7 @@
     },
     {
       "id": 308,
-      "prompt": "Rajan’s caused extremely painful",
+      "prompt": "Rajan’s caused extremely painful headaches.",
       "options": [
         "excruciating",
         "devastating",
@@ -5247,7 +5247,7 @@
     },
     {
       "id": 309,
-      "prompt": "A film shown during the day,",
+      "prompt": "A film shown during the day, especially in the afternoon",
       "options": [
         "Theatre",
         "Dramatics",
@@ -5264,7 +5264,7 @@
     },
     {
       "id": 310,
-      "prompt": "Select the option that can be used",
+      "prompt": "Select the option that can be used as a one-word substitute for the italicised segment in the given sentence. Tin is easy to shape in any desired form.",
       "options": [
         "rigid",
         "immutable",
@@ -5298,7 +5298,7 @@
     },
     {
       "id": 312,
-      "prompt": "The period of time in a person's",
+      "prompt": "The period of time in a person'sDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS life when they are developing into an adult",
       "options": [
         "Teenage",
         "Adolescence",
@@ -5315,7 +5315,7 @@
     },
     {
       "id": 313,
-      "prompt": "There was a huge fire for",
+      "prompt": "There was a huge fire for celebration on the occasion of Diwali.",
       "options": [
         "Flash",
         "Bonfire",
@@ -5349,7 +5349,7 @@
     },
     {
       "id": 315,
-      "prompt": "A doubtful look or examination of",
+      "prompt": "A doubtful look or examination of one's motives.",
       "options": [
         "Introspect",
         "Suspect",
@@ -5383,7 +5383,7 @@
     },
     {
       "id": 317,
-      "prompt": "Dwarfed varieties of trees and",
+      "prompt": "Dwarfed varieties of trees and shrubs in pots",
       "options": [
         "Bonafide",
         "Bonsai",
@@ -5400,7 +5400,7 @@
     },
     {
       "id": 318,
-      "prompt": "The patronage bestowed in",
+      "prompt": "The patronage bestowed in consideration of family relationships and not of merit.",
       "options": [
         "Egotism",
         "Neologism",
@@ -5417,7 +5417,7 @@
     },
     {
       "id": 319,
-      "prompt": "A place for storage of arms and",
+      "prompt": "A place for storage of arms and ammunition",
       "options": [
         "Mint",
         "Monastery",
@@ -5468,7 +5468,7 @@
     },
     {
       "id": 322,
-      "prompt": "Someone who speaks more than",
+      "prompt": "Someone who speaks more than one language",
       "options": [
         "Polyglot",
         "Insolvent",
@@ -5485,7 +5485,7 @@
     },
     {
       "id": 323,
-      "prompt": "A news article that reports the",
+      "prompt": "A news article that reports the recent death of a person.",
       "options": [
         "Centenary",
         "Culinary",
@@ -5502,7 +5502,7 @@
     },
     {
       "id": 324,
-      "prompt": "The original inhabitants of a",
+      "prompt": "The original inhabitants of a country",
       "options": [
         "Aborigines",
         "Primitive",
@@ -5536,7 +5536,7 @@
     },
     {
       "id": 326,
-      "prompt": "Choose the most appropriate",
+      "prompt": "Choose the most appropriate meaning of the underlined phrase. He's still keeping his chin up despite all his health problems.",
       "options": [
         "To stay safe during difficulty",
         "To keep one’s chin clean and moist",
@@ -5553,7 +5553,7 @@
     },
     {
       "id": 327,
-      "prompt": "Referring to something from the",
+      "prompt": "Referring to something from the past of high quality",
       "options": [
         "Outdated",
         "Vintage",
@@ -5570,7 +5570,7 @@
     },
     {
       "id": 328,
-      "prompt": "During vacations, Geeta saw a",
+      "prompt": "During vacations, Geeta saw a saltwater lake separated from the sea by rocks and sand where she did kayak for the first time.",
       "options": [
         "sea",
         "ditch",
@@ -5587,7 +5587,7 @@
     },
     {
       "id": 329,
-      "prompt": "The liberal leadership simply",
+      "prompt": "The liberal leadership simply joined the ranks of the existing government by the few.",
       "options": [
         "Plutocracy",
         "Oligarchy",
@@ -5604,7 +5604,7 @@
     },
     {
       "id": 330,
-      "prompt": "A person who is filled with",
+      "prompt": "A person who is filled with excessive enthusiasm",
       "options": [
         "Horticulturist",
         "Narcissist",
@@ -5621,7 +5621,7 @@
     },
     {
       "id": 331,
-      "prompt": "I do not like him because he",
+      "prompt": "I do not like him because he always disapproves the things or opinions of others.",
       "options": [
         "is jealous of other people",
         "is critical of others",
@@ -5638,7 +5638,7 @@
     },
     {
       "id": 332,
-      "prompt": "A soldier who fights for the sake",
+      "prompt": "A soldier who fights for the sake of money",
       "options": [
         "Marine",
         "Mercenary",
@@ -5672,7 +5672,7 @@
     },
     {
       "id": 334,
-      "prompt": "A mythological animal with one",
+      "prompt": "A mythological animal with one horn on its forehead",
       "options": [
         "Unific",
         "Unipod",
@@ -5689,7 +5689,7 @@
     },
     {
       "id": 335,
-      "prompt": "One who does not express",
+      "prompt": "One who does not express himself freely.",
       "options": [
         "Outgoing",
         "Introvert",
@@ -5706,7 +5706,7 @@
     },
     {
       "id": 336,
-      "prompt": "Select the word which means the",
+      "prompt": "Select the word which means the same as the group of words underlined in the given sentence. Today, a man who betrayed his own country in exchange for money was the topic of every news report.",
       "options": [
         "Gangster",
         "Traitor",
@@ -5723,7 +5723,7 @@
     },
     {
       "id": 337,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate option that can substitute the underlined segment in the given sentence. Ratul’s capability of being able to speak two languages is apt for this post.",
       "options": [
         "bidialectical",
         "lingual",
@@ -5740,7 +5740,7 @@
     },
     {
       "id": 338,
-      "prompt": "Modesty or shyness resulting",
+      "prompt": "Modesty or shyness resulting from a lack of self-confidence",
       "options": [
         "Determination",
         "Assurance",
@@ -5757,7 +5757,7 @@
     },
     {
       "id": 339,
-      "prompt": "A person who is critical of the",
+      "prompt": "A person who is critical of the motives of others",
       "options": [
         "Cynic",
         "Chauffeur",
@@ -5774,7 +5774,7 @@
     },
     {
       "id": 340,
-      "prompt": "A person who is a lover of",
+      "prompt": "A person who is a lover of women.",
       "options": [
         "Monogamist",
         "Misogynist",
@@ -5791,7 +5791,7 @@
     },
     {
       "id": 341,
-      "prompt": "Someone who does not care",
+      "prompt": "Someone who does not care about rules",
       "options": [
         "Nonconformist",
         "Illegitimate",
@@ -5808,7 +5808,7 @@
     },
     {
       "id": 342,
-      "prompt": "The state or condition of not",
+      "prompt": "The state or condition of not being in agreement, accordance, or in harmony",
       "options": [
         "Liquidity",
         "Incongruence",
@@ -5842,7 +5842,7 @@
     },
     {
       "id": 344,
-      "prompt": "The reasons or intentions that",
+      "prompt": "The reasons or intentions that cause a particular set of beliefs or actions",
       "options": [
         "Rationale",
         "Practical",
@@ -5859,7 +5859,7 @@
     },
     {
       "id": 345,
-      "prompt": "To move into or through",
+      "prompt": "To move into or through something",
       "options": [
         "Perpetuate",
         "Penetrate",
@@ -5876,7 +5876,7 @@
     },
     {
       "id": 346,
-      "prompt": "A judgement or verdict that a",
+      "prompt": "A judgement or verdict that a person is not guilty of the crime with which he has been charged",
       "options": [
         "Petition",
         "Appellant",
@@ -5910,7 +5910,7 @@
     },
     {
       "id": 348,
-      "prompt": "She was engaged to be married",
+      "prompt": "She was engaged to be married to him.",
       "options": [
         "betrothed",
         "betrayed",
@@ -5927,7 +5927,7 @@
     },
     {
       "id": 349,
-      "prompt": "A person who eats meat but not",
+      "prompt": "A person who eats meat but not seafood or fish",
       "options": [
         "Herbivorous",
         "Carnitarian",
@@ -5961,7 +5961,7 @@
     },
     {
       "id": 351,
-      "prompt": "An extremely abnormal fear of",
+      "prompt": "An extremely abnormal fear of confined space",
       "options": [
         "Claustrophobia",
         "Acrophobia",
@@ -5978,7 +5978,7 @@
     },
     {
       "id": 352,
-      "prompt": "To frighten or threaten someone,",
+      "prompt": "To frighten or threaten someone, usually in order to persuade the person to do something he or she does not wish to do",
       "options": [
         "Intimidate",
         "Forceless",
@@ -6029,7 +6029,7 @@
     },
     {
       "id": 355,
-      "prompt": "A person in charge of the old",
+      "prompt": "A person in charge of the old people’s home or a hostel",
       "options": [
         "Watchman",
         "Guard",
@@ -6063,7 +6063,7 @@
     },
     {
       "id": 357,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate option to substitute the underlined segment. Ruby fell victim to the green eyed monster.",
       "options": [
         "love",
         "flattery",
@@ -6080,7 +6080,7 @@
     },
     {
       "id": 358,
-      "prompt": "A person who physically travels in",
+      "prompt": "A person who physically travels in space.",
       "options": [
         "Anarchist",
         "Pilot",
@@ -6097,7 +6097,7 @@
     },
     {
       "id": 359,
-      "prompt": "Book written by an author on his",
+      "prompt": "Book written by an author on his own life",
       "options": [
         "Biography",
         "Historiography",
@@ -6148,7 +6148,7 @@
     },
     {
       "id": 362,
-      "prompt": "An act of copying the behavior or",
+      "prompt": "An act of copying the behavior or speech of other people.",
       "options": [
         "Pedantry",
         "Mimicry",
@@ -6165,7 +6165,7 @@
     },
     {
       "id": 363,
-      "prompt": "Beliefs or incidents that happen in",
+      "prompt": "Beliefs or incidents that happen in a way which cannot be explained by reason or science.",
       "options": [
         "Marvels",
         "Wonders",
@@ -6182,7 +6182,7 @@
     },
     {
       "id": 364,
-      "prompt": "A person who renounces a",
+      "prompt": "A person who renounces a religious or political belief or principle.",
       "options": [
         "Agnostic",
         "Ascetic",
@@ -6216,7 +6216,7 @@
     },
     {
       "id": 366,
-      "prompt": "A study of the conditions and",
+      "prompt": "A study of the conditions and structure of the earth",
       "options": [
         "Geology",
         "Geography",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": 369,
-      "prompt": "A person who investigates,",
+      "prompt": "A person who investigates, reports on, and helps settle complaints",
       "options": [
         "Spokesman",
         "Bildungsroman",
@@ -6284,7 +6284,7 @@
     },
     {
       "id": 370,
-      "prompt": "A speech in a play that the",
+      "prompt": "A speech in a play that the character speaks to himself or herself or to the people watching rather than to the other characters",
       "options": [
         "Soliloquy",
         "Scream",
@@ -6301,7 +6301,7 @@
     },
     {
       "id": 371,
-      "prompt": "The arrangement of events or",
+      "prompt": "The arrangement of events or dates in the order of their occurrence.",
       "options": [
         "Chronology",
         "Topography",
@@ -6318,7 +6318,7 @@
     },
     {
       "id": 372,
-      "prompt": "The inability to obtain adequate",
+      "prompt": "The inability to obtain adequate sleep",
       "options": [
         "Mythomania",
         "Andromania",
@@ -6335,7 +6335,7 @@
     },
     {
       "id": 373,
-      "prompt": "A drug or other substance that",
+      "prompt": "A drug or other substance that induces sleep",
       "options": [
         "Energetic",
         "Reviver",
@@ -6352,7 +6352,7 @@
     },
     {
       "id": 374,
-      "prompt": "A sudden violent event that brings",
+      "prompt": "A sudden violent event that brings about great loss or destruction",
       "options": [
         "Blockbuster",
         "Farce",
@@ -6369,7 +6369,7 @@
     },
     {
       "id": 375,
-      "prompt": "Someone who has too much",
+      "prompt": "Someone who has too much admiration for himself or herself",
       "options": [
         "Narcissist",
         "Pantheist",
@@ -6386,7 +6386,7 @@
     },
     {
       "id": 376,
-      "prompt": "the husks of corn or other grains",
+      "prompt": "the husks of corn or other grains separated by winnowing or threshing.",
       "options": [
         "hay",
         "peel",
@@ -6420,7 +6420,7 @@
     },
     {
       "id": 378,
-      "prompt": "one who is skilled and eloquent in",
+      "prompt": "one who is skilled and eloquent in public speaking",
       "options": [
         "lecturer",
         "spokesperson",
@@ -6437,7 +6437,7 @@
     },
     {
       "id": 379,
-      "prompt": "a legal document authorizing the",
+      "prompt": "a legal document authorizing the police or another body to make an arrest or search premises",
       "options": [
         "decree",
         "warrant",
@@ -6454,7 +6454,7 @@
     },
     {
       "id": 380,
-      "prompt": "a statement open to more than",
+      "prompt": "a statement open to more than one interpretation",
       "options": [
         "explicit",
         "palpable",
@@ -6505,7 +6505,7 @@
     },
     {
       "id": 383,
-      "prompt": "a wooden frame for holding an",
+      "prompt": "a wooden frame for holding an artist's work while it is being painted or drawn",
       "options": [
         "lectern",
         "platform",
@@ -6522,7 +6522,7 @@
     },
     {
       "id": 384,
-      "prompt": "There is a place for grains in the",
+      "prompt": "There is a place for grains in the backyard of this house.",
       "options": [
         "apiary",
         "archive",
@@ -6539,7 +6539,7 @@
     },
     {
       "id": 385,
-      "prompt": "She was known for her ability to",
+      "prompt": "She was known for her ability to communicate effectively and express herself clearly in writing and speaking.",
       "options": [
         "incoherence",
         "articulation",
@@ -6556,7 +6556,7 @@
     },
     {
       "id": 386,
-      "prompt": "The pandemic deeply affected",
+      "prompt": "The pandemic deeply affected small business owners, as they have no means of livelihood left.",
       "options": [
         "Worker",
         "Mason",
@@ -6573,7 +6573,7 @@
     },
     {
       "id": 387,
-      "prompt": "Working or operating quickly and",
+      "prompt": "Working or operating quickly and effectively in an organised way",
       "options": [
         "Effusive",
         "Extensive",
@@ -6590,7 +6590,7 @@
     },
     {
       "id": 388,
-      "prompt": "How did you become interested in",
+      "prompt": "How did you become interested in learning the art of producing beautiful handwriting?",
       "options": [
         "Calligraphy",
         "Lexicography",
@@ -6607,7 +6607,7 @@
     },
     {
       "id": 389,
-      "prompt": "A notice of the death of a person,",
+      "prompt": "A notice of the death of a person, often with a biographical sketch, as in a newspaper.",
       "options": [
         "Obituary",
         "Elegy",
@@ -6624,7 +6624,7 @@
     },
     {
       "id": 390,
-      "prompt": "One who settles in another",
+      "prompt": "One who settles in another country",
       "options": [
         "Traveller",
         "Resident",
@@ -6658,7 +6658,7 @@
     },
     {
       "id": 392,
-      "prompt": "Payal’s father was seen",
+      "prompt": "Payal’s father was seen desperately searching for the medicine that can counteract the effect of a venomous snakebite in Parul’s left hand.",
       "options": [
         "remedy",
         "antiseptic",
@@ -6692,7 +6692,7 @@
     },
     {
       "id": 394,
-      "prompt": "A keeper or custodian of a",
+      "prompt": "A keeper or custodian of a museum or other collection",
       "options": [
         "Cartographer",
         "Chauffeur",
@@ -6709,7 +6709,7 @@
     },
     {
       "id": 395,
-      "prompt": "A pretence of having a virtuous",
+      "prompt": "A pretence of having a virtuous character, moral or religious beliefs or principles, etc., that one does not really possess.",
       "options": [
         "Gullibility",
         "Shrewdness",
@@ -6726,7 +6726,7 @@
     },
     {
       "id": 396,
-      "prompt": "A state of intense happiness and",
+      "prompt": "A state of intense happiness and self-confidence.",
       "options": [
         "Euphoria",
         "Touché",
@@ -6777,7 +6777,7 @@
     },
     {
       "id": 399,
-      "prompt": "To make a low continuous",
+      "prompt": "To make a low continuous vibratory sound expressing contentment (of a cat).",
       "options": [
         "To meow",
         "To buzz",
@@ -6794,7 +6794,7 @@
     },
     {
       "id": 400,
-      "prompt": "Minimum people needed for a",
+      "prompt": "Minimum people needed for a meeting",
       "options": [
         "Forum",
         "Quorum",
@@ -6828,7 +6828,7 @@
     },
     {
       "id": 402,
-      "prompt": "Something of monstrous size or",
+      "prompt": "Something of monstrous size or power",
       "options": [
         "Heavyweight",
         "Bulk",
@@ -6845,7 +6845,7 @@
     },
     {
       "id": 403,
-      "prompt": "An ability to do several things at",
+      "prompt": "An ability to do several things at the same time.",
       "options": [
         "Unitasking",
         "Indictment",
@@ -6862,7 +6862,7 @@
     },
     {
       "id": 404,
-      "prompt": "Spoken or done without any",
+      "prompt": "Spoken or done without any previous thought or preparation",
       "options": [
         "Inaugural",
         "Extempore",
@@ -6879,7 +6879,7 @@
     },
     {
       "id": 405,
-      "prompt": "Someone who pretends to have",
+      "prompt": "Someone who pretends to have certain moral standards while secretively that person practices those very moral lapses.",
       "options": [
         "Actor",
         "Hypocrite",
@@ -6913,7 +6913,7 @@
     },
     {
       "id": 407,
-      "prompt": "A disease prevalent in a",
+      "prompt": "A disease prevalent in a community or a specific region at a specific time, affecting a large area.",
       "options": [
         "Eradicate",
         "Epidemic",
@@ -6930,7 +6930,7 @@
     },
     {
       "id": 408,
-      "prompt": "He was not willing to attend the",
+      "prompt": "He was not willing to attend the technical session of the conference.",
       "options": [
         "comprehensive",
         "reluctant",
@@ -6964,7 +6964,7 @@
     },
     {
       "id": 410,
-      "prompt": "Very attractive and easy to feel",
+      "prompt": "Very attractive and easy to feel love for",
       "options": [
         "Adorable",
         "Flamboyant",
@@ -6981,7 +6981,7 @@
     },
     {
       "id": 411,
-      "prompt": "An animal or a person that eats",
+      "prompt": "An animal or a person that eats all types of food, especially plants and meat",
       "options": [
         "Vegetarian",
         "Omnivore",
@@ -6998,7 +6998,7 @@
     },
     {
       "id": 412,
-      "prompt": "Extremely beautiful, elaborate or",
+      "prompt": "Extremely beautiful, elaborate or impressive",
       "options": [
         "Transient",
         "Magnificent",
@@ -7015,7 +7015,7 @@
     },
     {
       "id": 413,
-      "prompt": "A structure in the garden where",
+      "prompt": "A structure in the garden where climbing plants can grow and people can walk under",
       "options": [
         "Pergola",
         "Tomb",
@@ -7032,7 +7032,7 @@
     },
     {
       "id": 414,
-      "prompt": "A collection of historical",
+      "prompt": "A collection of historical documents or records providing information about a place, institution, or group of people",
       "options": [
         "Asylum",
         "Museum",
@@ -7066,7 +7066,7 @@
     },
     {
       "id": 416,
-      "prompt": "One who goes from place to",
+      "prompt": "One who goes from place to place, begging",
       "options": [
         "Malleable",
         "Mendicant",
@@ -7083,7 +7083,7 @@
     },
     {
       "id": 417,
-      "prompt": "To tell the nature of a disease by",
+      "prompt": "To tell the nature of a disease by its symptoms.",
       "options": [
         "Design",
         "Diagnosis",
@@ -7100,7 +7100,7 @@
     },
     {
       "id": 418,
-      "prompt": "A book published after author's",
+      "prompt": "A book published after author's death.",
       "options": [
         "Predecessor publication",
         "Posthumous publication",
@@ -7117,7 +7117,7 @@
     },
     {
       "id": 419,
-      "prompt": "Requiring exceptional skill or",
+      "prompt": "Requiring exceptional skill or caution in performance or handling",
       "options": [
         "Blunt",
         "Abstract",
@@ -7151,7 +7151,7 @@
     },
     {
       "id": 421,
-      "prompt": "To go away suddenly and secretly",
+      "prompt": "To go away suddenly and secretly in order to escape from somewhere",
       "options": [
         "Abscond",
         "Vanish",
@@ -7168,7 +7168,7 @@
     },
     {
       "id": 422,
-      "prompt": "Many people fought to put an end",
+      "prompt": "Many people fought to put an end to slavery during the civil war.",
       "options": [
         "abolish",
         "absorb",
@@ -7202,7 +7202,7 @@
     },
     {
       "id": 424,
-      "prompt": "The action of formally accusing a",
+      "prompt": "The action of formally accusing a public official of a serious offence",
       "options": [
         "Impeachment",
         "Condemnation",
@@ -7219,7 +7219,7 @@
     },
     {
       "id": 425,
-      "prompt": "A number which is used to divide",
+      "prompt": "A number which is used to divideDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS another number",
       "options": [
         "Divisible",
         "Quotient",
@@ -7236,7 +7236,7 @@
     },
     {
       "id": 426,
-      "prompt": "A person who loves or collects",
+      "prompt": "A person who loves or collects books",
       "options": [
         "Anglophile",
         "Heliophile",
@@ -7270,7 +7270,7 @@
     },
     {
       "id": 428,
-      "prompt": "He simply continued to say",
+      "prompt": "He simply continued to say something in order to convey information in a calm voice.",
       "options": [
         "dictate",
         "teach",
@@ -7287,7 +7287,7 @@
     },
     {
       "id": 429,
-      "prompt": "A thing which happens every two",
+      "prompt": "A thing which happens every two years",
       "options": [
         "Century",
         "Annual",
@@ -7304,7 +7304,7 @@
     },
     {
       "id": 430,
-      "prompt": "A person who is known for his",
+      "prompt": "A person who is known for his hatred towards the entire mankind.",
       "options": [
         "Insolvent",
         "Philogynist",
@@ -7321,7 +7321,7 @@
     },
     {
       "id": 431,
-      "prompt": "A poem of lamentation on the",
+      "prompt": "A poem of lamentation on the death of someone loved and admired.",
       "options": [
         "Soliloquy",
         "Elegy",
@@ -7355,7 +7355,7 @@
     },
     {
       "id": 433,
-      "prompt": "She proposed to write the life",
+      "prompt": "She proposed to write the life history of the famous poet.",
       "options": [
         "novel",
         "biography",
@@ -7372,7 +7372,7 @@
     },
     {
       "id": 434,
-      "prompt": "Raymond has opted the study of",
+      "prompt": "Raymond has opted the study of religion as his major subject in graduation.",
       "options": [
         "Psephology",
         "Philology",
@@ -7389,7 +7389,7 @@
     },
     {
       "id": 435,
-      "prompt": "An examination of a body after",
+      "prompt": "An examination of a body after death",
       "options": [
         "Post room",
         "Post death",
@@ -7406,7 +7406,7 @@
     },
     {
       "id": 436,
-      "prompt": "Hundreds of people were",
+      "prompt": "Hundreds of people were removed from a place by the government recently due to a war-like situation.",
       "options": [
         "assassinated",
         "evacuated",
@@ -7423,7 +7423,7 @@
     },
     {
       "id": 437,
-      "prompt": "A person living in solitude like a",
+      "prompt": "A person living in solitude like a saint for religious practices.",
       "options": [
         "Hermit",
         "Cretin",
@@ -7440,7 +7440,7 @@
     },
     {
       "id": 438,
-      "prompt": "One who lends money to others",
+      "prompt": "One who lends money to others at a very high rate of interest.",
       "options": [
         "Curator",
         "Bankrupt",
@@ -7457,7 +7457,7 @@
     },
     {
       "id": 439,
-      "prompt": "I suppose dancing that well would",
+      "prompt": "I suppose dancing that well would require a lot of actual application.",
       "options": [
         "prevention",
         "perseverance",
@@ -7474,7 +7474,7 @@
     },
     {
       "id": 440,
-      "prompt": "A small shop that sells",
+      "prompt": "A small shop that sells fashionable clothes",
       "options": [
         "Boutique",
         "Store",
@@ -7525,7 +7525,7 @@
     },
     {
       "id": 443,
-      "prompt": "Pandemics have often been",
+      "prompt": "Pandemics have often been caused by a disease that spreads by physical touch or contact.",
       "options": [
         "are contagious",
         "are vigorous",
@@ -7542,7 +7542,7 @@
     },
     {
       "id": 444,
-      "prompt": "A person who regards the whole",
+      "prompt": "A person who regards the whole world as his country",
       "options": [
         "Cosmopolitan",
         "Pacifist",
@@ -7559,7 +7559,7 @@
     },
     {
       "id": 445,
-      "prompt": "A place where water is collected",
+      "prompt": "A place where water is collected and stored for future use.",
       "options": [
         "Aquarium",
         "Resort",
@@ -7576,7 +7576,7 @@
     },
     {
       "id": 446,
-      "prompt": "They allowed us to powder by",
+      "prompt": "They allowed us to powder by crushing the spices, pick over the raisins and lick the stirring spoons.",
       "options": [
         "gain",
         "greet",
@@ -7593,7 +7593,7 @@
     },
     {
       "id": 447,
-      "prompt": "Copying someone else's work and",
+      "prompt": "Copying someone else's work and trying to submit it as your own",
       "options": [
         "Plagiarism",
         "Polygamy",
@@ -7661,7 +7661,7 @@
     },
     {
       "id": 451,
-      "prompt": "The vehicle which carries dead",
+      "prompt": "The vehicle which carries dead bodies",
       "options": [
         "Coffin",
         "Hearse",
@@ -7678,7 +7678,7 @@
     },
     {
       "id": 452,
-      "prompt": "Due to the official visit to a",
+      "prompt": "Due to the official visit to a company, Rajiv has a mental or emotional strain caused by demanding circumstances.",
       "options": [
         "reluctance",
         "stress",
@@ -7695,7 +7695,7 @@
     },
     {
       "id": 453,
-      "prompt": "A book where names and",
+      "prompt": "A book where names and addresses of people living in an area are kept",
       "options": [
         "Diary",
         "Encyclopaedia",
@@ -7712,7 +7712,7 @@
     },
     {
       "id": 454,
-      "prompt": "Despite being his competitor,",
+      "prompt": "Despite being his competitor, John was generous and forgiving in defeat and congratulated his opponent on his well-deserved victory.",
       "options": [
         "altruistic",
         "magnanimous",
@@ -7729,7 +7729,7 @@
     },
     {
       "id": 455,
-      "prompt": "The doctor who treats bone",
+      "prompt": "The doctor who treats boneDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS problems",
       "options": [
         "Obstetrician",
         "Gynaecologist",
@@ -7746,7 +7746,7 @@
     },
     {
       "id": 456,
-      "prompt": "A person who conforms to",
+      "prompt": "A person who conforms to accepted behaviour or established practices.",
       "options": [
         "Psychologist",
         "Conformist",
@@ -7763,7 +7763,7 @@
     },
     {
       "id": 457,
-      "prompt": "The music filled the room with a",
+      "prompt": "The music filled the room with a lot of happiness, expressing joyful melodies that brought smiles to everyone's faces.",
       "options": [
         "surprise",
         "joy",
@@ -7797,7 +7797,7 @@
     },
     {
       "id": 459,
-      "prompt": "A person who lives a secluded or",
+      "prompt": "A person who lives a secluded or solitary life, often for religious reasons",
       "options": [
         "Extrovert",
         "Chauvinist",
@@ -7814,7 +7814,7 @@
     },
     {
       "id": 460,
-      "prompt": "Argue loudly about unimportant",
+      "prompt": "Argue loudly about unimportant things",
       "options": [
         "Maintain",
         "Disagree",
@@ -7831,7 +7831,7 @@
     },
     {
       "id": 461,
-      "prompt": "Choose the correct meaning of",
+      "prompt": "Choose the correct meaning of the underlined word in the given sentence. Don't you think the dog would need a kennel to stay?",
       "options": [
         "A type of toy",
         "A type of seed",
@@ -7865,7 +7865,7 @@
     },
     {
       "id": 463,
-      "prompt": "Done without conscious control;",
+      "prompt": "Done without conscious control; unintentional",
       "options": [
         "Invincible",
         "Invoke",
@@ -7882,7 +7882,7 @@
     },
     {
       "id": 464,
-      "prompt": "The company was known for its",
+      "prompt": "The company was known for its deserving respect or admiration business practices and honest and fair ethical standards.",
       "options": [
         "honourable",
         "decent",
@@ -7916,7 +7916,7 @@
     },
     {
       "id": 466,
-      "prompt": "The character and atmosphere of",
+      "prompt": "The character and atmosphere of a place",
       "options": [
         "Haven",
         "Cartography",
@@ -7950,7 +7950,7 @@
     },
     {
       "id": 468,
-      "prompt": "Showing or having skill, especially",
+      "prompt": "Showing or having skill, especially with the hands.",
       "options": [
         "Meticulous",
         "Pertinent",
@@ -7967,7 +7967,7 @@
     },
     {
       "id": 469,
-      "prompt": "A group of people, typically with",
+      "prompt": "A group of people, typically with vehicles or animals, travelling together",
       "options": [
         "Alibi",
         "Anachronism Troupe",
@@ -7984,7 +7984,7 @@
     },
     {
       "id": 470,
-      "prompt": "Mahatma Gandhi is one of the",
+      "prompt": "Mahatma Gandhi is one of the complete leaders that the world has ever seen.",
       "options": [
         "open and above board",
         "often and often",
@@ -8018,7 +8018,7 @@
     },
     {
       "id": 472,
-      "prompt": "Animals especially on a farm,",
+      "prompt": "Animals especially on a farm, regarded as an asset.",
       "options": [
         "Livid",
         "Livery stable",
@@ -8035,7 +8035,7 @@
     },
     {
       "id": 473,
-      "prompt": "The king’s coronation ceremony",
+      "prompt": "The king’s coronation ceremony was a grand affair, with all the nobles and dignitaries dressed in their finest insignia of royalty.",
       "options": [
         "ornaments",
         "regalia",
@@ -8052,7 +8052,7 @@
     },
     {
       "id": 474,
-      "prompt": "One who possesses outstanding",
+      "prompt": "One who possesses outstanding technical ability in a particular art or field.",
       "options": [
         "Virtuous",
         "Virtuoso",
@@ -8069,7 +8069,7 @@
     },
     {
       "id": 475,
-      "prompt": "The allowance which is paid to",
+      "prompt": "The allowance which is paid to wife on legal separation",
       "options": [
         "Racism",
         "Dowry",
@@ -8086,7 +8086,7 @@
     },
     {
       "id": 476,
-      "prompt": "A word or a phrase formed by",
+      "prompt": "A word or a phrase formed by rearranging a different word",
       "options": [
         "Anaphora",
         "Amateur",
@@ -8103,7 +8103,7 @@
     },
     {
       "id": 477,
-      "prompt": "A person who believes that all",
+      "prompt": "A person who believes that all events are predetermined or subject to fate.",
       "options": [
         "Fatalist",
         "Credulous",
@@ -8120,7 +8120,7 @@
     },
     {
       "id": 478,
-      "prompt": "WHO is an organisation that",
+      "prompt": "WHO is an organisation that raises money for a particular cause.",
       "options": [
         "donation",
         "volunteer",
@@ -8137,7 +8137,7 @@
     },
     {
       "id": 479,
-      "prompt": "A form of government in which",
+      "prompt": "A form of government in which power is held by the nobility",
       "options": [
         "Democracy",
         "Aristocracy",
@@ -8154,7 +8154,7 @@
     },
     {
       "id": 480,
-      "prompt": "An amount of money that is paid",
+      "prompt": "An amount of money that is paid at one time",
       "options": [
         "Advanced amount",
         "Credit",
@@ -8171,7 +8171,7 @@
     },
     {
       "id": 481,
-      "prompt": "A person who is against the use",
+      "prompt": "A person who is against the use of violence and war to settle disputes",
       "options": [
         "Fatalist",
         "Hedonist",
@@ -8188,7 +8188,7 @@
     },
     {
       "id": 482,
-      "prompt": "One who is new to some trade or",
+      "prompt": "One who is new to some trade or profession",
       "options": [
         "Novice",
         "Philistine",
@@ -8205,7 +8205,7 @@
     },
     {
       "id": 483,
-      "prompt": "He became a teetotaller after",
+      "prompt": "He became a teetotaller after witnessing the negative effects of alcohol on his friends.",
       "options": [
         "Someone who does not consume",
         "A person who likes to eat and drink",
@@ -8222,7 +8222,7 @@
     },
     {
       "id": 484,
-      "prompt": "The old castle, with its towering",
+      "prompt": "The old castle, with its towering walls, creaky gates, and secret passages, was the perfect example of a medieval fortress.",
       "options": [
         "epicentre",
         "crux",
@@ -8239,7 +8239,7 @@
     },
     {
       "id": 485,
-      "prompt": "The schedule was capable of",
+      "prompt": "The schedule was capable of bending easily without breaking and able to be easily modified.",
       "options": [
         "adherent",
         "inadaptable",
@@ -8256,7 +8256,7 @@
     },
     {
       "id": 486,
-      "prompt": "He tends to put off doing his",
+      "prompt": "He tends to put off doing his work until the last minute, leaving important tasks unfinished and causing himself unnecessary stress.",
       "options": [
         "decline",
         "adjourn",
@@ -8273,7 +8273,7 @@
     },
     {
       "id": 487,
-      "prompt": "Unpleasantly rough or sharp,",
+      "prompt": "Unpleasantly rough or sharp, especially to the senses, cruel",
       "options": [
         "Haslet",
         "Hart",
@@ -8290,7 +8290,7 @@
     },
     {
       "id": 488,
-      "prompt": "An imperfection; a blemish, a",
+      "prompt": "An imperfection; a blemish, a crack",
       "options": [
         "Flaunt",
         "Fleck",
@@ -8307,7 +8307,7 @@
     },
     {
       "id": 489,
-      "prompt": "The child was not guilty of any",
+      "prompt": "The child was not guilty of any wrongdoing and lacked knowledge or awareness of wrongdoing.",
       "options": [
         "ignorant",
         "inexperienced",
@@ -8324,7 +8324,7 @@
     },
     {
       "id": 490,
-      "prompt": "After the scandal, the king was",
+      "prompt": "After the scandal, the king was left with no choice but to announce his act of renouncing the throne.",
       "options": [
         "coronation",
         "extradition",
@@ -8341,7 +8341,7 @@
     },
     {
       "id": 491,
-      "prompt": "Free time; time at one's own",
+      "prompt": "Free time; time at one's own disposal",
       "options": [
         "Leisure",
         "Legible",
@@ -8358,7 +8358,7 @@
     },
     {
       "id": 492,
-      "prompt": "‘A Red, Red Rose’ by Robert Burns",
+      "prompt": "‘A Red, Red Rose’ by Robert Burns is a poem that tells a story and has a regular rhythm and rhyme scheme.",
       "options": [
         "epic",
         "haiku",
@@ -8375,7 +8375,7 @@
     },
     {
       "id": 493,
-      "prompt": "Kidney beans were boiled quickly",
+      "prompt": "Kidney beans were boiled quickly when Nisha added a substance that speeds up a chemical reaction without being consumed by the reaction itself.",
       "options": [
         "reactant",
         "catalyst",
@@ -8392,7 +8392,7 @@
     },
     {
       "id": 494,
-      "prompt": "As I walked through the old town,",
+      "prompt": "As I walked through the old town, I couldn't help but feel a sentimental longing for the simpler times of my childhood.",
       "options": [
         "affection",
         "homesickness",
@@ -8409,7 +8409,7 @@
     },
     {
       "id": 495,
-      "prompt": "Collection of written or spoken",
+      "prompt": "Collection of written or spoken texts.",
       "options": [
         "Data bank",
         "Dictionary",
@@ -8426,7 +8426,7 @@
     },
     {
       "id": 496,
-      "prompt": "A particular form of a language",
+      "prompt": "A particular form of a language which is peculiar to a specific region or social group.",
       "options": [
         "Singular",
         "Slang",
@@ -8443,7 +8443,7 @@
     },
     {
       "id": 497,
-      "prompt": "One who studies the evolution of",
+      "prompt": "One who studies the evolution of mankind",
       "options": [
         "Anarchist",
         "Amateur",
@@ -8477,7 +8477,7 @@
     },
     {
       "id": 499,
-      "prompt": "A person who believes that laws",
+      "prompt": "A person who believes that laws and governments are not necessary.",
       "options": [
         "Antagonist",
         "Antichrist",
@@ -8494,7 +8494,7 @@
     },
     {
       "id": 500,
-      "prompt": "A book or set of books giving",
+      "prompt": "A book or set of books giving information about all areas of knowledge",
       "options": [
         "Encyclopedia",
         "Dictionary",
@@ -8528,7 +8528,7 @@
     },
     {
       "id": 502,
-      "prompt": "Any female animal which feeds",
+      "prompt": "Any female animal which feeds its young on milk from her own body",
       "options": [
         "Vertebrate",
         "Parasite",
@@ -8562,7 +8562,7 @@
     },
     {
       "id": 504,
-      "prompt": "Only the artists who make",
+      "prompt": "Only the artists who make sculptures are allowed to take part in exhibitions.",
       "options": [
         "Painter",
         "Artisan",
@@ -8579,7 +8579,7 @@
     },
     {
       "id": 505,
-      "prompt": "A similarity between like features",
+      "prompt": "A similarity between like features of two things, on which a comparison may be based.",
       "options": [
         "Analogy",
         "Amalgamation",
@@ -8596,7 +8596,7 @@
     },
     {
       "id": 506,
-      "prompt": "A group of people travelling",
+      "prompt": "A group of people travelling together in a van",
       "options": [
         "Gypsies",
         "Caravan",
@@ -8613,7 +8613,7 @@
     },
     {
       "id": 507,
-      "prompt": "A detailed description of a series",
+      "prompt": "A detailed description of a series of real or fictional events taking place over a long period of time",
       "options": [
         "Witness",
         "Journal",
@@ -8630,7 +8630,7 @@
     },
     {
       "id": 508,
-      "prompt": "Select the most appropriate",
+      "prompt": "Select the most appropriate meaning of the given word. Harangue",
       "options": [
         "Strict disciplinarian",
         "Breaker of idols",
@@ -8647,7 +8647,7 @@
     },
     {
       "id": 509,
-      "prompt": "The traffic sergeant proved",
+      "prompt": "The traffic sergeant proved through the test that Raj was under the influence of drugs and alcohol.",
       "options": [
         "inebriated",
         "simonised",
@@ -8664,7 +8664,7 @@
     },
     {
       "id": 510,
-      "prompt": "A large number of fish swimming",
+      "prompt": "A large number of fish swimming together",
       "options": [
         "Shoal",
         "Stream",
@@ -8681,7 +8681,7 @@
     },
     {
       "id": 511,
-      "prompt": "A secret plan, made to do",
+      "prompt": "A secret plan, made to do something (usually wrong)",
       "options": [
         "Strategy",
         "Planning",
@@ -8698,7 +8698,7 @@
     },
     {
       "id": 512,
-      "prompt": "To put off doing something,",
+      "prompt": "To put off doing something, especially out of habitual carelessness or laziness",
       "options": [
         "Accelerate",
         "Lacerate",
@@ -8715,7 +8715,7 @@
     },
     {
       "id": 513,
-      "prompt": "Being careful that every detail of",
+      "prompt": "Being careful that every detail of something is correct",
       "options": [
         "Fastidious",
         "Squeamish",
@@ -8732,7 +8732,7 @@
     },
     {
       "id": 514,
-      "prompt": "Something that is absolutely",
+      "prompt": "Something that is absolutely necessary, that you cannot do without.",
       "options": [
         "Insular",
         "Indispensable",
@@ -8749,7 +8749,7 @@
     },
     {
       "id": 515,
-      "prompt": "Animal living both on land and",
+      "prompt": "Animal living both on land and water.",
       "options": [
         "Marine",
         "Amphibian",
@@ -8766,7 +8766,7 @@
     },
     {
       "id": 516,
-      "prompt": "A person who betrays his own",
+      "prompt": "A person who betrays his own country.",
       "options": [
         "Mascot",
         "Traitor",
@@ -8783,7 +8783,7 @@
     },
     {
       "id": 517,
-      "prompt": "Child bereaved of one or both the",
+      "prompt": "Child bereaved of one or both the parents",
       "options": [
         "Destitute",
         "Orphan",
@@ -8800,7 +8800,7 @@
     },
     {
       "id": 518,
-      "prompt": "Having a consistency that does",
+      "prompt": "Having a consistency that does not easily yield to pressure",
       "options": [
         "Substantial",
         "Firm",
@@ -8817,7 +8817,7 @@
     },
     {
       "id": 519,
-      "prompt": "A person who enjoys doing",
+      "prompt": "A person who enjoys doing dangerous things, in a way that other people may think is stupid.",
       "options": [
         "Cavalier",
         "Lunatic",
@@ -8834,7 +8834,7 @@
     },
     {
       "id": 520,
-      "prompt": "Forsaken or neglected child who",
+      "prompt": "Forsaken or neglected child who has no home and spends most of his/her time on the streets",
       "options": [
         "Fugitive",
         "Vulnerable",
@@ -8851,7 +8851,7 @@
     },
     {
       "id": 521,
-      "prompt": "Gradual recovery of health and",
+      "prompt": "Gradual recovery of health and strength",
       "options": [
         "Convalescence",
         "Potency",
@@ -8868,7 +8868,7 @@
     },
     {
       "id": 522,
-      "prompt": "Capable of being bent or pulled",
+      "prompt": "Capable of being bent or pulled into different shapes",
       "options": [
         "Lithe",
         "Willowy",
@@ -8885,7 +8885,7 @@
     },
     {
       "id": 523,
-      "prompt": "Someone who dishonestly",
+      "prompt": "Someone who dishonestly pretends to deceive under an assumed character",
       "options": [
         "Imposter",
         "Imitator",
@@ -8902,7 +8902,7 @@
     },
     {
       "id": 524,
-      "prompt": "Waver between different opinions",
+      "prompt": "Waver between different opinions or actions",
       "options": [
         "Sway",
         "Viaduct",
@@ -8919,7 +8919,7 @@
     },
     {
       "id": 525,
-      "prompt": "By killing a large number of",
+      "prompt": "By killing a large number of people, they thought they would get more benefits of the schemes.",
       "options": [
         "Homicide",
         "Suicide",
@@ -8953,7 +8953,7 @@
     },
     {
       "id": 527,
-      "prompt": "The place that a person treats as",
+      "prompt": "The place that a person treats as his permanent home, or lives in and has a substantial connection with",
       "options": [
         "Oasis",
         "Domicile",
@@ -8970,7 +8970,7 @@
     },
     {
       "id": 528,
-      "prompt": "Capable of or adapted for turning",
+      "prompt": "Capable of or adapted for turning easily from one to another of various tasks, fields of endeavour, etc. and is able to do many things.",
       "options": [
         "Versatile",
         "Turncoat",
@@ -8987,7 +8987,7 @@
     },
     {
       "id": 529,
-      "prompt": "A big clumsy often slow-witted",
+      "prompt": "A big clumsy often slow-witted personDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS",
       "options": [
         "Slouch",
         "Chump",
@@ -9021,7 +9021,7 @@
     },
     {
       "id": 531,
-      "prompt": "Causing or wanting to cause",
+      "prompt": "Causing or wanting to cause harm or evil to someone",
       "options": [
         "Chaotic",
         "Malevolent",
@@ -9055,7 +9055,7 @@
     },
     {
       "id": 533,
-      "prompt": "A person whose age is between",
+      "prompt": "A person whose age is between 70 and 79 years old",
       "options": [
         "Septuagenaria",
         "Aged",
@@ -9072,7 +9072,7 @@
     },
     {
       "id": 534,
-      "prompt": "A formal agreement between two",
+      "prompt": "A formal agreement between two or more nations or peoples",
       "options": [
         "Pact",
         "Concord",
@@ -9089,7 +9089,7 @@
     },
     {
       "id": 535,
-      "prompt": "To move or travel back and forth",
+      "prompt": "To move or travel back and forth frequently",
       "options": [
         "Grapple",
         "Shuttle",
@@ -9106,7 +9106,7 @@
     },
     {
       "id": 536,
-      "prompt": "Willing to take risks and try new",
+      "prompt": "Willing to take risks and try new ideas.",
       "options": [
         "Resolute",
         "Desperate",
@@ -9123,7 +9123,7 @@
     },
     {
       "id": 537,
-      "prompt": "A speech by an actor at the end",
+      "prompt": "A speech by an actor at the end of a play",
       "options": [
         "Prologue",
         "Monologue",
@@ -9140,7 +9140,7 @@
     },
     {
       "id": 538,
-      "prompt": "Author's explanatory remarks at",
+      "prompt": "Author's explanatory remarks at the beginning of a book",
       "options": [
         "Preface",
         "Foreward",
@@ -9157,7 +9157,7 @@
     },
     {
       "id": 539,
-      "prompt": "Never changing and therefore",
+      "prompt": "Never changing and therefore boring.",
       "options": [
         "Outdated",
         "Impractical",
@@ -9174,7 +9174,7 @@
     },
     {
       "id": 540,
-      "prompt": "Changing secret and coded",
+      "prompt": "Changing secret and coded messages in a readable form",
       "options": [
         "Decoupling",
         "Encoding",
@@ -9191,7 +9191,7 @@
     },
     {
       "id": 541,
-      "prompt": "Enjoying or affording warm",
+      "prompt": "Enjoying or affording warm secure shelter or cover and opportunity for ease and contentment",
       "options": [
         "Undisturbed",
         "Easeful",
@@ -9225,7 +9225,7 @@
     },
     {
       "id": 543,
-      "prompt": "The murder of a large number of",
+      "prompt": "The murder of a large number of people from a particular nation or ethnic group.",
       "options": [
         "Geronticide",
         "Honour killing",
@@ -9242,7 +9242,7 @@
     },
     {
       "id": 544,
-      "prompt": "Something belonging to or",
+      "prompt": "Something belonging to or surviving from an earlier period",
       "options": [
         "Vestige",
         "Dinosaur",
@@ -9259,7 +9259,7 @@
     },
     {
       "id": 545,
-      "prompt": "Not informed about or aware of",
+      "prompt": "Not informed about or aware of something",
       "options": [
         "Oblivious",
         "Uneducated",
@@ -9293,7 +9293,7 @@
     },
     {
       "id": 547,
-      "prompt": "Select the option that can be used",
+      "prompt": "Select the option that can be used as a one-word substitute for the italicised group of words in the given sentence. The prime minister paid tributes to the martyrs by laying circular arrangement of flowers.",
       "options": [
         "buds",
         "posies",
@@ -9327,7 +9327,7 @@
     },
     {
       "id": 549,
-      "prompt": "The war resulted in ruthless",
+      "prompt": "The war resulted in ruthless killing of many people.",
       "options": [
         "sacrilege",
         "fratricide",
@@ -9344,7 +9344,7 @@
     },
     {
       "id": 550,
-      "prompt": "The two women chatted in a",
+      "prompt": "The two women chatted in a friendly and peaceable manner, as if they'd known one another for a lifetime.",
       "options": [
         "apparently",
         "assuredly",
@@ -9361,7 +9361,7 @@
     },
     {
       "id": 551,
-      "prompt": "Social organisation where males",
+      "prompt": "Social organisation where males are heads of families",
       "options": [
         "Matriarchy",
         "Patriarchy",
@@ -9378,7 +9378,7 @@
     },
     {
       "id": 552,
-      "prompt": "A building containing interesting,",
+      "prompt": "A building containing interesting, rare, and old objects",
       "options": [
         "Auditorium",
         "Museum",
@@ -9412,7 +9412,7 @@
     },
     {
       "id": 554,
-      "prompt": "The wide variety of shared and",
+      "prompt": "The wide variety of shared and different personal and group characteristics among human beings",
       "options": [
         "Diversity",
         "Viscosity",
@@ -9429,7 +9429,7 @@
     },
     {
       "id": 555,
-      "prompt": "A floating container anchored to",
+      "prompt": "A floating container anchored to the sea bottom, so used for directing ships and warning them of possible danger",
       "options": [
         "Buoy",
         "Deck",
@@ -9446,7 +9446,7 @@
     },
     {
       "id": 556,
-      "prompt": "Jokes and funny remarks",
+      "prompt": "Jokes and funny remarks amongst friends.",
       "options": [
         "Banter",
         "Discussion",
@@ -9463,7 +9463,7 @@
     },
     {
       "id": 557,
-      "prompt": "Substitute one word for the",
+      "prompt": "Substitute one word for the italicised expression. As a port it was notorious for its smuggling and the trade was prohibited by law.",
       "options": [
         "licit",
         "chaste",
@@ -9514,7 +9514,7 @@
     },
     {
       "id": 560,
-      "prompt": "Tending to associate with others",
+      "prompt": "Tending to associate with others of one's kind",
       "options": [
         "Pedantic",
         "Pungent",
@@ -9582,7 +9582,7 @@
     },
     {
       "id": 564,
-      "prompt": "A diagram showing the path of",
+      "prompt": "A diagram showing the path of planets.",
       "options": [
         "Horoscope",
         "Zodiac",
@@ -9599,7 +9599,7 @@
     },
     {
       "id": 565,
-      "prompt": "Something that is necessary or",
+      "prompt": "Something that is necessary or crucial",
       "options": [
         "Pedantic",
         "Trivial",
@@ -9616,7 +9616,7 @@
     },
     {
       "id": 566,
-      "prompt": "Persons who are unfairly blamed",
+      "prompt": "Persons who are unfairly blamed for something that others have done",
       "options": [
         "Expedition",
         "Epitome",
@@ -9633,7 +9633,7 @@
     },
     {
       "id": 567,
-      "prompt": "Extreme physical or mental",
+      "prompt": "Extreme physical or mental sufferings",
       "options": [
         "Agony",
         "Autonomy",
@@ -9650,7 +9650,7 @@
     },
     {
       "id": 568,
-      "prompt": "Beginning to exist; recently",
+      "prompt": "Beginning to exist; recently formed or developed",
       "options": [
         "Herald",
         "Blasphemy",
@@ -9684,7 +9684,7 @@
     },
     {
       "id": 570,
-      "prompt": "Abundant garbage kept at one",
+      "prompt": "Abundant garbage kept at one place.",
       "options": [
         "Mound of garbage",
         "Hill of garbage",
@@ -9701,7 +9701,7 @@
     },
     {
       "id": 571,
-      "prompt": "A person who easily believes",
+      "prompt": "A person who easily believes without demanding proof",
       "options": [
         "Cosmopolitan",
         "Credulous",
@@ -9718,7 +9718,7 @@
     },
     {
       "id": 572,
-      "prompt": "A person appointed by two",
+      "prompt": "A person appointed by two parties to solve a problem",
       "options": [
         "Advocate",
         "Judge",
@@ -9752,7 +9752,7 @@
     },
     {
       "id": 574,
-      "prompt": "The act of destroying or",
+      "prompt": "The act of destroying or damaging something",
       "options": [
         "Vengeance",
         "Avenge",
@@ -9769,7 +9769,7 @@
     },
     {
       "id": 575,
-      "prompt": "Experiences that are very",
+      "prompt": "Experiences that are very unpleasant or difficult",
       "options": [
         "Pitfall",
         "Ordeal",
@@ -9786,7 +9786,7 @@
     },
     {
       "id": 576,
-      "prompt": "To enter unlawfully upon the land",
+      "prompt": "To enter unlawfully upon the land of another",
       "options": [
         "Trespass",
         "Delinquent",
@@ -9803,7 +9803,7 @@
     },
     {
       "id": 577,
-      "prompt": "A local meeting of party members",
+      "prompt": "A local meeting of party members to select candidates, elect convention delegates, etc",
       "options": [
         "Claque",
         "Clique",
@@ -9820,7 +9820,7 @@
     },
     {
       "id": 578,
-      "prompt": "Scientific tests or techniques",
+      "prompt": "Scientific tests or techniques used in connection with the detection of crime",
       "options": [
         "Post-mortem",
         "Autopsy",
@@ -9837,7 +9837,7 @@
     },
     {
       "id": 579,
-      "prompt": "A portable case for holding",
+      "prompt": "A portable case for holding papers, drawing etc.",
       "options": [
         "Archives",
         "Creche",
@@ -9854,7 +9854,7 @@
     },
     {
       "id": 580,
-      "prompt": "One hard to please (very selective",
+      "prompt": "One hard to please (very selective in his habits)",
       "options": [
         "Dexterous",
         "Incorrigible",
@@ -9871,7 +9871,7 @@
     },
     {
       "id": 581,
-      "prompt": "One appointed to act in place of",
+      "prompt": "One appointed to act in place of another",
       "options": [
         "Deputy",
         "Minister",
@@ -9939,7 +9939,7 @@
     },
     {
       "id": 585,
-      "prompt": "Someone who knows a lot about",
+      "prompt": "Someone who knows a lot about the arts, food, drink or some other subject",
       "options": [
         "Pacifist",
         "Gourmand",
@@ -9956,7 +9956,7 @@
     },
     {
       "id": 586,
-      "prompt": "An exact copy of handwriting,",
+      "prompt": "An exact copy of handwriting, printing",
       "options": [
         "Platitude",
         "Maiden",
@@ -9990,7 +9990,7 @@
     },
     {
       "id": 588,
-      "prompt": "Government by two rulers or",
+      "prompt": "Government by two rulers or authorities",
       "options": [
         "Monarchy",
         "Bureaucracy",
@@ -10007,7 +10007,7 @@
     },
     {
       "id": 589,
-      "prompt": "A living organism that steals",
+      "prompt": "A living organism that steals nourishment from other living beings",
       "options": [
         "Vector",
         "Parasite",
@@ -10024,7 +10024,7 @@
     },
     {
       "id": 590,
-      "prompt": "A long wandering or voyage",
+      "prompt": "A long wandering or voyage usually marked by many changes of fortune",
       "options": [
         "Odyssey",
         "Ode",
@@ -10058,7 +10058,7 @@
     },
     {
       "id": 592,
-      "prompt": "A ground where the last funeral",
+      "prompt": "A ground where the last funeral rites are performed",
       "options": [
         "Tomb",
         "Crematorium",
@@ -10092,7 +10092,7 @@
     },
     {
       "id": 594,
-      "prompt": "To forbid something, especially",
+      "prompt": "To forbid something, especially by law",
       "options": [
         "Propound",
         "Proscribe",
@@ -10126,7 +10126,7 @@
     },
     {
       "id": 596,
-      "prompt": "An inscription on or at a tomb or a",
+      "prompt": "An inscription on or at a tomb or a grave",
       "options": [
         "Ode",
         "Imprint",
@@ -10143,7 +10143,7 @@
     },
     {
       "id": 597,
-      "prompt": "A person holding conversational",
+      "prompt": "A person holding conversational belief especially in matter of religion",
       "options": [
         "Orthodox",
         "Prudent",
@@ -10160,7 +10160,7 @@
     },
     {
       "id": 598,
-      "prompt": "Information, especially of a",
+      "prompt": "Information, especially of a biased or misleading nature, used to promote a political cause or point of view.",
       "options": [
         "Welter",
         "Propaganda",
@@ -10177,7 +10177,7 @@
     },
     {
       "id": 599,
-      "prompt": "A container for housing",
+      "prompt": "A container for housing honeybees",
       "options": [
         "Colonies",
         "Hive",
@@ -10211,7 +10211,7 @@
     },
     {
       "id": 601,
-      "prompt": "A calculated move to gain an",
+      "prompt": "A calculated move to gain an advantage",
       "options": [
         "Grunt",
         "Bonsai",
@@ -10228,7 +10228,7 @@
     },
     {
       "id": 602,
-      "prompt": "Urging or requesting (someone)",
+      "prompt": "Urging or requesting (someone) solemnly or earnestly to do something",
       "options": [
         "Arrears",
         "Adjure",
@@ -10245,7 +10245,7 @@
     },
     {
       "id": 603,
-      "prompt": "A violent wind that has a circular",
+      "prompt": "A violent wind that has a circular movement",
       "options": [
         "Drought",
         "Deluge",
@@ -10279,7 +10279,7 @@
     },
     {
       "id": 605,
-      "prompt": "Opposing or taking arms against",
+      "prompt": "Opposing or taking arms against a government or ruler.",
       "options": [
         "Volunteer",
         "Rebel",
@@ -10296,7 +10296,7 @@
     },
     {
       "id": 606,
-      "prompt": "License granted to an individual",
+      "prompt": "License granted to an individual or group to market a company's goods or services in a particular territory",
       "options": [
         "Branding",
         "Marketing",
@@ -10347,7 +10347,7 @@
     },
     {
       "id": 609,
-      "prompt": "Select the word from the options",
+      "prompt": "Select the word from the options which is similar in meaning to the bracketed part given in the sentence below. The women stared at me with (greatDownload Pinnacle Exam Preparation App Pinnacle ​ ​ ​ ​ ​ OWS interest or concern).",
       "options": [
         "intellect",
         "control",
@@ -10364,7 +10364,7 @@
     },
     {
       "id": 610,
-      "prompt": "Sets of principles concerned with",
+      "prompt": "Sets of principles concerned with the nature and appreciation of beauty",
       "options": [
         "Asylum",
         "Aesthetics",
@@ -10415,7 +10415,7 @@
     },
     {
       "id": 613,
-      "prompt": "A small structure with one or",
+      "prompt": "A small structure with one or more open sides that is used to vend merchandise",
       "options": [
         "Kiosk",
         "Podium",
@@ -10449,7 +10449,7 @@
     },
     {
       "id": 615,
-      "prompt": "A historical account or biography",
+      "prompt": "A historical account or biography written from personal knowledge",
       "options": [
         "Chronicle",
         "Thesis",
@@ -10466,7 +10466,7 @@
     },
     {
       "id": 616,
-      "prompt": "Disappointed and annoyed about",
+      "prompt": "Disappointed and annoyed about something",
       "options": [
         "Contented",
         "Disgruntled",
@@ -10500,7 +10500,7 @@
     },
     {
       "id": 618,
-      "prompt": "One who does not know reading",
+      "prompt": "One who does not know reading or writing",
       "options": [
         "Scholar",
         "Illiterate",
@@ -10517,7 +10517,7 @@
     },
     {
       "id": 619,
-      "prompt": "Recovering from an illness or",
+      "prompt": "Recovering from an illness or medical treatment.",
       "options": [
         "Bohemian",
         "Connoisseur",
@@ -10551,7 +10551,7 @@
     },
     {
       "id": 621,
-      "prompt": "A person who is never happy with",
+      "prompt": "A person who is never happy with what he has",
       "options": [
         "Miser",
         "Heresy",
@@ -10568,7 +10568,7 @@
     },
     {
       "id": 622,
-      "prompt": "A person who has escaped from",
+      "prompt": "A person who has escaped from captivity or is in hiding.",
       "options": [
         "Fastidious",
         "Fanatic",
@@ -10585,7 +10585,7 @@
     },
     {
       "id": 623,
-      "prompt": "Affecting all or most people,",
+      "prompt": "Affecting all or most people, places, things, etc.",
       "options": [
         "Particular",
         "Pertain",
@@ -10602,7 +10602,7 @@
     },
     {
       "id": 624,
-      "prompt": "Overly concerned with minute",
+      "prompt": "Overly concerned with minute details or formalisms",
       "options": [
         "Blasphemy",
         "Rhapsodic",
@@ -10619,7 +10619,7 @@
     },
     {
       "id": 625,
-      "prompt": "A publication containing",
+      "prompt": "A publication containing astronomical or meteorological information",
       "options": [
         "Allegory",
         "Bane",
@@ -10653,7 +10653,7 @@
     },
     {
       "id": 627,
-      "prompt": "A person who is interested in",
+      "prompt": "A person who is interested in material gains and is hostile to art/culture",
       "options": [
         "Perfectionist",
         "Sage",
@@ -10704,7 +10704,7 @@
     },
     {
       "id": 630,
-      "prompt": "Rhythmic flow of sounds or",
+      "prompt": "Rhythmic flow of sounds or words.",
       "options": [
         "Credence",
         "Crescents",
@@ -10738,7 +10738,7 @@
     },
     {
       "id": 632,
-      "prompt": "A person who attacks or criticizes",
+      "prompt": "A person who attacks or criticizes cherished beliefs or institutions.",
       "options": [
         "Iconoclast",
         "Impregnable",
@@ -10806,7 +10806,7 @@
     },
     {
       "id": 636,
-      "prompt": "A game that results neither in",
+      "prompt": "A game that results neither in victory nor in defeat",
       "options": [
         "Void",
         "Cynic",
@@ -10823,7 +10823,7 @@
     },
     {
       "id": 637,
-      "prompt": "The violation or profanation of",
+      "prompt": "The violation or profanation of anything sacred or held sacred",
       "options": [
         "Pious",
         "Sacramental",
@@ -10891,7 +10891,7 @@
     },
     {
       "id": 641,
-      "prompt": "A leader who sways his followers",
+      "prompt": "A leader who sways his followers by his oratory",
       "options": [
         "Fugitive",
         "Narcissist",
@@ -10908,7 +10908,7 @@
     },
     {
       "id": 642,
-      "prompt": "A fall of water from a great",
+      "prompt": "A fall of water from a great height.",
       "options": [
         "River",
         "Stream",
@@ -10925,7 +10925,7 @@
     },
     {
       "id": 643,
-      "prompt": "Exaggerated claims, not meant to",
+      "prompt": "Exaggerated claims, not meant to be taken seriously",
       "options": [
         "Hyperpyrexia",
         "Hyperbole",
@@ -10942,7 +10942,7 @@
     },
     {
       "id": 644,
-      "prompt": "Photographers who follow",
+      "prompt": "Photographers who follow celebrities to get their pictures to sell them",
       "options": [
         "Paparazzi",
         "Reporter",
@@ -10959,7 +10959,7 @@
     },
     {
       "id": 645,
-      "prompt": "The science and art of growing",
+      "prompt": "The science and art of growing vegetables, fruits and flowers",
       "options": [
         "Herpetology",
         "Horticulture",
@@ -10976,7 +10976,7 @@
     },
     {
       "id": 646,
-      "prompt": "A piece of a living tissue or plant",
+      "prompt": "A piece of a living tissue or plant that is transplanted surgically",
       "options": [
         "Gratis",
         "Gourmet",
@@ -10993,7 +10993,7 @@
     },
     {
       "id": 647,
-      "prompt": "Giving the worrying impression",
+      "prompt": "Giving the worrying impression that something bad is going to happen",
       "options": [
         "Desolate",
         "Suspicious",
@@ -11027,7 +11027,7 @@
     },
     {
       "id": 649,
-      "prompt": "Having or showing an excessively",
+      "prompt": "Having or showing an excessively high opinion of one's appearance, abilities, or worth",
       "options": [
         "Superior",
         "Vain",
@@ -11112,7 +11112,7 @@
     },
     {
       "id": 654,
-      "prompt": "Rearing of silk worms is called",
+      "prompt": "Rearing of silk worms is called horticulture.",
       "options": [
         "pisciculture",
         "agriculture",
@@ -11146,7 +11146,7 @@
     },
     {
       "id": 656,
-      "prompt": "Existing in a land from the earliest",
+      "prompt": "Existing in a land from the earliest times or from before the arrival of colonists",
       "options": [
         "Native",
         "Ancient",
@@ -11163,7 +11163,7 @@
     },
     {
       "id": 657,
-      "prompt": "Holding on to something or",
+      "prompt": "Holding on to something or keeping an opinion with determination",
       "options": [
         "Gracious",
         "Tenacious",
@@ -11180,7 +11180,7 @@
     },
     {
       "id": 658,
-      "prompt": "Select the option that can be used",
+      "prompt": "Select the option that can be used as a one-word substitute for the given group of words/phrase. Fail to notice; ignore; condone (an offence etc.)",
       "options": [
         "Overlong",
         "Overlie",
@@ -11197,7 +11197,7 @@
     },
     {
       "id": 659,
-      "prompt": "The action of damaging the good",
+      "prompt": "The action of damaging the good reputation of someone",
       "options": [
         "Delegate",
         "Degeneration",
@@ -11214,7 +11214,7 @@
     },
     {
       "id": 660,
-      "prompt": "An exaggerated statement not to",
+      "prompt": "An exaggerated statement not to be taken seriously or literally",
       "options": [
         "Hypertext",
         "Hyperbole",
@@ -11231,7 +11231,7 @@
     },
     {
       "id": 661,
-      "prompt": "Cancel or do away with (a law or",
+      "prompt": "Cancel or do away with (a law or agreement)",
       "options": [
         "Abrogate",
         "Cancellation",
@@ -11248,7 +11248,7 @@
     },
     {
       "id": 662,
-      "prompt": "A battle or anything involving or",
+      "prompt": "A battle or anything involving or causing much bloodshed",
       "options": [
         "Autocracy",
         "Sanguinary",
@@ -11265,7 +11265,7 @@
     },
     {
       "id": 663,
-      "prompt": "to give up completely or agree to",
+      "prompt": "to give up completely or agree to forgo, especially in favour of another",
       "options": [
         "Waive",
         "Forfeit",
@@ -11282,7 +11282,7 @@
     },
     {
       "id": 664,
-      "prompt": "A poll taken of voters leaving the",
+      "prompt": "A poll taken of voters leaving the voting place that is usually used for predicting the winners.",
       "options": [
         "Consensus",
         "Results",
@@ -11299,7 +11299,7 @@
     },
     {
       "id": 665,
-      "prompt": "A list or collection of books or",
+      "prompt": "A list or collection of books or informative graphics",
       "options": [
         "Bale",
         "Hamlet",
@@ -11316,7 +11316,7 @@
     },
     {
       "id": 666,
-      "prompt": "Showing astute powers of",
+      "prompt": "Showing astute powers of judgment; clever and judicious",
       "options": [
         "Shriek",
         "Shrift",
@@ -11350,7 +11350,7 @@
     },
     {
       "id": 668,
-      "prompt": "Cause to continue; keep up;",
+      "prompt": "Cause to continue; keep up; preserve (a state of affairs, an activity etc)",
       "options": [
         "maintop",
         "mainly",
@@ -11367,7 +11367,7 @@
     },
     {
       "id": 669,
-      "prompt": "Taking heed or care; being",
+      "prompt": "Taking heed or care; being conscious",
       "options": [
         "Mindful",
         "Mindless",
@@ -11384,7 +11384,7 @@
     },
     {
       "id": 670,
-      "prompt": "Honour given for some",
+      "prompt": "Honour given for some achievement.",
       "options": [
         "Placard",
         "Laurel",
@@ -11418,7 +11418,7 @@
     },
     {
       "id": 672,
-      "prompt": "Treat with a vaccine, usually by",
+      "prompt": "Treat with a vaccine, usually by injection to promote immunity against a disease",
       "options": [
         "Innuendo",
         "Inoculate",
@@ -11435,7 +11435,7 @@
     },
     {
       "id": 673,
-      "prompt": "None of the countries involved in",
+      "prompt": "None of the countries involved in war were ready to broach the issue of retreat.",
       "options": [
         "turn down thoughtlessly",
         "bring up for discussion",
@@ -11452,7 +11452,7 @@
     },
     {
       "id": 674,
-      "prompt": "Seeing the danger of a group",
+      "prompt": "Seeing the danger of a group governed by old people, Ratan planned to recruit young people for his project.",
       "options": [
         "adhocracy",
         "plutocracy",
@@ -11486,7 +11486,7 @@
     },
     {
       "id": 676,
-      "prompt": "Try hard to do or achieve",
+      "prompt": "Try hard to do or achieve something",
       "options": [
         "Endanger",
         "Hardworking",
@@ -11503,7 +11503,7 @@
     },
     {
       "id": 677,
-      "prompt": "The Bishop criticised the",
+      "prompt": "The Bishop criticised the Government for its having no sympathy and an uncaring attitude to the homeless and the unemployed.",
       "options": [
         "merciful",
         "callous",
@@ -11537,7 +11537,7 @@
     },
     {
       "id": 679,
-      "prompt": "a large single detached house",
+      "prompt": "a large single detached house with single or double story",
       "options": [
         "Suite",
         "Apartment",
@@ -11571,7 +11571,7 @@
     },
     {
       "id": 681,
-      "prompt": "A doctor who specializes in heart",
+      "prompt": "A doctor who specializes in heart diseases",
       "options": [
         "Urologist",
         "Cardiologist",
