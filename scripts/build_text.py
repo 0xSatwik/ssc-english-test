@@ -110,19 +110,85 @@ def text_from_words(words):
     return cols
 
 
+def text_from_words_fine(words, gap=5.0):
+    """Fallback for pages where two columns sit closer than the normal gap
+    threshold: split each visual line into fragments at >=gap horizontal
+    breaks, cluster fragments into left->right columns by x0, and emit each
+    column's fragments in top-then-x order. Preserves logical column order
+    even when the print layout staggers column starts."""
+    vlines = {}
+    for w in words:
+        k = round(w['top'] / 2.5)
+        nk = None
+        for kk in list(vlines):
+            if abs(kk - k) <= 1:
+                nk = kk
+                break
+        if nk is None:
+            vlines[k] = []
+            nk = k
+        vlines[nk].append(w)
+    frags = []
+    for k in sorted(vlines):
+        ws2 = sorted(vlines[k], key=lambda w: w['x0'])
+        cur = []
+        prev = None
+        for w in ws2:
+            if prev is not None and w['x0'] - prev >= gap:
+                if cur:
+                    frags.append(cur)
+                cur = []
+            cur.append(w)
+            prev = w['x1']
+        if cur:
+            frags.append(cur)
+    F = sorted(frags, key=lambda f: min(w['x0'] for w in f))
+    cols, curc, prevx = [], [], None
+    for f in F:
+        x0 = min(w['x0'] for w in f)
+        if prevx is not None and x0 - prevx >= gap:
+            cols.append(curc)
+            curc = []
+        curc.append(f)
+        prevx = max(w['x1'] for w in f)
+    if curc:
+        cols.append(curc)
+    return [col_text([w for f in cl for w in f]) for cl in cols]
+
+
+def looks_merged(block):
+    return any(re.search(r'(?<!\A) ?\bQ\.\d+\.', ln) or re.search(r'(?<!\A) ?\bSol\.\d+\.', ln)
+               or ('S ol.' in ln) for ln in block)
+
+
 stream = []
 with pdfplumber.open(IN_PDF) as pdf:
     for pi, p in enumerate(pdf.pages):
-        cols = text_from_words(p.extract_words())
-        page_blocks = []
+        words = p.extract_words()
+        cols = text_from_words(words)
+        block = []
         for cl in cols:
             for ln in cl:
                 ln = re.sub(r'^Q\.(\d+)(?=\s*\([a-d])', r'Q.\1.', ln)
                 if is_noise(ln):
                     continue
-                page_blocks.append(ln)
-        stream.append(page_blocks)
-        print(f'page {pi}: raw cols={[len(c) for c in cols]} kept={len(page_blocks)}', file=sys.stderr)
+                block.append(ln)
+        if looks_merged(block):
+            cols = text_from_words_fine(words)
+            block = []
+            for cl in cols:
+                for ln in cl:
+                    ln = ln.replace('S ol.', 'Sol.')
+                    ln = re.sub(r'^Q\.(\d+)(?=\s*\([a-d])', r'Q.\1.', ln)
+                    if is_noise(ln):
+                        continue
+                    block.append(ln)
+            fine = True
+        else:
+            fine = False
+        stream.append(block)
+        print(f'page {pi}: raw cols={[len(c) for c in cols]} kept={len(block)}'
+              + ('  [fine pass]' if fine else ''), file=sys.stderr)
 
 with open(OUT_TXT, 'w', encoding='utf-8') as f:
     for pb in stream:

@@ -2,7 +2,7 @@
   "meta": {
     "title": "Narration",
     "subject": "English",
-    "topic": "Direct-Indirect Speech",
+    "topic": "Grammar",
     "defaultSecondsPerQuestion": 30,
     "source": "Pinnacle",
     "language": "English",
@@ -21,6 +21,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She remarked that she had visited that museum the\nprevious week. (Correct)\n(b) She remarked that I had visited that museum last week.\n(Incorrect Pronoun)\n(c) She remarked that she visited that museum the previous\nweek. (Incorrect Tense)\n(d) She remarked that she has visited that museum the previous\nweek. (Incorrect Tense)"
     },
@@ -36,6 +38,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She asked them if they would be attending the\nconference. (Correct)\n(b) She asked them will they be attending the conference.\n(Incorrect Modal)\n(c) She asked them whether they will be attending the\nconference. (Incorrect Modal)\n(d) She asked them whether would they be attending the\nconference. (Incorrect Order of Words)"
     },
@@ -51,6 +55,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher asked why I was late that day. (Correct)\n(b) The teacher asked why are you late today. (Incorrect Pronoun)\n(c) The teacher asked why I am late that day. (Incorrect Verb)\n(d) The teacher asked why was I late that day. (Incorrect position\nof Verb)"
     },
@@ -66,6 +72,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Complete the assignment before the deadline,\" he\nsaid. (Correct)\n(a) \"You should complete the assignment before the deadline,\"\nhe urged. (Incorrect Sentence Structure)\n(c) \"Will you complete the assignment before the deadline?\" he\nasked. (Incorrect Sentence Structure)\n(d) \"We must complete the assignment before the deadline,\" he\nsaid. (Incorrect Sentence Structure)"
     },
@@ -81,6 +89,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The teacher said that the Earth revolves around the\nSun. (Correct)\n(a) The teacher said that the Earth revolved around the Sun.\n(Incorrect Verb)\n(b) The teacher said that the Earth had revolved around the Sun.\n(Incorrect Tense)\n(d) The teacher said that the Earth is revolving around the Sun.\n(Incorrect Tense)"
     },
@@ -96,6 +106,8 @@
       "exam": "SSC CGL 12/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"Can you help me with the project tomorrow?\" she\nasked him. (Correct)\n(b) \"Could you help me with the project the next day?\" she asked\nhim. (Incorrect Modal Verb)\n(c) \"Will you help me with the project tomorrow?\" she asked him.\n(Incorrect Modal Verb)\n(d) \"Help me with the project tomorrow,\" she asked him.\n(Incorrect Sentence Structure)"
     },
@@ -111,6 +123,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) Sarah said that Tom played football well. (Correct)\n(a) Sarah said that Tom had played football well. (Incorrect\nTense)\n(b) Sarah said that Tom plays football well. (Incorrect form of\nVerb)\n(c) Sarah said that Tom is playing football well. (Incorrect Tense)"
     },
@@ -126,6 +140,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) \"I saw the suspect near the crime scene last evening,\"\nthe witness stated. (Correct)\n(a) \"He saw the suspect near the crime scene the previous\nevening,\" the witness stated. (Incorrect Pronoun)\n(b) \"I have seen the suspect near the crime scene last evening,\"\nthe witness stated. (Incorrect Tense)\n(d) \"I am seeing the suspect near the crime scene now,\" the\nwitness stated. (Incorrect Tense)"
     },
@@ -141,6 +157,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said that he preferred coffee to tea. (Correct)\n(b) He said that he prefers coffee to tea. (Incorrect form of Verb)\n(c) He said that he would prefer coffee to tea. (Incorrect use of\nModal)\n(d) He said that I preferred coffee to tea. (Incorrect Pronoun)"
     },
@@ -156,6 +174,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) \"I have completed the challenging project,\" she\nannounced. (Correct)\n(a) \"I completed the challenging project,\" she announced.\n(Incorrect Tense)\n(b) \"The challenging project has been completed by her,\" she\nannounced. (Incorrect Sentence Structure)\n(d) \"I was completed the challenging project,\" she announced.\n(Incorrect Tense)"
     },
@@ -171,6 +191,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The detective asked the witness if he had observed\nanyone suspicious near the premises. (Correct)\n(a) The detective asked the witness if he observed anyone\nsuspicious near the premises. (Incorrect Tense)\n(c) The detective asked the witness whether did they observe\nanyone suspicious near the premises. (Incorrect Pronoun)\n(d) The detective asked the witness if you had observed anyone\nsuspicious near the premises. (Incorrect Pronoun)"
     },
@@ -186,6 +208,8 @@
       "exam": "SSC CGL 13/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The historian claimed, \"The ancient civilisation\ndeveloped an advanced irrigation system.\" (Correct)\n(b) The historian announced, \"The ancient civilisation developed\nan advanced irrigation system.\" (Incorrect Verb)\n(c) The historian claimed, \"The ancient civilisation have\ndeveloped an advanced irrigation system.\" (Incorrect Tense)\n(d) The historian claimed, \"The ancient civilisation was\ndeveloping an advanced irrigation system.\" (Incorrect Tense)"
     },
@@ -201,6 +225,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Ravi requested me to help him with that task.\n(Correct)\n(b) Ravi told me help him with this task. (Incorrect Sentence\nStructure)\n(c) Ravi said me to please help him with that task. (Incorrect\nVerb)\n(d) Ravi requested that I help him with this task. (Incorrect\nSentence Structure)"
     },
@@ -216,6 +242,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"The meeting has been postponed to Monday,\" said\nthe manager. (Correct)\n(a) \"The meeting is postponed to Monday,\" informed the\nmanager. (Incorrect Tense)\n(c) \"The meeting had been postponed to Monday,\" said the\nmanager. (Incorrect Tense)\n(d) \"The meeting will be postponed to Monday,\" said the\nmanager. (Incorrect Tense)"
     },
@@ -231,6 +259,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The officer told the guard not to allow anyone to enter\nwithout permission. (Correct)\n(b) The officer said the guard not to allow anyone to enter\nwithout permission. (Incorrect Verb)\n(c) The officer forbade the guard to not allow anyone to enter\nwithout permission. (Incorrect Sentence Structure)\n(d) The officer instructed that the guard does not allow anyone\nwithout permission. (Incorrect Sentence Structure)"
     },
@@ -246,6 +276,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"I was reading a novel when you called me.\"\n(Correct)\n(a) He said, \"I am reading a novel when you called me.\" (Incorrect\nTense)\n(c) He said, \"I read a novel when you were calling me.\" (Incorrect\nTense)\n(d) He said, \"I had been reading a novel when you called me.\"\n(Incorrect Tense)"
     },
@@ -261,6 +293,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said that he was going to the park. (Correct)\n(a) He said that he is going to the park. (Incorrect Tense)\n(b) He said that I was going to the park. (Incorrect Pronoun)\n(d) He said he went to the park. (Incorrect Tense)"
     },
@@ -276,6 +310,8 @@
       "exam": "SSC CGL 14/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) My grandma said that a stitch in time saves nine.\n(Correct)\n(a) It was said by my grandma that a stitch in time saves nine.\n(Incorrect Sentence Structure)\n(b) My grandma said that a stitch in time saved nine. (Incorrect\nTense)\n(c) My grandma advised that a stitch in time saves nine.\n(Incorrect Verb)"
     },
@@ -291,6 +327,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said that she was reading a novel at that time.\n(Correct)\n(a) She said that she is reading a novel right now. (Incorrect\nTense)\n(c) She said she had been reading a novel right now. (Incorrect\nTense)\n(d) She said she reads a novel at that time. (Incorrect Tense)"
     },
@@ -306,6 +344,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher said, \"The students have not submitted\ntheir assignments.\" (Correct)\n(b) The teacher said, \"The students did not submit their\nassignments.\" (Incorrect Tense)\n(c) The teacher said, \"The students had not submitted their\nassignments.\" (Incorrect Tense)\n(d) The teacher said, \"The students are not submitting their\nassignments.\" (Incorrect Tense)"
     },
@@ -321,6 +361,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The doctor said, \"Excessive screen time can harm\nyour eyesight over time.\" (Correct)\n(b) The doctor said, \"Excessive screen time could harm your\neyesight over time.\" (Incorrect Modal Verb)\n(c) The doctor said, \"Excessive screen time harms one’s eyesight\nover time.\" (Incorrect Sentence Structure)\n(d) The doctor said, \"Excessive screen time will harm your\neyesight over time.\" (Incorrect Tense)"
     },
@@ -336,6 +378,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said that she was learning French. (Correct)\n(b) She said that she is learning French. (Incorrect Tense)\n(c) She said that she has been learning French. (Incorrect Tense)\n(d) She said that she will learn French. (Incorrect Tense)"
     },
@@ -351,6 +395,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He asked where I had gone the previous day. (Correct)\n(a) He asked where I went yesterday. (Incorrect Tense and\nAdverb)\n(c) He asked where you went the previous day. (Incorrect\nPronoun)\n(d) He asked where I had gone yesterday. (Incorrect Adverb)"
     },
@@ -366,6 +412,8 @@
       "exam": "SSC CGL 15/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said, “I intend to start my own business soon.”\n(Correct)\n(a) She said, “She intends to start her own business soon.”\n(Incorrect Pronoun & Tense)\n(c) She said, “I intended starting my own business soon.”\n(Incorrect Tense)\n(d) She said, “I had intended to start my own business soon.”\n(Incorrect Tense)"
     },
@@ -381,6 +429,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said, \"I have never been to Japan before this trip.\"\n(Correct)\n(b) He said, \"I had never been to Japan before that trip.\"\n(Incorrect Tense)\n(c) He said, \"I never went to Japan before that trip.\" (Incorrect\nTense)\n(d) He said, \"I have not gone to Japan before that trip.\" (Incorrect\nTense)"
     },
@@ -396,6 +446,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) They said that they had completed the project\nsuccessfully.(Correct)\n(a) They said that they completed the project successfully.\n(Incorrect Tense)\n(b) They said that they have completed the project successfully.\n(Incorrect Tense)\n(d) They said that they would complete the project successfully.\n(Incorrect Tense)"
     },
@@ -411,6 +463,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said to me, \"If you study regularly, you will pass the\nexamination.\" (Correct)\n(b) He said to me, \"Should I study regularly, I would pass the\nexamination.\" (Incorrect Modal)\n(c) He said to me, \"You studied regularly, you would pass the\nexamination.\" (Incorrect Tense & Modal)\n(d) He said to me, \"Had you studied regularly, you would not have\nfailed the examination.\" (Incorrect Tense & Modal)"
     },
@@ -426,6 +480,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) An old man said that he was running out of time.\n(Correct)\n(a) An old man said that he has been running out of time.\n(Incorrect Helping Verb)\n(b) An old man said that he was running across time. (Incorrect\nPreposition)\n(d) An old man said that he has being run out of time. (Incorrect\nTense)"
     },
@@ -441,6 +497,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The analyst said, \"Had the market reacted sooner, the\nlosses might have been contained.\" (Correct)\n(b) The analyst said, \"If the market reacts sooner, the losses\nmight be contained.\" (Incorrect Conjunction)\n(c) The analyst said, \"If the market had reacted sooner, the\nlosses might be contained.\" (Incorrect Conjunction)\n(d) The analyst said, \"Had the market react sooner, the losses\nwould be contained.\" (Incorrect Tense)"
     },
@@ -456,6 +514,8 @@
       "exam": "SSC CGL 16/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said they had been waiting there for an hour.\n(Correct)\n(a) He said they were waiting there for an hour. (Incorrect Tense)\n(b) He said they have been waiting there for an hour. (Incorrect\nTense)\n(d) He said they had waiting there for an hour. (Incorrect Tense)"
     },
@@ -471,6 +531,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She told her friend that she was feeling tired that day.\n(Correct)\n(a) She told her friend that she is feeling tired today. (Incorrect\nTense)\n(b) She said her friend that she was feeling tired that day.\n(Incorrect Verb)\n(d) She told that she was feeling tired today. (Incorrect Sentence\nStructure)"
     },
@@ -486,6 +548,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The historian said that future generations would judge\ntheir actions more harshly than they expected. (Correct)\n(b) The historian said that future generations will judge our\nactions more harshly than we expect. (Incorrect Modal Verb)\n(c) The historian said that the next generations would judge his\nactions harshly. (Incorrect Sentence Structure)\n(d) The historian said that their actions will be judged more\nharshly than expected. (Incorrect Sentence Structure)"
     },
@@ -501,6 +565,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) “I have never witnessed such intellectual curiosity in\nmy students before,” said the professor. (Correct)\n(b) “I never witness such intellectual curiosity in my students\nbefore,” said the professor. (Incorrect Tense)\n(c) “Never before I have witnessed such curiosity in students,”\nsaid the professor. (Incorrect Sentence Structure)\n(d) “Never I witnessed such curiosity in my students before,” said\nthe professor. (Incorrect Sentence Structure)"
     },
@@ -516,6 +582,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The manager said that he had finished the report the\nprevious day. (Correct)\n(a) The manager said that he finishes the report yesterday.\n(Incorrect form of Verb)\n(c) The manager said that he has finished the report yesterday.\n(Incorrect Tense & Adverb)\n(d) The manager said that he was finishing the report the\nprevious day. (Incorrect Tense)"
     },
@@ -531,6 +599,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The director said, \"The script is compelling, but the\nbudget allocated for its production is inadequate.\" (Correct)\n(a) The director said, \"The script will be compelling, but the\nbudget allocated for its production will be inadequate.\" (Incorrect\nTense)\n(b) The director said, \"The script was compelling, but the budget\nallocated for its production was inadequate.\" (Incorrect Tense)\n(c) The director said, \"The script has been compelling, but the\nbudget allocated for its production has been inadequate.\"\n(Incorrect Tense)"
     },
@@ -546,6 +616,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She asked where I was going. (Correct)\n(a) She asked where was I going. (Incorrect Word Order)\n(c) She said where I was going. (Incorrect Verb)\n(d) She told where was I going. (Incorrect Verb)"
     },
@@ -561,6 +633,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher ordered the students to submit their\nhomework the next day. (Correct)\n(b) The teacher said that let the students submit their homework\ntomorrow. (Incorrect Verb)\n(c) The teacher told the students submit their homework\ntomorrow. (Incorrect Verb)\n(d) The teacher advised the students submitting homework the\nnext day. (Incorrect Verb)"
     },
@@ -576,6 +650,8 @@
       "exam": "SSC CGL 17/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Had I known about the meeting, I would have\nattended it,\" she said. (Correct)\n(a) \"If I knew about the meeting, I would attend it,\" she said.\n(Incorrect Sentence Structure)\n(c) \"If I would have known about the meeting, I would attend it,\"\nshe said. (Incorrect Sentence Structure)\n(d) \"Had I know about the meeting, I would attend it,\" she said.\n(Incorrect Verb)"
     },
@@ -591,6 +667,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said, “I am tired after the long journey.” (Correct)\n(b) He said, “I was tired after the long journey.” (Incorrect Verb)\n(c) He said, “He was tired after the long journey.” (Incorrect\nPronoun)\n(d) He said, “I had been tired after the long journey.” (Incorrect\nVerb)"
     },
@@ -606,6 +684,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said, \"The results were impressive, yet the\nprocess demanded further refinement.\" (Correct)\n(a) She said, \"The results had been impressive, yet the process\ndemanded further refinement.\" (Incorrect Verb)\n(b) She said, \"The results are impressive, yet the process\ndemands further refinement.\" (Incorrect Verb)\n(d) She said, \"The results have been impressive, yet the process\ndemands further refinement.\" (Incorrect Verb)"
     },
@@ -621,6 +701,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Rahul said that he had completed his homework.\n(Correct)\n(a) Rahul said that he has completed his homework. (Incorrect\nTense)\n(b) Rahul said that he completed his homework. (Incorrect\nTense)\n(d) Rahul said that he was completing his homework. (Incorrect\nTense)"
     },
@@ -636,6 +718,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said that she might go to the party that night.\n(Correct)\n(b) She said that she may go to the party tonight. (Incorrect\nModal Verb)\n(c) She said that she would go to the party that night. (Incorrect\nModal Verb)\n(d) She said she went to the party tonight. (Incorrect Tense)"
     },
@@ -651,6 +735,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"If you had studied harder, you might have passed the\nexam,\" said the teacher. (Correct)\n(a) \"If you studied harder, you might pass the exam,\" said the\nteacher. (Incorrect Tense)\n(c) \"Had you studied hard, you may pass the exam,\" the teacher\nsaid. (Incorrect Sentence Structure)\n(d) \"Had you been studying harder, you would pass the exam,\"\nsaid he. (Incorrect Sentence Structure)"
     },
@@ -666,6 +752,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He asked where they would hold the annual\nconference. (Correct)\n(a) He asked where would they hold the annual conference.\n(Incorrect Order)\n(b) He asked where they will hold the annual conference.\n(Incorrect Modal)\n(d) He asked if they would hold the annual conference. (Incorrect\nWord)"
     },
@@ -681,6 +769,8 @@
       "exam": "SSC CGL 18/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The designer said, \"I have overlooked a crucial detail,\nand that oversight has significantly impacted the final outcome.\"\n(Correct)\n(a) The designer said, \"I overlooked a crucial detail, and that\noversight significantly impacted the final outcome.\" (incorrect\nTense)\n(c) The designer said, \"I overlook a crucial detail, and that\noversight impacts the final outcome.\" (‘significantly’ is missing)\n(d) The designer said, \"I had overlooked a crucial detail, and that\noversight would significantly impact the final outcome.\"\n(Incorrect use of Modal)"
     },
@@ -696,6 +786,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Were the temperature to drop any further, the\nchemical reaction would cease immediately,\" noted the scientist.\n(Correct)\n(a) \"If the temperature dropped further, the chemical reaction\nwould cease immediately,\" the scientist noted. (Incorrect\nSentence Structure)\n(c) \"If the temperature was drop any further, the reaction will\nstop immediately,\" said he. (Incorrect Sentence Structure)\n(d) \"Had the temperature been dropped, the reaction ceased\nimmediately,\" said the scientist. (Incorrect Sentence Structure)"
     },
@@ -711,6 +803,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said that honesty is the best policy. (Correct)\n(a) She said that honesty was the best policy. (Incorrect Tense)\n(b) She said that honesty had been the best policy. (Incorrect\nTense)\n(d) She said honesty has been the best policy. (Incorrect Tense)"
     },
@@ -726,6 +820,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The inspector asked who had given me permission to\nenter the premises. (Correct)\n(b) The inspector asked who gave me permission to enter the\npremises. (Incorrect Tense)\n(c) The inspector said who had given me permission to enter the\npremises. (Incorrect Verb)\n(d) The inspector questioned who gives me permission to enter.\n(Incorrect Verb)"
     },
@@ -741,6 +837,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) Rashmika told me that my brother spoke ill of her.\n(Correct)\n(a) Rashmika said to me that my brother spoke ill of me.\n(Incorrect Pronoun)\n(b) Rashmika told me that my brother was speaking ill of her.\n(Incorrect Tense)\n(c) Rashmika said to me that your brother spoke ill of her.\n(Incorrect Adjective)"
     },
@@ -756,6 +854,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She concluded, \"The experimental results might have\nbeen skewed if the environmental variables had not been\nrigorously controlled.\" (Correct)\n(b) She concluded, \"The experimental results may have been\nskewed if the environmental variables were not rigorously\ncontrolled.\" (Incorrect Helping Verb)\n(c) She concluded, \"The experimental results will be skewed if\nthe environmental variables are not rigorously controlled.\"\n(Incorrect Verb)\n(d) She concluded, \"The experimental results might be skewed\nhad the environmental variables not been rigorously controlled.\"\n(Incorrect Verb)"
     },
@@ -771,6 +871,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The guard asked who had entered the premises the\nprevious night. (Correct)\n(a) The guard asked who entered the premises last night.\n(Incorrect Tense)\n(c) The guard said who entered the premises the previous night.\n(Incorrect Verb)\n(d) The guard asked that who had entered the premises last\nnight. (Incorrect Sentence Structure)"
     },
@@ -786,6 +888,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said that he hadn’t recognized her because he\nhadn’t seen her for years. (Correct)\n(a) He said that he didn’t recognize her because he hadn’t seen\nher for years. (Incorrect Tense)\n(c) He said that he hadn’t recognized her because he didn’t see\nher for years. (Incorrect Tense)\n(d) He said that he didn’t recognize her because he didn’t see her\nfor years. (Incorrect Tense)"
     },
@@ -801,6 +905,8 @@
       "exam": "SSC CGL 19/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"I have never before seen such an extraordinary\nperformance,\" she said. (Correct)\n(b) \"I had never before seen such an extraordinary performance,\"\nshe said. (Incorrect Tense)\n(c) \"Never before I have seen such an extraordinary\nperformance,\" she said. (Incorrect Sentence Structure)\n(d) \"Never before had I seen such an extraordinary performance,\"\nsaid she. (Incorrect Sentence Structure)"
     },
@@ -816,6 +922,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He requested his friend to bring him a glass of water.\n(Correct)\n(a) He told his friend to bring him a glass of water. (Incorrect\nVerb)\n(c) He persuaded his friend to bring him a glass of water.\n(Incorrect Verb)\n(d) He suggested to his friend that he should bring him a glass\nof water. (Incorrect Verb)"
     },
@@ -831,6 +939,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"I am returning the borrowed book tomorrow.\"\n(Correct)\n(a) He said, \"I return the borrowed book tomorrow.\" (Incorrect\nTense)\n(c) He said, \"I was returning the borrowed book the next day.\"\n(Incorrect Tense)\n(d) He said, \"I will return the borrowed book the next day.\"\n(Incorrect Tense)"
     },
@@ -846,6 +956,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The teacher forbade them to make noise in the\ncorridor. (Correct)\n(a) The teacher told us not to make noise in the corridor.\n(Incorrect Verb)\n(c) The teacher said them don’t make noise in the corridor.\n(Incorrect Verb)\n(d) The teacher requested them not to make noise in the\ncorridor. (Incorrect Verb)"
     },
@@ -861,6 +973,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The economist said, \"If inflation is not curbed, the\ncurrency will weaken further.\" (Correct)\n(b) The economist said, \"If inflation was not curbed, the currency\nwould weaken further.\" (Incorrect Tense)\n(c) The economist said, \"If inflation were not curbed, the\ncurrency might weaken further.\" (Incorrect Tense)\n(d) The economist said, \"Unless inflation had been curbed, the\ncurrency would have weakened further.\" (Incorrect Sentence\nStructure)"
     },
@@ -876,6 +990,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"Work carefully on the project,\" the manager advised.\n(Correct)\n(b) \"You should work carefully on the project,\" said the manager.\n(Incorrect Sentence Structure)\n(c) The manager said, \"They must work on the project carefully.\"\n(Incorrect Sentence Structure)\n(d) \"Work on the project carefully,\" the manager said to the team.\n(Incorrect Sentence Structure)"
     },
@@ -891,6 +1007,8 @@
       "exam": "SSC CGL 20/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said he had never seen such a beautiful painting\nbefore. (Correct)\n(b) He said he never saw such a beautiful painting before.\n(Incorrect Tense)\n(c) He said he has never seen such a beautiful painting before.\n(Incorrect Tense)\n(d) He said he will never see such a beautiful painting before.\n(Incorrect Tense)"
     },
@@ -906,6 +1024,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The teacher said that they would have left that school\nbefore he resigned. (Correct)\n(a) The teacher warned that you would have left this school\nbefore I resigned. (Incorrect Verb & Pronoun)\n(b) The teacher told that you would have left this school before I\nresigned. (Incorrect Verb)\n(c) The teacher said that they will have resigned from this school\nbefore he left. (Incorrect Modal)"
     },
@@ -921,6 +1041,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The director said, \"The project needs more funding,\nand the deadline has to be extended.\" (Correct)\n(b) The director said, \"The project needed more funding, and the\ndeadline has to be extended.\" (Incorrect Tense)\n(c) The director said, \"The project needs more funding, and the\ndeadline had to be extended.\" (Incorrect Verb)\n(d) The director explained, \"The project needed more funding,\nand the deadline will be extended.\" (Incorrect Tense)"
     },
@@ -936,6 +1058,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The experiment had failed due to insufficient\nmaterials,\" explained the teacher. (Correct)\n(a) \"The experiment fails due to insufficient materials,\" explained\nthe teacher. (Incorrect Sentence Structure)\n(c) The teacher said, \"The experiment will fail due to insufficient\nmaterials.\" (Incorrect Sentence Structure)\n(d) The teacher said, \"The experiment has failed due to\ninsufficient materials.\" (Incorrect Sentence Structure)"
     },
@@ -951,6 +1075,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He asked whether I would be attending the seminar\nthe following week. (Correct)\n(a) He asked if I will attend the seminar next week. (Incorrect\nSentence Structure)\n(c) He asked if you would attend the seminar next week?\"\n(Incorrect Sentence Structure)\n(d) He asked if I would be attending the seminar next week.\n(Incorrect Sentence Structure)"
     },
@@ -966,6 +1092,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The police said that people would be burning inside\ntheir homes if the firefighters had not arrived on time. (Correct)\n(b) The police said that if the firefighters do not arrive on time\npeople will be burning inside their homes. (Incorrect Tense)\n(c) The police exclaimed that people burn when firefighters do\nnot arrive on time. (Meaning has changed)\n(d) The police pointed towards the fact that people burn when\nfirefighters do not arrive on time. (Meaning has changed)"
     },
@@ -981,6 +1109,8 @@
       "exam": "SSC CGL 21/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said, “I can not compete in the marathon due to\ninjured ankles.” (Correct)\n(a) She said, “I can not compete in the marathon due to pain in\nmy ankles.” (Incorrect Phrase)\n(b) She said, “I could not compete in the marathon due to healthy\nankles.” (Incorrect Modal)\n(d) She said, “I could compete in the marathon if not for the\ninjured ankles.” (Incorrect Phrase)"
     },
@@ -996,6 +1126,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher said, \"You should work hard for your\nexams.\" (Correct)\n(b) The teacher said to the students, \"Work hard for your exams.\"\n(Incorrect Sentence Structure)\n(c) The teacher said, \"The students must work hard for their\nexams.\" (Incorrect Sentence Structure)\n(d) The teacher told the students, \"You will work hard for your\nexams.\" (Incorrect Sentence Structure)"
     },
@@ -1011,6 +1143,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) My friend exclaimed with joy that they had won the\nmatch. (Correct)\n(b) My friend said with joy that they won the match. (Incorrect\nSentence Structure)\n(c) My friend exclaimed joyfully that we have won the match.\n(Incorrect Verb)\n(d) My friend told me that they had won the match happily.\n(Incorrect Verb)"
     },
@@ -1026,6 +1160,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He explained that he had finished all his tasks for the\nday. (Correct)\n(b) He explained that he has finished all his tasks for the day.\n(Incorrect Tense)\n(c) He explained that he finished all his tasks for the day.\n(Incorrect Tense)\n(d) He explained that I had finished all his tasks for the day.\n(Incorrect Pronoun)"
     },
@@ -1041,6 +1177,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The reviewer projected, \"The market will rebound\nsharply in the next quarter, provided global economic stability\nimproves.\" (Correct)\n(b) The reviewer projected, \"The market would rebound sharply\nin the next quarter, provided global economic stability improved.\"\n(Incorrect Tense)\n(c) The reviewer projected, \"The market might rebound sharply in\nthe next quarter, provided global economic stability improves.\"\n(Incorrect Modal)\n(d) The reviewer projected, \"The market ought to rebound\nsharply in the next quarter, provided global economic stability\nimproved.\" (Incorrect Modal)"
     },
@@ -1056,6 +1194,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He asked, \"Have you completed the project?\" (Correct)\n(b) He said that, \"Did you complete the project?\" (Incorrect Verb)\n(c) He said, \"Had you completed the project?\" (Incorrect Verb)\n(d) He asked, \"Do you complete the project?\" (Incorrect Verb)"
     },
@@ -1071,6 +1211,8 @@
       "exam": "SSC CGL 22/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said that he had finished the assignment the\nprevious day. (Correct)\n(a) He said that he finished the assignment the previous day.\n(Incorrect Tense)\n(b) He said that he has finished the assignment yesterday.\n(Incorrect Tense)\n(d) He said that he was finishing the assignment yesterday.\n(Incorrect Tense)"
     },
@@ -1086,6 +1228,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He stated, \"I am feeling much better today.\" (Correct)\n(a) He stated, \"I had been feeling much better that day.\"\n(Incorrect Tense)\n(b) He stated, \"I was feeling much better that day.\" (Incorrect\nTense)\n(c) He stated, \"He is feeling much better today.\" (Incorrect\nHelping Verb)"
     },
@@ -1101,6 +1245,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Mayank complained that he had lost his favourite pen.\n(Correct)\n(a) Mayank complained that I had lost my favourite pen.\n(Incorrect Pronoun)\n(b) Mayank complained that he has lost his favourite pen.\n(Incorrect Tense)\n(d) Mayank complained that he lost his favourite pen. (Helping\nverb is missing.)"
     },
@@ -1116,6 +1262,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"Had the committee reached a consensus\nearlier, the proposal might have been approved without\nobjections.\" (Correct)\n(a) He said, \"If the committee reached a consensus earlier, the\nproposal may have been approved without objections.\"\n(Incorrect Conjunction)\n(c) He said, \"If the committee had reached a consensus earlier,\nthe proposal must have been approved without objections.\"\n(Incorrect Conjunction)\n(d) He said, \"Had the committee reached a consensus earlier, the\nproposal will have been approved without objections.\" (Incorrect\nTense)"
     },
@@ -1131,6 +1279,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The doctor told the patient to take his medicines\nregularly and to avoid junk food. (Correct)\n(b) The doctor said the patient to taking medicines regular and\navoiding junk food. (Incorrect Reporting Verb)\n(c) The doctor asked the patient that he takes medicines\nregularly and avoids junk food. (Incorrect Reporting Verb)\n(d) The doctor advised the patient that he should take medicine\nregularly. (Incorrect Reporting Verb)"
     },
@@ -1146,6 +1296,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said, \"Why has the train not arrived yet?\" (Correct)\n(b) She said, \"Why did the train not arrive yet?\" (Incorrect Verb)\n(c) She said, \"Why had the train not arrived yet?\" (Incorrect Verb)\n(d) She said, \"Why is the train not arriving yet?\" (Incorrect Verb)"
     },
@@ -1161,6 +1313,8 @@
       "exam": "SSC CGL 23/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) I asked when he was leaving for Delhi. (Correct)\n(a) I asked when are you leaving for Delhi. (Incorrect Tense)\n(b) I told when he left for Delhi. (Incorrect Sentence Structure)\n(c) I said when was he leaving for Delhi. (Incorrect Tense)"
     },
@@ -1176,6 +1330,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The teacher advised the students to be attentive while\nsolving the equations. (Correct)\n(a) The teacher requested the students that they must be\nattentive while solving the equations. (Incorrect Sentence\nStructure)\n(b) The teacher told the students that they should be attentive\nwhile solving equations. (Incorrect Sentence Structure)\n(c) The teacher said the students to be attentive while solving\nequations. (Incorrect Verb)"
     },
@@ -1191,6 +1347,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She asked me where I had kept her notebook.\n(Correct)\n(a) She asked me where had I kept her notebook. (Incorrect\norder of Words)\n(c) She asked me where I have kept her notebook. (Incorrect\nHelping Verb)\n(d) She said me where I had kept her notebook. (Incorrect Verb)"
     },
@@ -1206,6 +1364,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The professor said, \"The theory has several\nlimitations.\" (Correct)\n(b) The professor said, \"The theory had several limitations.\"\n(Incorrect Tense)\n(c) He said, \"This theory is full of errors.\" (Incorrect Sentence\nStructure)\n(d) He remarked, \"The theory has no limitations.\" (Incorrect\nSentence Structure)"
     },
@@ -1221,6 +1381,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Ravi suggested that they should help the needy.\n(Correct)\n(a) Ravi said that they should help the needy. (Incorrect Verb)\n(c) Ravi told that they will help the needy. (Incorrect Verb)\n(d) Ravi ordered that they must help the needy. (Incorrect Verb)"
     },
@@ -1236,6 +1398,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She told me, \"I finished my work before sunset.\"\n(Correct)\n(b) She told me, \"I had finished your work before sunset.\"\n(Incorrect Possessive)\n(c) She told me, \"I finish my work before sunset.\" (Incorrect form\nof Verb)\n(d) She told me, \"She had been finishing her work before sunset.\"\n(Incorrect Tense)"
     },
@@ -1251,6 +1415,8 @@
       "exam": "SSC CGL 24/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Arjun told his colleagues that they would not discuss\nthat topic again. (Correct)\n(b) Arjun said his colleagues that they shall not discuss this\ntopic again. (Incorrect Verb & Modal)\n(c) Arjun told his colleagues that they shall not discussed that\ntopic again. (Incorrect Modal & form of Verb)\n(d) Arjun said that his colleagues would not discuss this topic\nagain. (Incorrect Sentence Structure)"
     },
@@ -1266,6 +1432,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She told her friend, \"I have visited this place.\" (Correct)\n(b) She said to her friend, \"I visit this place.\" (Incorrect Tense)\n(c) She told her friend, \"I had visited that place.\" (Incorrect Tense)\n(d) She said to her friend, \"She visited that place.\" (Incorrect\nPronoun)"
     },
@@ -1281,6 +1449,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She inquired if I would attend the seminar the next\nday. (Correct)\n(b) She inquired if I will be attending the seminar tomorrow.\n(Incorrect Verb)\n(c) She inquired whether I would attend the seminar tomorrow.\n(Incorrect Adverb)\n(d) She inquired if would I be attending the seminar the next day.\n(Incorrect Order of Words)"
     },
@@ -1296,6 +1466,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He claimed, \"Had the firewall been configured\ncorrectly, the software could have prevented the breach.\"\n(Correct)\n(b) He claimed, \"The firewall had configured correctly, software\nprevents breach.\" (Incorrect Sentence Structure)\n(c) He said, \"If firewall is configured, software might prevent\nbreach.\" (Incorrect Sentence Structure)\n(d) He said, \"Software prevents breach if firewall have been\nconfigured correctly.\" (Incorrect Sentence Structure)"
     },
@@ -1311,6 +1483,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He asked if I had submitted the report. (Correct)\n(b) He asked whether I have submitted the report. (Incorrect\nConjunction)\n(c) He asked that I had submitted the report. (Incorrect\nConjunction)\n(d) He asked have I submitted the report. (Incorrect Conjunction)"
     },
@@ -1326,6 +1500,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He explained, \"I have been waiting for the bus for an\nhour.\" (Correct)\n(a) He explained, \"I had been waiting for the bus since an hour.\"\n(Incorrect Preposition)\n(b) He explained, \"I was waiting for the bus for an hour.\"\n(Incorrect Tense)\n(d) He explained, \"I had waited for the bus for an hour.\" (Incorrect\nTense)"
     },
@@ -1341,6 +1517,8 @@
       "exam": "SSC CGL 25/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He enquired if anyone spoke French. (Correct)\n(b) He enquired if anyone speaks French. (Incorrect form of\nVerb)\n(c) He enquired that if anyone spoke French. (Incorrect use of\n‘that’)\n(d) He enquired does anyone speak French. (Incorrect Sentence\nStructure)"
     },
@@ -1356,6 +1534,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The manager complained, \"The employees had\nneglected the safety protocols during the inspection.\" (Correct)\n(a) The manager complained, \"The employees did neglect the\nsafety protocols during the inspection.\" (Incorrect Tense)\n(c) The manager complained, \"Employees neglect the safety\nprotocols during the inspection.\" (Incorrect Sentence Structure)\n(d) The manager complained, \"The employees have neglected\nsafety protocols during the inspection.\" (Incorrect Tense)"
     },
@@ -1371,6 +1551,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Anita said she would meet me at the station. (Correct)\n(a) Anita said she will meet me at the station. (Incorrect Tense)\n(c) Anita said she shall meet me at the station. (Incorrect Tense)\n(d) Anita said she meets me at the station. (Incorrect Tense)"
     },
@@ -1386,6 +1568,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The librarian instructed them not to reshelve the\nbooks themselves. (Correct)\n(a) The librarian instructed not to reshelve the books\nthemselves. (‘them’ is missing)\n(b) The librarian instructed them do not reshelve the books\nthemselves. (Incorrect Structure)\n(c) The librarian instructed that they do not reshelve the books\nyourselves (Incorrect Sentence Structure)"
     },
@@ -1401,6 +1585,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The manager said, \"The bonus will be disbursed,\nprovided that the quarterly targets have been met.\" (Correct)\n(b) The manager said, \"The bonus would be disbursed, provided\nthat the quarterly targets had been met.\" (Incorrect Modal Verb )\n(c) The manager said, \"The bonus can be disbursed, provided\nthat the quarterly targets were met.\" (Incorrect Modal Verb)\n(d) The manager said, \"The bonus is disbursed, provided that the\nquarterly targets are met.\" (Incorrect Tense)"
     },
@@ -1416,6 +1602,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The manager explained, \"The team had already\nsubmitted the report before the deadline.\" (Correct)\n(a) The manager said, \"The team has submitted the report\nbefore the deadline.\" (Incorrect Verb)\n(c) The manager said, \"The team submitted the report before the\ndeadline.\" (Incorrect Sentence Structure)\n(d) The manager explained, \"The team have submitted the report\nbefore the deadline.\" (Incorrect Tense)"
     },
@@ -1431,6 +1619,8 @@
       "exam": "SSC CGL 26/09/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said he had completed his homework. (Correct)\n(b) He said he has completed his homework. (Incorrect Tense)\n(c) He said he completed his homework. (Incorrect Tense)\n(d) He said he completes his homework. (Incorrect Tense)"
     },
@@ -1446,6 +1636,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He explained that he had finished all his tasks for the\nday. (Correct)\n(b) He explained that he has finished all his tasks for the day.\n(Incorrect Tense)\n(c) He explained that he finished all his tasks for the day.\n(Incorrect Tense)\n(d) He explained that I had finished all his tasks for the day.\n(Incorrect Pronoun)"
     },
@@ -1461,6 +1653,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 1)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said that he was going to the park. (Correct)\n(a) He said that he is going to the park. (Incorrect Tense)\n(b) He said that I was going to the park. (Incorrect Pronoun)\n(d) He said he went to the park. (Incorrect Tense)"
     },
@@ -1476,6 +1670,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He instructed that she should not be disturbed.\n(Correct)\n(b) He refused that she should not be disturbed. (Incorrect Verb)\n(c) He advised that she is not disturbed. (Incorrect Verb)\n(d) He said do not disturb her. (Incorrect Sentence Structure)"
     },
@@ -1491,6 +1687,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 2)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He asked me if I would submit my resignation the\nfollowing day. (Correct)\n(a) He asked me that I will submit my resignation the following\nday. (Incorrect Modal)\n(b) He asked me whether I would submit your resignation\ntomorrow. (Incorrect Possessive)\n(d) He told me that you would submit your resignation the\nfollowing day. (Incorrect Verb & Pronoun)"
     },
@@ -1506,6 +1704,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"I am returning the borrowed book\ntomorrow.\" (Correct)\n(a) He said, \"I return the borrowed book tomorrow.\" (Incorrect\nTense)\n(c) He said, \"I was returning the borrowed book the next day.\"\n(Incorrect Tense)\n(d) He said, \"I will return the borrowed book the next day.\"\n(Incorrect Tense)"
     },
@@ -1521,6 +1721,8 @@
       "exam": "SSC CGL 14/10/2025 (Shift 3)",
       "examType": "SSC CGL 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She told her friend, \"I have visited this place.\"\n(Correct)\n(b) She said to her friend, \"I visit this place.\" (Incorrect Tense)\n(c) She told her friend, \"I had visited that place.\" (Incorrect Tense)\n(d) She said to her friend, \"She visited that place.\" (Incorrect\nPronoun)"
     },
@@ -1536,6 +1738,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 24/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Riya said that she would explain everything to me.\n(Correct)\n(a) Riya said that she will explain everything to me. (Incorrect\nModal)\n(c) Riya told that she would explaining everything to me.\n(Incorrect Verb)\n(d) Riya said she will be explaining everything to me. (Incorrect\nModal)"
     },
@@ -1551,6 +1755,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 24/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The teacher advised us to complete our work on\ntime. (Correct)\n(a) The teacher told us complete your work on time. (Incorrect\nVerb)\n(c) The teacher said that we complete work on time. (Incorrect\nVerb)\n(d) The teacher asked completing the work on time. (Incorrect\nVerb)"
     },
@@ -1566,6 +1772,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 24/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said, \"I am learning French.\" (Correct)\n(b) She said, \"I was learning French.\" (Incorrect Tense)\n(c) She said, \"I learn French.\" (Incorrect Tense)\n(d) She said, \"I have been learning French.\" (Incorrect Tense)"
     },
@@ -1581,6 +1789,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 24/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The girl asked, \"Can I borrow the book?\" (Correct)\n(a) The girl asked, \"May I borrow the book?\" (Incorrect Modal)\n(b) The girl asked, \"Can she borrow the book?\" (Incorrect\nPronoun)\n(d) The girl said, \"Could I borrow the book?\" (Incorrect Modal)"
     },
@@ -1596,6 +1806,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 25/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The man said that he had seen that movie before.\n(Correct)\n(a) The man said that he has seen that movie before. (Incorrect\nTense)\n(c) The man said that he saw this movie before. (Incorrect\nTense)\n(d) The man said he seeing that movie before. (Incorrect Tense)"
     },
@@ -1611,6 +1823,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 25/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The players said, \"We are practicing for the match.\"\n(Correct)\n(b) The players said, \"They are practicing for the match.\"\n(Incorrect Pronoun)\n(c) The players said, \"We were practicing for the match.\"\n(Incorrect Tense)\n(d) The players said, \"We had practiced for the match.\" (Incorrect\nTense)"
     },
@@ -1626,6 +1840,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 25/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She exclaimed, \"Alas! My friend has failed the exam.\"\n(Correct)\n(a) She said, \"My friend failed the exam.\" (‘Alas!’ is Missing)\n(b) She exclaimed, \"My friend has failed the exam!\" (Incorrect\nVerb)\n(d) She said, \"How my friend has failed the exam!\" (‘Alas!’ is\nMissing)"
     },
@@ -1641,6 +1857,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 25/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He asked me which book he should bring for me the\nfollowing week. (Correct)\n(a) He asked me which book he will bring for me the next week.\n(Incorrect Modal)\n(c) He asked me which book shall he bring for me the next week.\n(Incorrect Modal)\n(d) He asked me which book he would bring for me the previous\nweek. (Incorrect Modal)"
     },
@@ -1656,6 +1874,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 26/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Riya said that she was working on her project then.\n(Correct)\n(a) Riya said that she is working on her project now. (Incorrect\nTense)\n(c) Riya said that she had worked on her project then. (Incorrect\nTense)\n(d) Riya said that she worked on her project now.\n(Incorrect Tense)"
     },
@@ -1671,6 +1891,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 26/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Ritu said that she might buy a new phone the\nfollowing year. (Correct)\n(b) Ritu said that she may buy a new phone next year. (Incorrect\nModal)\n(c) Ritu said that she would buy a new phone next year.\n(Incorrect Modal)\n(d) Ritu told that she might bought a new phone the following\nyear. (Incorrect Verb)"
     },
@@ -1686,6 +1908,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 26/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said, \"I am preparing for the exam.\" (Correct)\n(b) He said, \"I prepare for the exam.\" (Incorrect Tense)\n(c) He said, \"He is preparing for the exam.\" (Incorrect Pronoun)\n(d) He said, \"I was preparing for the exam.\" (Incorrect Tense)"
     },
@@ -1701,6 +1925,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 26/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The captain said to the players, \"Get ready for the\nmatch.\" (Correct)\n(a) The captain said, \"You should get ready for the match.\"\n(Incorrect Sentence Structure)\n(c) The captain commanded, \"You must get ready.\" (Incorrect\nSentence Structure)\n(d) The captain asked, \"Can you get ready for the match?\"\n(Incorrect Sentence Structure)"
     },
@@ -1716,6 +1942,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 28/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The manager asked the staff whether they had\nsubmitted the report. (Correct)\n(a) The manager asked the staff if they have submitted the\nreport. (Incorrect Conjunction)\n(c) The manager told the staff if they submitted the report.\n(Incorrect Conjunction)\n(d) The manager asked the staff had they submitted the report.\n(‘Conjunction’ is Missing)"
     },
@@ -1731,6 +1959,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 28/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The teacher asked where I had kept my notebook.\n(Correct)\n(a) The teacher asked where they kept their notebook. (Incorrect\nPronoun)\n(c) The teacher told where I had kept my notebook. (Incorrect\nVerb)\n(d) The teacher asked if I kept my notebook. (Incorrect Sentence\nStructure)"
     },
@@ -1746,6 +1976,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 28/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They said, \"We will travel to Goa next month.\"\n(Correct)\n(a) They said, \"We would travel to Goa next month.\" (Incorrect\nModal)\n(c) They said, \"They will travel to Goa next month.\" (Incorrect\nPronoun)\n(d) They said, \"We shall travel Goa next month.\" (Incorrect\nModal)"
     },
@@ -1761,6 +1993,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 28/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The doctor said, \"Take medicine regularly.\" (Correct)\n(b) The doctor told, \"He should take medicine regularly.\"\n(Incorrect Verb)\n(c) The doctor said, \"You took medicine regularly.\" (Incorrect\nSentence Structure)\n(d) The doctor ordered, \"Take medicines regularly.\" (Incorrect\nVerb)"
     },
@@ -1776,6 +2010,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They requested the guard to open the gate. (Correct)\n(a) They told the guard to please open the gate. (Incorrect Verb)\n(c) They asked the guard open the gate. (Incorrect Verb)\n(d) They said to the guard that he open the gate. (Incorrect Verb)"
     },
@@ -1791,6 +2027,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said that he could solve that problem. (Correct)\n(a) He said that he can solve this problem. (Incorrect Modal)\n(c) He told that he could solve the problem. (Incorrect Verb)\n(d) He said he will solve this problem. (Incorrect Modal)"
     },
@@ -1806,6 +2044,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The boy said, \"I am playing in the garden.\" (Correct)\n(a) The boy said, \"I was playing in the garden.\" (Incorrect Tense)\n(c) The boy said, \"He is playing in the garden.\" (Incorrect\nPronoun)\n(d) The boy said, \"He was playing in the garden.\" (Incorrect\nPronoun)"
     },
@@ -1821,6 +2061,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) My friend said, \"Please open the window.\" (Correct)\n(a) My friend said, \"Open the window.\" (‘Please’ is Missing)\n(c) My friend asked, \"Could you open the window?\" (Incorrect\nVerb)\n(d) My friend told, \"Open the window, please.\" (Incorrect Verb)"
     },
@@ -1836,6 +2078,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 30/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) She asked whether I lived near that school. (Correct)\n(a) She asked if I had lived near this school. (Incorrect Tense)\n(b) She asked if I have lived near this school. (Incorrect Tense)\n(c) She asked did I live near the school. (Incorrect Conjunction)"
     },
@@ -1851,6 +2095,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 30/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said that she had to speak to the principal.\n(Correct)\n(a) She said that she must speak to the principal. (Incorrect\nTense)\n(c) She said she must had spoken to principal. (‘That’ is Missing)\n(d) She said that she will speak to the principal. (Incorrect\nTense)"
     },
@@ -1866,6 +2112,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 30/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) They said, \"We will go on a trip tomorrow.\" (Correct)\n(b) They said, \"They will go on a trip tomorrow.\" (Incorrect\nPronoun)\n(c) They said, \"We would go on a trip the next day.\" (Incorrect\nModal)\n(d) They said, \"They would go on a trip the next day.\" (Incorrect\nPronoun)"
     },
@@ -1881,6 +2129,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 30/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The doctor said, \"The patient should take rest.\"\n(Correct)\n(a) The doctor said, \"The patient takes rest.\" (‘Should’ is Missing)\n(b) The doctor said, \"He should take rest.\" (‘The” is Missing)\n(d) The doctor said, \"The patient will take rest.\" (Incorrect Modal)"
     },
@@ -1896,6 +2146,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 31/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Rita said that she was feeling unwell that day.\n(Correct)\n(b) Rita said that she is feeling unwell today. (Incorrect Tense)\n(c) Rita said that she feels unwell that day. (Incorrect Tense)\n(d) Rita said that she has felt unwell today. (Incorrect Tense)"
     },
@@ -1911,6 +2163,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 31/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Sita said, \"I could not come to school because it was\nraining.\" (Correct)\n(a) Sita said, \"I cannot come to school because it is raining.\"\n(Incorrect Tense)\n(c) Sita said, \"She could not come to school because it was\nraining.\" (Incorrect Pronoun)\n(d) Sita said, \"I will not come to school because it is raining.\"\n(Incorrect Modal)"
     },
@@ -1926,6 +2180,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 31/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher asked, \"Have you completed the\nassignment?\" (Correct)\n(b) The teacher asked, \"Did you completed the assignment?\"\n(Incorrect Verb)\n(c) The teacher said, \"You completed the assignment?\"\n(Incorrect Verb)\n(d) The teacher asked, \"Had you completed the assignment?\"\n(Incorrect Verb)"
     },
@@ -1941,6 +2197,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 31/07/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She asked me if I had completed my registration\nonline. (Correct)\n(a) She asked me if I completed my registration online. (‘Had’ is\nMissing)\n(c) She said me if I had completed my registration online.\n(Incorrect Verb)\n(d) She asked if I have completed my registration online.\n(Incorrect Tense)"
     },
@@ -1956,6 +2214,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 02/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The boy said, \"I have forgotten my notebook.\"\n(Correct)\n(a) The boy said, \"I forgot my notebook.\" (Incorrect Tense)\n(c) The boy said, \"I am forgetting my notebook.\" (Incorrect\nTense)\n(d) The boy said, \"I had forgotten my notebook.\" (Incorrect\nTense)"
     },
@@ -1971,6 +2231,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 02/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The captain suggested to the team that they should\npractice harder before the match. (Correct)\n(a) The captain suggested that the team should practice harder\nbefore the match. (Incorrect Word Order)\n(b) The captain told the team to practice harder before the\nmatch. (Incorrect Verb)\n(d) The captain urged the team to have practiced harder before\nthe match. (Incorrect Verb)"
     },
@@ -1986,6 +2248,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He speculated if it could be that they had relied too\nmuch on assumptions. (Correct)\n(a) He speculated if they had relied too much on assumptions.\n(‘Could’ is Missing)\n(b) He speculated whether they could might have relied too\nmuch on assumptions. (Incorrect Conjunction)\n(c) He speculated that if they had relied too much on\nassumptions. (Incorrect Sentence Structure)"
     },
@@ -2001,6 +2265,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Ravi said, \"I might travel to Mumbai next week.\"\n(Correct)\n(a) Ravi said, \"I may travel to Mumbai next week.\" (Incorrect\nModal)\n(c) Ravi said, \"I could travel to Mumbai next week.\" (Incorrect\nModal)\n(d) Ravi said, \"I should travel to Mumbai the next week.\"\n(Incorrect Modal)"
     },
@@ -2016,6 +2282,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"The film could not have succeeded without\naudience support,\" emphasized the director. (Correct)\n(a) \"The film cannot succeed without audience support,\" said the\ndirector. (Incorrect Verb)\n(c) \"Audience support is unnecessary for success,\" claimed the\ndirector. (Incorrect Sentence Structure)\n(d) \"Without support, the audience failed the film,\" said the\ndirector. (Incorrect Sentence Structure)"
     },
@@ -2031,6 +2299,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Higher Secondary 29/08/2025 (Shift - 2)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Had inflation been controlled earlier, the crisis could\nhave been avoided,\" pointed out the economist. (Correct)\n(a) \"The crisis was unavoidable due to inflation,\" claimed the\neconomist. (Incorrect Sentence Structure)\n(c) \"The crisis happened because inflation was not controlled,\"\nthe economist blamed. (Incorrect Sentence Structure)\n(d) \"Inflation was never controlled properly,\" the economist\ncomplained. (Incorrect Sentence Structure)"
     },
@@ -2046,6 +2316,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 24/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The detective noted that though new evidence\nemerged, the investigation remained inconclusive. (Correct)\n(a) The detective noted that investigation remained inconclusive\nbecause no evidence emerged. (Incorrect Word Order)\n(c) The detective noted that the investigation was inconclusive\nfrom no new evidence. (Incorrect Tense)\n(d) The detective noted that the evidence caused inconclusive\nresults. (Incorrect Sentence Structure)"
     },
@@ -2061,6 +2333,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 24/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) \"If you fail to submit your verification forms, your IDs\nwill be deactivated,\" the administrator informed them. (Correct)\n(a) \"Submit your verification forms or your IDs will be\ndeactivated,\" the administrator told the employees. (Incorrect\nSentence Structure)\n(b) \"Your IDs are deactivated because you haven't submitted the\nforms,\" the administrator said. (Incorrect Sentence Structure)\n(d) \"You must submit verification forms for deactivation,\" said\nthe administrator. (Incorrect Sentence Structure)"
     },
@@ -2076,6 +2350,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 25/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The organizer exclaimed that it was unfortunate that\nthe event had to be canceled. (Correct)\n(a) The organizer exclaimed how unfortunate the event had been\ncanceled. (Incorrect Tense)\n(b) The organizer said it was unfortunate that the event was\ncanceled. (Incorrect Verb)\n(d) The organizer exclaimed unfortunate that event must\ncanceled. (Incomplete Sentence)"
     },
@@ -2091,6 +2367,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 25/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"Would the eligibility criteria be altered due to the\nrecent policy changes?\" he asked. (Correct)\n(b) \"The eligibility criteria are altered because of policy changes,\ncorrect?\" he asked. (Incorrect Sentence Structure)\n(c) \"Could it be possible that the eligibility policy be cancelled?\"\nhe asked. (Incorrect Sentence Structure)\n(d) \"Are the new policies changing eligibility?\" he asked.\n(Incorrect Sentence Structure)"
     },
@@ -2106,6 +2384,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 26/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The spokesperson exclaimed that it was shocking\nthat the report had been leaked before the announcement.\n(Correct)\n(a) The spokesperson was shocked that the report leaked before\nthe announcement. (Incomplete Sentence)\n(b) The spokesperson said that the report had been leaked\nbefore the announcement. (Incomplete Verb)\n(d) The spokesperson exclaimed how shocking the report had\nbeen leaked. (Incomplete Sentence)"
     },
@@ -2121,6 +2401,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 26/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Can we modify the design proposal in view of the\nrecent feedback?\" the client asked. (Correct)\n(a) \"Should the design proposal be rejected because of the\nfeedback?\" asked the client. (Incorrect Sentence Structure)\n(c) \"Is the design proposal final despite feedback?\" the client\nasked. (Incorrect Sentence Structure)\n(d) \"Has recent feedback changed the design?\" asked the client.\n(Incorrect Sentence Structure)"
     },
@@ -2136,6 +2418,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 28/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The lawyer announced that it should be recorded\nthey had acted in accordance with the law. (Correct)\n(a) The lawyer announced that they acted lawfully. (Incomplete\nSentence)\n(c) The lawyer said let it be recorded that they acted according\nto law. (Incorrect Verb)\n(d) The lawyer announced they acted in accordance with the law.\n(Incomplete Sentence)"
     },
@@ -2151,6 +2435,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 28/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"Are the documents you promised to send yesterday\nstill pending?\" he asked. (Correct)\n(b) \"Were the documents sent last evening or are they pending?\"\nhe asked. (Incorrect Verb)\n(c) \"Had you sent the documents promised yesterday, or are they\npending?\" he asked. (Incorrect Verb)\n(d) \"Have the documents we promised last evening been sent?\"\nhe asked. (Incorrect Verb)"
     },
@@ -2166,6 +2452,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 29/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The coach remarked that she was so determined\nthat nothing could hinder her progress. (Correct)\n(a) The coach stated that she was determined that nothing\ncould hinder her progress. (Incorrect Verb)\n(b) The coach remarked that her determination was strong\nenough to progress. (Incorrect Pronoun)\n(d) The coach said she had determination and nothing hindered.\n(Incorrect Verb)"
     },
@@ -2181,6 +2469,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 29/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) \"Only those who achieve the quarterly targets will\nreceive bonuses,\" the manager said. (Correct)\n(a) \"Bonuses are only for employees who achieve their quarterly\ntargets,\" the manager informed them. (Incorrect Sentence\nStructure)\n(b) \"If quarterly targets are not achieved, no bonuses will be\ngiven,\" said the manager. (Incorrect Sentence Structure)\n(d) \"Employees achieving targets get bonuses,\" the manager told\nthem. (Incorrect Sentence Structure)"
     },
@@ -2196,6 +2486,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 31/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said bitterly that if I had kept my promise, he\nwould trust me that day. (Correct)\n(a) He bitterly said that if I keep my promise, he would trust me.\n(Incorrect Word Order)\n(b) He bitterly told that if I had kept my promise, he would trust\nme today. (Incorrect Verb)\n(d) He said bitterly that if I had kept my promise, he would have\ntrusted me today. (Incorrect Tense)"
     },
@@ -2211,6 +2503,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 31/07/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \"Once the audit begins, no files are to be moved from\ntheir departments,\" the director warned. (Correct)\n(a) \"No one should move files during the audit period,\" the\ndirector warned. (Incorrect Sentence Structure)\n(c) \"Files cannot be moved before the audit is complete,\" the\ndirector said. (Incorrect Sentence Structure)\n(d) \"Some files may be moved only with permission,\" the director\nsaid. (Incorrect Sentence Structure)"
     },
@@ -2226,6 +2520,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 02/08/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The auditor formally inquired whether he might draw\ntheir attention to the errors in section two. (Correct)\n(a) The auditor formally asked may he draw attention to errors in\nsection two. (Incorrect Verb)\n(b) The auditor formally stated that he may draw attention to the\nerrors. (Incorrect Verb)\n(d) The auditor formally requested to notice the errors in section\ntwo. (Incorrect Verb)"
     },
@@ -2241,6 +2537,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 02/08/2025 (Shift - 3)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) \"Your strategy is ambitious, but it lacks concrete\nimplementation steps,\" the consultant stated. (Correct)\n(b) \"Ambitious strategy without steps cannot work,\" stated the\nconsultant. (Incorrect Sentence Structure)\n(c) \"The strategy lacked planning even though it was ambitious,\"\nsaid the consultant. (Incorrect Sentence Structure)\n(d) \"Ambition alone will not work without steps,\" the consultant\nwarned. (Incorrect Sentence Structure)"
     },
@@ -2256,6 +2554,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 29/08/2025 (Shift - 1)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"I didn’t have a chance to review the\ndocuments yesterday.\" (Correct)\n(a) He said, \"I haven’t had a chance to review the documents the\nday before.\" (Incorrect Tense)\n(c) He said, \"I hadn’t had a chance to review the documents\nyesterday.\" (Incorrect Tense)\n(d) He said, \"I didn’t had a chance to review the documents\nyesterday.\" (Incorrect Tense)"
     },
@@ -2271,6 +2571,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 29/08/2025 (Shift - 1)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Raju exclaimed with joy that they had won the\nchampionship. (Correct)\n(b) Raju happily said that they have won the championship.\n(Incorrect Verb)\n(c) Raju joyfully told that they had win the championship.\n(Incorrect Verb)\n(d) Raju exclaimed joy that they won the championship. (‘Had’ is\nMissing)"
     },
@@ -2286,6 +2588,8 @@
       "exam": "SSC Selection Post (Phase-XIII) - Graduate Level 29/08/2025 (Shift - 1)",
       "examType": "SSC Selection Post (Phase-XIII) 2025",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) I asked her whether she liked classical music.\n(Correct)\n(a) I told her if she liked classical music. (Incorrect Verb)\n(c) I asked her did she like classical music. (Incorrect Tense)\n(d) I asked her whether she likes classical music. (Incorrect\nTense)"
     },
@@ -2301,6 +2605,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) My friend said, \"I can meet you after lunch.\" (Correct)\n(a) My friend said, \"Shall I meet you after lunch?\" (Incorrect\nModal)\n(b) My friend said, \"I could meet you after lunch.\" (Incorrect\nModal)\n(c) My friend said, \"May I meet you after lunch?\" (Incorrect\nModal)"
     },
@@ -2316,6 +2622,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) Rehan told Mallika that the Somnath Temple is in\nPrabhas Patan in Gujarat. (Correct)\n(a) Rehan told Mallika that the Somnath Temple was in Prabhas\nPatan in Gujarat. (Incorrect Verb)\n(b) Rehan told Mallika that the Somnath Temple had been in\nPrabhas Patan in Gujarat. (Incorrect Verb)\n(c) Rehan told Mallika that the Somnath Temple has been in\nPrabhas Patan in Gujarat. (Incorrect Verb)"
     },
@@ -2331,6 +2639,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The officer said that if he had known about the\nproblem earlier, he would have helped. (Correct)\n(a) The officer said he had helped if he had known it. (Incorrect\nSentence Structure)\n(b) The officer told if he knew about the problem, he would help.\n(Incorrect Tense)\n(c) The officer said that he know if he had helped. (Incorrect\nTense)"
     },
@@ -2346,6 +2656,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Roshni told Rakesh that time and tide waits for none.\n(Correct) “Time and tide waits for none” is a proverb, which\nmeans that people cannot stop the passing of time, and\ntherefore should not delay doing things. When the reported\nspeech is a general truth or a proverb, its tense does not change.\nHence, option (b) gives the correct indirect form of the given\nsentence."
     },
@@ -2361,6 +2673,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The teacher said, \"The sun rises in the east.\"\n(Correct)\n(a) The teacher said, \"The sun rising in the east.\" (Incorrect form\nof Verb)\n(b) The teacher said, \"The sun rose in the east.\" (Incorrect Tense)\n(c) The teacher said, \"The sun has risen in the east.\" (Incorrect\nTense)"
     },
@@ -2376,6 +2690,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She exclaimed to her friend that she had made a\nvery beautiful painting. (Correct)\n(b) She told her that the painting is beautiful. (Incorrect Sentence\nStructure)\n(c) She exclaimed to her friend that she made a very beautiful\npainting. (Incorrect Tense)\n(d) She shouted that painting was very nice. (Incorrect Sentence\nStructure)"
     },
@@ -2391,6 +2707,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The teacher asked them to open their books.\n(Correct)\n(b) The teacher asked to open books. (The verb ‘ask’ needs an\nobject)\n(c) The teacher ordered them opening the books. (Incorrect\nVerb)\n(d) The teacher said them open your books. (Incorrect Verb)"
     },
@@ -2406,6 +2724,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said, “I was waiting here for more than two hours\nbefore the gates finally opened.” (Correct)\n(a) He said, “I have been waiting here since two hours before the\ngates opened.” (Incorrect preposition)\n(b) He said, “I waited here two hours before gates opened.”\n(Incorrect Tense)\n(d) He said, “I had waiting there before the gates opened.”\n(Incorrect Tense)"
     },
@@ -2421,6 +2741,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) They said that they would visit the museum the next\nday. (Correct)\n(a) They said that we shall have visited the museum the\nfollowing day. (Incorrect Verb)\n(b) They told that they should visit the museum the following\nday. (Incorrect Verb)\n(d) They said they would be visiting the museum. (Incorrect\nVerb)"
     },
@@ -2436,6 +2758,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Roshan says that he has completed his homework.\n(Correct)\n(a) Roshan said that he had completed his homework. (Incorrect\nVerb)\n(b) Roshan says that he had completed his homework.\n(Incorrect Tense)\n(d) Roshan said that he has completed his homework. (Incorrect\nVerb)"
     },
@@ -2451,6 +2775,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The labourers asked the contractor if he had asked\nthe manager when they were going to receive their remuneration\nthat had been pending for the previous three months. (Correct)\n(a) The labourers asked the contractor if he asked the manager\nwhen they were going to receive their remuneration that had\nbeen pending for the previous three months. (Incorrect Verb)\n(b) The labourers asked the contractor if he had asked the\nmanager when they are going to receive their remuneration that\nwas pending for the previous three months. (Incorrect Tense)\n(c) The labourers asked the contractor if had he asked the\nmanager when they are going to receive their remuneration that\nwas pending for the last three months. (Incorrect Word Order)"
     },
@@ -2466,6 +2792,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Rajesh tells Malini that they did not like the dance\nthe previous year. (Correct)\n(a) Rajesh tells Malini that they had not liked the dance the\nprevious year. (Incorrect Tense)\n(c) Rajesh told Malini that they did not like the dance last year.\n(Incorrect Reporting Verb)\n(d) Rajesh told Malini that they had not liked the dance the\nprevious year. (Incorrect Reporting Verb and Tense)"
     },
@@ -2481,6 +2809,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"Did you take the medications?\" (Correct)\n(a) He said, \"Whether you take the medications?\" (Incorrect\nSentence Structure)\n(c) He said, \"Did I take the medications?\" (Incorrect Pronoun)\n(d) He said, \"Did you took the medications?\" (Incorrect Verb)"
     },
@@ -2496,6 +2826,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) They said, \"We have already completed our\nhomework.\" (Correct)\n(a) They said, \"We already completed their homework.\" (Incorrect\nPronoun)\n(b) They said, \"We have completed our homework.\" (Incorrect\nTense)\n(c) They said, \"We have already completed homework of ours.\"\n(Incorrect Wording)"
     },
@@ -2511,6 +2843,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Rashmi told Reshma that Mahima had been dancing\non the floor when she had been called by her mother. (Correct)\n(a) Rashmi told Reshma that Mahima had danced on the floor\nwhen she had been called by her mother. (Incorrect tense)\n(b) Rashmi told Reshma that Mahima had been danching on the\nfloor when was called by her mother. (Incorrect spelling)\n(d) Rashmi told Reshma that Mahima was dancing on the floor\nwhen she was called by her mother. (Incorrect tense)"
     },
@@ -2526,6 +2860,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said, \"When we reached the station, the train had\nalready left.\" (Correct)\n(a) He said, \"When we have reach the station, the train had\nalready left.\" (Incorrect Verb)\n(c) He said, \"When we were reaching the station, the train was\nalready leaving.\" (Incorrect Tense)\n(d) He said, \"When we reach the station, the train has already\nleft.\" (Incorrect Tense)"
     },
@@ -2541,6 +2877,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They told that they had had a very good habit.\n(Correct)\n(a) They told that we had a very good habit. (Incorrect Pronoun)\n(c) They told that they had a very good habit. (Incorrect Tense)\n(d) They told that we had had a very good habit. (Incorrect\nPronoun)"
     },
@@ -2556,6 +2894,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The interviewer said, \"Can you drive a car?\" (Correct)\n(a) The interviewer said, \"Will you drive a car?\" (Incorrect Modal)\n(c) The interviewer said, \"You can drive a car.\" (Incorrect Order of\nWords)\n(d) The interviewer said, \"Shall I drive a car?\" (Incorrect Modal)"
     },
@@ -2571,6 +2911,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said, \"I could have passed the exam.\" (Correct)\n(a) She said, \"I would have passed the exam.\" (Incorrect Modal)\n(c) She said, \"I might have passed the exam.\" (Incorrect Modal)\n(d) She said, \"I should have passed the exam.\" (Incorrect Modal)"
     },
@@ -2586,6 +2928,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Robinson said, \"I shall be planting trees along the\nbank of the river.\" (Correct)\n(a) Robinson said, \"I am planting trees along the bank of the\nriver.\" (Incorrect Tense)\n(b) Robinson said, \"I shall plant trees along the bank of the river.\"\n(Incorrect Verb)\n(d) Robinson said, \"I shall have to plant trees along the bank of\nthe river.\" (Incorrect Verb)"
     },
@@ -2601,6 +2945,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He asked to be allowed to do it himself. (Correct)\n(a) He asked to do it himself. (Change in meaning)\n(b) He suggested doing it himself. (Change in meaning)\n(c) He requested that he do it himself. (Change in meaning)"
     },
@@ -2616,6 +2962,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Rita said that she was happy that day. (Correct)\n(a) Rita said that she is happy today. (Incorrect Verb & Adverb)\n(c) Rita said that she had been happy that day. (Incorrect Verb)\n(d) Rita said that she was happy today. (Incorrect Adverb)"
     },
@@ -2631,6 +2979,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said that he might go there. (Correct)\n(a) He said that he would go there. (Incorrect Modal)\n(b) He said that he goes there. (Incorrect Verb)\n(d) He said that he may go there. (Incorrect Modal)"
     },
@@ -2646,6 +2996,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) She exclaimed that the view was wonderful.(Correct)\n(a) She said how wonderful the view is. (Incorrect Sentence\nStructure)\n(b) She exclaimed that the view was very wonderful. (Incorrect\nWord Usage)\n(c) She said that the view is wonderful. (Incorrect Verb)"
     },
@@ -2661,6 +3013,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said, \"You should have been more careful.\"\n(Correct)\n(b) She said, \"You should be more careful.\" (Incorrect Verb)\n(c) She said, \"You would have been more careful.\" (Incorrect\nModal)\n(d) She said, \"You must have been more careful.\" (Incorrect\nModal)"
     },
@@ -2676,6 +3030,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) She said that her parents were visiting the following\nweek. (Correct)\n(a) She said that her parents are visiting next week. (Incorrect\nTense)\n(b) She said that her parents will visit next week. (Incorrect\nTense)\n(c) She said that my parents were visiting the next week.\n(Incorrect Adjective)"
     },
@@ -2691,6 +3047,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The reporter said, \"Five people were drowned in a\nboat accident.\" (Correct)\n(b) The reporter said, \"Five people are drowned in a boat\naccident.\" (Incorrect Tense)\n(c) The reporter said, \"Five people were drowning in a boat\naccident.\" (Incorrect form of Verb)\n(d) The reporter said, \"Five people drowned in a road accident.\"\n(Helping verb is missing)"
     },
@@ -2706,6 +3064,8 @@
       "exam": "SSC Stenographer 06/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They said, \"Please close the door if you are feeling\ncold.\" (Correct)\n(a) They said, \"Please closed the door if you are feeling cold.\"\n(Incorrect form of Verb)\n(c) They said, \"Please close the door if you is feeling cold.\"\n(Incorrect Verb)\n(d) They said, \"Please close the door if feel cold.\" (Subject is\nmissing)"
     },
@@ -2721,6 +3081,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said that she wished she were a bird. (Correct)\n(b) She said that she has been a bird. (Incorrect Tense)\n(c) She said that she wanted to be a bird. (Incorrect Tense)\n(d) She said that she was a bird. (Incorrect Tense)"
     },
@@ -2736,6 +3098,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The man ordered them to be quiet and listen\ncarefully. (Correct)\n(a) The man said to be quiet and to listen carefully. (Incorrect\nReporting Verb)\n(c) The man asked to be quiet and listen. (Incorrect Reporting\nVerb)\n(d) The man advised them to be quiet. (Incorrect Reporting Verb)"
     },
@@ -2751,6 +3115,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said that she needed some rest. (Correct)\n(b) She said that she needs some rest. (Incorrect Tense)\n(c) She said that she had needed some rest. (Incorrect Tense)\n(d) She said that she will need some rest. (Incorrect Tense)"
     },
@@ -2766,6 +3132,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Rukmini asked Sanjana why she had not appeared in\nthe UPSC Preliminary Examination the previous year. (Correct)\n(a) Rukmini asked Sanjana why had she not appeared in the\nUPSC Preliminary Examination the previous year. (Incorrect\nWord Order)\n(c) Rukmini told Sanjana why she had not appeared in the UPSC\nPreliminary Examination the last year. (Incorrect Reporting Verb)\n(d) Rukmini asked Sanjana why she did not appear in the UPSC\nPreliminary Examination last year. (Incorrect Tense)"
     },
@@ -2781,6 +3149,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They requested me to take the basket there.\n(Correct)\n(a) They requested to take the basket here. (Incorrect Adverb)\n(c) They requested me to bring the basket there. (Incorrect Verb)\n(d) They requested me to bring the basket here. (Incorrect\nAdverb)"
     },
@@ -2796,6 +3166,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He told Renuka that they had to do it then and go\nthere as soon as possible. (Correct)\n(a) He told Renuka that they must do it then and go there as\nsoon as possible. (Incorrect Modal)\n(b) He told Renuka that they have to do it now and go there as\nsoon as possible. (Incorrect Verb)\n(c) He told Renuka that they must do it now and go here as soon\nas possible. (Incorrect Adverb)"
     },
@@ -2811,6 +3183,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said, \"This was in the box.\" (Correct)\n(b) He said, \"This had in the box.\" (Incorrect Tense)\n(c) He said, \"That have in the box.\" (Incorrect Pronoun)\n(d) He said that, \"It is in the box.\" (Incorrect Reporting Structure)"
     },
@@ -2826,6 +3200,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Rima said, \"If I had wings, I would fly in the sky.\"\n(Correct)\n(b) Rima said, \"If I had wings, I will fly in the sky.\" (Incorrect\nModal)\n(c) Rima said, \"If I have wings, I would fly in the sky.\" (Incorrect\nVerb)\n(d) Rima said, \"If I have wings, I will flew in the sky.\" (Incorrect\nTense)"
     },
@@ -2841,6 +3217,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) Meenal said to Renu, \"I was a very good football\nplayer.\" (Correct)\n(b) Meenal said to Renu, \"I am a very good football player.\"\n(Incorrect Tense)\n(c) Meenal said to Renu, \"You have being a very good football\nplayer.\" (Incorrect Pronoun)\n(d) Meenal said to Renu, \"You had a very good football player.\"\n(Incorrect Pronoun)"
     },
@@ -2856,6 +3234,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They said to the officer, \"Please permit us to go on\nleave for three days.\" (Correct)\n(a) They said to the officer, \"Please permit us going on leave by\nthree days.\" (Incorrect Verb form)\n(c) They said to the officer, \"Please permit them to goes on leave\nfor three days.\" (Incorrect Pronoun)\n(d) They said to the officer, \"Request to permit us to go on leave\nfor three days.\" (Incorrect Verb)"
     },
@@ -2871,6 +3251,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He told me to go there. (Correct)\n(b) He told to go there. (object is missing)\n(c) He told me to come there. (Incorrect Verb)\n(d) He told me to came here. (Incorrect Verb)"
     },
@@ -2886,6 +3268,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) They said, \"You needn't bring anything.\" (Correct)\n(a) They said, \"You don't need to bring anything.\" (Incorrect\nStructure)\n(b) They said, \"You didn't need to bring anything.\" (Incorrect\nTense)\n(d) They said, \"You must not bring anything.\" (Incorrect Modal)"
     },
@@ -2901,6 +3285,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) Ravi said that he would be joining the new office\nsoon. (Correct)\n(a) Ravi said that he joins the new office soon. (Incorrect Tense)\n(b) Ravi said that he would join the new office soon. (Incorrect\nTense)\n(c) Ravi said that he will be joining the new office soon.\n(Incorrect Modal)"
     },
@@ -2916,6 +3302,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The captain ordered them to stand at ease. (Correct)\n(a) The captain said to stand at ease. (Incorrect Verb)\n(b) The captain said that they should stand at ease. (Incorrect\nSentence Structure)\n(c) The captain advised them to stand at ease. (Incorrect Verb)"
     },
@@ -2931,6 +3319,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Madhubala told Dillip that she had had a very\nsumptuous meal the previous day. (Correct)\n(a) Madhubala told Dillip that she had had a very sumptuous\nmeal the day after. (Incorrect Adverb)\n(b) Madhubala told Dillip that she had had a very sumptuous\nmeal the following day. (Incorrect Adverb)\n(d) Madhubala told Dillip that she had a very sumptuous meal\nthe previous day. (Helping Verb is missing)"
     },
@@ -2946,6 +3336,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said she dared not oppose him. (Correct)\n(a) She said she has not dared to oppose him. (Incorrect tense)\n(b) She said she had dared not oppose him.(Incorrect structure)\n(d) She said she dare not oppose him. (Incorrect form of Verb)"
     },
@@ -2961,6 +3353,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The farmer said to his wife, \"Why are you upset\nwhen I have just returned from the city?\" (Correct)\n(a) The farmer said to his wife, \"Why are you so upset when I just\nreturned from the city?\" (Additional Word)\n(b) The farmer said to his wife, \"Why did you upset when I\nreturned from the city?\" (Incorrect Helping Verb)\n(d) The farmer said to his wife, \"Why are you upset when I was\njust returned from the city?\" (Incorrect Helping Verb)"
     },
@@ -2976,6 +3370,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) They said that they enjoyed watching cricket.\n(Correct)\n(a) They said that they had enjoyed watching cricket. (Incorrect\nTense)\n(b) They said that they have enjoyed watching cricket. (Incorrect\nTense)\n(c) They said that they enjoy watching cricket. (Incorrect form of\nVerb)"
     },
@@ -2991,6 +3387,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He said that he had completed the task. (Correct)\n(a) He said that he has completed the task. (Incorrect Tense)\n(b) He said that he was completing the task. (Incorrect Tense)\n(c) He said that he completed the task. (Incorrect Tense)"
     },
@@ -3006,6 +3404,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He said, \"Were you aware of the policies of the\ncompany?\" (Correct)\n(a) He said, \"Did you be aware of the policies of the company?\"\n(Incorrect Tense)\n(b) He said, \"Were you awared of the policies of the company?\"\n(Incorrect Tense)\n(c) He said, \"Was you aware of the policies of the company?\"\n(Incorrect Verb)"
     },
@@ -3021,6 +3421,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The climatologist said, \"If global temperatures kept\nrising, sea levels would threaten major coastal cities.\" (Correct)\n(a) The climatologist said, \"If global temperatures kept rising,\nsea levels will threaten major coastal cities.\" (Incorrect Tense)\n(b) The climatologist said, \"If global temperatures had kept\nrising, sea levels would have threatened major coastal cities.\"\n(Incorrect Tense)\n(d) The climatologist said, \"If global temperatures keep rising,\nsea levels threaten major coastal cities.\" (Incorrect Tense)"
     },
@@ -3036,6 +3438,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He said that he didn't like spicy food. (Correct)\n(a) He said that he hadn't liked spicy food. (Incorrect Tense)\n(b) He said that he likes spicy food. (Incorrect Verb)\n(d) He said that he doesn't like spicy food. (Incorrect Tense)"
     },
@@ -3051,6 +3455,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She asked me if I would like some coffee. (Correct)\n(a) She asked that I would like some coffee. (Incorrect Sentence\nStructure)\n(c) She asked me would I like some coffee. (Incorrect Word\nOrder)\n(d) She offered me some coffee. (Incorrect Sentence Structure)"
     },
@@ -3066,6 +3472,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said, \"I am learning French.\" (Correct)\n(a) She said, \"I learn French.\" (Incorrect Tense)\n(c) She said, \"I was learning French.\" (Incorrect Tense)\n(d) She said, \"I have learned French.\" (Incorrect Tense)"
     },
@@ -3081,6 +3489,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said, \"I had not seen the movie.\" (Correct)\n(a) She said, \"I didn't see the movie.\" (Incorrect Tense)\n(b) She said, \"I haven't seen the movie.\" (Incorrect Tense)\n(d) She said, \"She hadn't seen the movie.\" (Incorrect Subject)"
     },
@@ -3096,6 +3506,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She asked whether she could ask a question.\n(Correct)\n(b) She asked whether she might ask a question. (Incorrect\nModel)\n(c) She said whether she could ask a question. (Incorrect\nReporting Verb)\n(d) She asked whether she can ask a question. (Incorrect Model)"
     },
@@ -3111,6 +3523,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said that she had eaten breakfast. (Correct)\n(a) She said that she ate breakfast. (Incorrect Tense)\n(b) She said that she would have eaten breakfast. (Incorrect\nTense)\n(d) She said that she has eaten breakfast. (Incorrect Tense)"
     },
@@ -3126,6 +3540,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Simran said, 'I have been writing a letter to the\nprincipal.\" (Correct)\n(a) Simran said, \"I have writing a letter to the principal.\" (Incorrect\nTense)\n(c) Simran said, \"I was being writing a letter to the principal.\"\n(Incorrect Tense)\n(d) Simran said, \"I was written a letter to the principal.\" (Incorrect\nTense)"
     },
@@ -3141,6 +3557,8 @@
       "exam": "SSC Stenographer 07/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) The analyst stated, \"Inflation could have been\ncontrolled if monetary policies had been revised earlier.\"\n(Correct)\n(b) The analyst stated, \"Inflation could be controlled if monetary\npolicies were revised earlier.\" (Incorrect Verb)\n(c) The analyst stated, \"Inflation had been controlled if monetary\npolicies had been revised earlier.\" (Incorrect Tense)\n(d) The analyst stated, \"Inflation can be controlled if monetary\npolicies are revised earlier.\" (Incorrect Verb)"
     },
@@ -3156,6 +3574,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They exclaimed that it had been very foolish of him\nto say that. (Correct)\n(a) They exclaimed how foolish of him to say that. (Incorrect\nSentence Structure)\n(c) They exclaimed that he is very foolish to say that. (Incorrect\nTense)\n(d) They said it was very foolish of him to say that. (Incorrect\nReporting Verb)"
     },
@@ -3171,6 +3591,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He said it must be raining outside. (Correct)\n(a) He said it should be raining outside. (Incorrect Modal)\n(c) He said it might be raining outside. (Incorrect Modal)\n(d) He said it had to be raining outside. (Incorrect Modal)"
     },
@@ -3186,6 +3608,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) Rohan told Manasi that he had no rose to give her\nthen. (Correct)\n(a) Rohan told Manasi that he has no rose to give her then.\n(Incorrect Verb)\n(c) Rohan told Manasi that he had had no rose to give her then.\n(Incorrect Tense)\n(d) Rohan told Manasi that he had no rose to give her now.\n(Incorrect Adverb)"
     },
@@ -3201,6 +3625,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) She said, \"I had never encountered such behavior.\"\n(Correct)\n(a) She said, \"I never encounter such behavior.\" (Incorrect Tense)\n(b) She said, \"She have never encountered such behavior.\"\n(Incorrect Helping Verb)\n(c) She said, \"I was never encountering such behavior.\" (Incorrect\nTense)"
     },
@@ -3216,6 +3642,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) He said, \"How beautiful the flower is looking, which\nis placed in the vase!\" (Correct)\n(b) He said, \"What beautiful the flower is looking which was\nplaced in the vase!\" (Incorrect Sentence Structure)\n(c) He said, \"Which beautiful the flower was looking which is\nplaced in the vase!\" (Incorrect Sentence Structure)\n(d) He said, \"The flower is looking very beautiful which is placed\nin the vase!\" (Incorrect Sentence Structure)"
     },
@@ -3231,6 +3659,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He asked me where I was going. (Correct)\n(a) He asked me where I had gone. (Incorrect Tense)\n(b) He asked me where I am going. (Incorrect Helping Verb)\n(c) He asked me where I go. (Incorrect Tense)"
     },
@@ -3246,6 +3676,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Rina said to Suman, \"Leave the city immediately.\"\n(Correct)\n(a) Rina said to Suman, \"Leave the city immediately now.\"\n(Additional Word)\n(b) Rina said to Suman, \"Please leave the city immediately.\"\n(Additional Word)\n(d) Rina said to Suman, \"You leave the city immediately.\"\n(Additional Subject)"
     },
@@ -3261,6 +3693,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) He asked me if I should finish my task on time.\n(Correct)\n(a) He asked me if I should finish my task on time? (Incorrect\nPunctuation)\n(b) He asked me if I should have finished my task on time.\n(Incorrect Tense)\n(d) He asked me if I should finish his task on time. (Incorrect\nPronoun)"
     },
@@ -3276,6 +3710,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 1)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She asked if he had left already. (Correct)\n(b) She asked had he left already. (Incorrect Sentence Structure)\n(c) She asked whether had he left already. (Incorrect Sentence\nStructure)\n(d) She said if he had left already. (Incorrect Reporting Verb)"
     },
@@ -3291,6 +3727,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) They said that they were watching a movie. (Correct)\n(a) They said that they had watched a movie. (Incorrect Tense)\n(c) They said that they watched a movie. (Incorrect Tense)\n(d) They said that they are watching a movie. (Incorrect Tense)"
     },
@@ -3306,6 +3744,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Sobhit said, \"I can speak more fluently than Rahul.\"\n(Correct)\n(a) Sobhit said, \"I can speak most fluently than Rahul.\" (Incorrect\nword)\n(b) Sobhit said, \"I can speak more fluentlier than Rahul.\n(Incorrect word)\n(d) Sobhit said, \"I can spoke more fluently than Rahul.\" (Incorrect\nform of Verb)"
     },
@@ -3321,6 +3761,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) Mohan told Radha that he had seen her many times\nin the market since the previous year. (Correct)\n(a) Mohan told Radha that he had seen her many times in the\nmarket since last year. (Incorrect Word)\n(b) Mohan told Radha that he had seen her many times in the\nmarket since the following year. (Incorrect Word)\n(d) Mohan told Radha that she had seen him many times in the\nmarket since the previous year. (Incorrect Pronouns)"
     },
@@ -3336,6 +3778,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) Ravi said to his friend, \"Please turn the music down.\"\n(Correct)\n(a) Ravi said, \"Will you please turn the music down?\" (Incorrect\nuse of Modal)\n(b) Ravi said to his friend, \"Are you going to turn the music\ndown?\" (Incorrect Sentence Structure)\n(c) Ravi said to his friend, \"I request you to turn the music down.\n(Incorrect Sentence Structure)"
     },
@@ -3351,6 +3795,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) She asked who knew the answer. (Correct)\n(a) She told who knows the answer. (Incorrect Verb)\n(b) She asked who knows the answer. (Incorrect form of Verb)\n(c) She said who is knowing the answer. (Incorrect Verb &\nTense)"
     },
@@ -3366,6 +3812,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) \nThey said, \"We were supposed to arrive earlier.\" (Correct)\nNormally, present tense in direct speech is changed into\ncorresponding past tense in indirect speech. But in the given\nsentence, the word ‘earlier’ is a comparative degree, which\nindicates that we were supposed(expected) to arrive earlier, but\nwe did not. Therefore, past tense will remain in the direct\nspeech. Hence, option (b) gives the correct direct speech."
     },
@@ -3381,6 +3829,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) He asked me where I was going at that time of the\nday. (Correct)\n(a) He asked me where I was going at this time of the day.\n(Incorrect Word)\n(c) He asked me where was I going at this time of the day.\n(Incorrect Word)\n(d) He asked me where was I going at that time of the day.\n(Incorrect order of Words)"
     },
@@ -3396,6 +3846,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said that she wished she could meet him once.\n(Correct)\n(a) She hoped she would meet him. (Incorrect Verb)\n(b) She exclaimed that she could meet him once. (Incorrect\nVerb)\n(d) She asked that she meet him once. (Incorrect Verb)"
     },
@@ -3411,6 +3863,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 2)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He said that he had to reach early. (Correct)\n(a) He said that he should reach early. (Incorrect Modal)\n(b) He said that he must reach early. (Incorrect Modal)\n(c) He said that he will reach early. (Incorrect Modal)"
     },
@@ -3426,6 +3880,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) The astronomer noted, \"Jupiter's rotation is the\nfastest among all planets in the solar system.\" (Correct)\n(a) The astronomer noted, \"Jupiter's rotation has been the\nfastest among all planets in the solar system.\" (Incorrect Tense)\n(b) The astronomer noted, \"Jupiter's rotation had been the\nfastest among all planets in the solar system.\" (Incorrect Tense)\n(c) The astronomer noted, \"Jupiter's rotation was the fastest\namong all planets in the solar system.\" (Incorrect Tense)\n[Pinnacle Note:- A scientific fact is written in simple present\ntense. Also, its tense does not change in the Indirect speech.]"
     },
@@ -3441,6 +3897,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) He prayed that God might bless me. (Correct)\n(a) He told that God should bless me. (Incorrect Reporting Verb)\n(b) He said that God may bless me. (Incorrect Modal)\n(c) He wished God bless me. (Incorrect Verb)"
     },
@@ -3456,6 +3914,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said that she was tired. (Correct)\n(a) She said that she will be tired. (Incorrect Tense)\n(c) She said that she is tired. (Incorrect Tense)\n(d) She said that she had been tired. (Incorrect Tense)"
     },
@@ -3471,6 +3931,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) I told him, \"I am busy.\" (Correct)\n(a) I told him, \"You are busy.\" (Incorrect Pronoun)\n(b) I said, \"I am busy.\" (‘him’ is missing)\n(c) I told him, \"I was busy.\" (Incorrect Verb)"
     },
@@ -3486,6 +3948,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) She said, \"I like chocolate.\" (Correct)\n(a) She said, \"I liked chocolate.\" (Incorrect form of Verb)\n(b) She said, \"I had liked chocolate.\" (Incorrect Tense)\n(d) She said, \"She likes chocolate.\" (Incorrect Pronoun)"
     },
@@ -3501,6 +3965,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) They said that their teacher would explain the topic\nthe next day. (Correct)\n(b) They said that our teacher will explain the topic tomorrow.\n(Incorrect Possessive)\n(c) They said that the teacher should explain the topic tomorrow.\n(Incorrect Model)\n(d) They said that the teacher explained the topic the next day.\n(Incorrect Tense)"
     },
@@ -3516,6 +3982,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) The explorer remarked, \"Rarely had I seen such a\nbreathtaking view in all my travels.\" (Correct)\n(a) The explorer remarked, \"I had rarely seen such a breathtaking\nview in all my travels.\" (Incorrect Order of Words)\n(c) The explorer remarked, \"I rarely saw such a breathtaking view\nin all my travels.\" (Incorrect Tense)\n(d) The explorer remarked, \"Rarely I had seen such a\nbreathtaking view in all my travels.\" (Incorrect Order of Words)"
     },
@@ -3531,6 +3999,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 3,
       "explanation": "(d) They said, \"We are enjoying the trip.\" (Correct)\n(a) They said, \"We enjoy the trip.\" (Incorrect Tense)\n(b) They said, \"We were enjoying the trip.\" (Incorrect Tense)\n(c) They said, \"We have enjoyed the trip.\" (Incorrect Tense)"
     },
@@ -3546,6 +4016,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 0,
       "explanation": "(a) She said that she had to go then. (Correct)\n(b) She said that she was going then. (Incorrect Tense)\n(c) She said that she must go now. (Incorrect Modal)\n(d) She said that she will go now. (Incorrect Modal)"
     },
@@ -3561,6 +4033,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 2,
       "explanation": "(c) The teacher suggested that he try on his\nown.(Correct)\n(a) The teacher said that he should let him try on his own.\n(Incorrect Verb)\n(b) The teacher ordered him to try on his own. (Incorrect Verb)\n(d) The teacher said that let him try on his own. (Incorrect\nSentence Structure)"
     },
@@ -3576,6 +4050,8 @@
       "exam": "SSC Stenographer 08/08/2025 (Shift 3)",
       "examType": "SSC Stenographer 2025 (Tier-1)",
       "year": "2025",
+      "setId": 0,
+      "passage": "",
       "answer": 1,
       "explanation": "(b) She said, \"I am going to the market.\" (Correct)\n(a) She said, \"I have gone to the market.\" (Incorrect Tense)\n(c) She said, \"I will go to the market.\" (Incorrect Tense)\n(d) She said, \"I was going to the market.\" (Incorrect Tense)"
     }

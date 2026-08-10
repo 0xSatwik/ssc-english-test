@@ -18,13 +18,16 @@ TOPIC = opts.get('--topic', '')
 TOTAL = int(opts.get('--total', 0))
 
 lines = open(IN_TXT, encoding='utf-8').read().splitlines()
-lines = [ln.replace('S SC ', 'SSC ').replace('S  C ', 'SSC ') for ln in lines]
+lines = [ln.replace('S ol.', 'Sol.').replace('S SC ', 'SSC ').replace('S  C ', 'SSC ')
+         for ln in lines]
 
-q_re = re.compile(r'^Q\.(\d+)\.\s?(.*)$')
-s_re = re.compile(r'^Sol\.(\d+)\.\s?\(([abcd])\)\s?(.*)$')
+q_re = re.compile(r'^Q\.(\d+)(?:\.|\s)(.*)$')
+s_re = re.compile(r'^Sol\.(\d+)\.{0,2}\s*\(([abcd])\)\s?(.*)$')
 exam_re = re.compile(r'(SSC CGL|SSC Stenographer|Higher Secondary|Graduate Level|Matriculation Level)[^\n]*?(Shift[^\n]*)?\s*\d{1,2}/\d{1,2}/\d{4}[^\n]*')
 date_re = re.compile(r'(\d{1,2})/(\d{1,2})/(\d{4})')
 opt_re = re.compile(r'^\(([abcd])\)\s?(.*)$')
+KEY_LINE_RE = re.compile(
+    r'^\(\s*[a-d]\s*\)\s*[a-d]\s*(?:\(\s*[a-d]\s*\)\s*[a-d]\s*){1,3}$')
 
 NOISE_EXACT = {
     'Pinnacle', 'Narration', 'NARRATION', 'Active  Passive', 'Active Passive',
@@ -34,6 +37,8 @@ NOISE_EXACT = {
     'PARA JUMBLE', 'Para Jumble', 'Parajumble', 'Exam Preparation App',
     'Exam  Preparation  App', 'Download Pinnacle', 'Solutions : -',
     'www.ssccglpinnacle.com', 'TG: @ikunal_x', 'eduquity-based pattern (ebp)',
+    'Sentence Improvement', 'One Word Substitution', 'Spot the Error',
+    'SPOT THE ERROR',
 }
 NOISE_SUBSTR = ('Examination wise Questions', 'Direction  :-', 'Direction :-',
                 'Read the following passages', 'some words have been deleted')
@@ -66,7 +71,8 @@ def clean_text(s):
             .replace('\u2794', '-').replace('\u27a1', '-').replace('\u279c', '-')
 
 events = []
-for i, ln in enumerate(lines):
+for i, ln0 in enumerate(lines):
+    ln = re.sub(r'^[a-z]\.(?=Q\.\d+)', '', ln0)
     m = q_re.match(ln)
     if m:
         events.append([i, 'Q', int(m.group(1)), m.group(2)])
@@ -78,10 +84,24 @@ for i, ln in enumerate(lines):
 
 qnums = [e[2] for e in events if e[1] == 'Q']
 snums = [e[2] for e in events if e[1] == 'S']
-if TOTAL:
-    assert qnums == list(range(1, TOTAL + 1)), 'Q numbering broken'
-else:
-    assert qnums == list(range(1, len(qnums) + 1)), 'Q numbers not sequential'
+old_to_new = {}
+seq_ok = (qnums == list(range(1, len(qnums) + 1))
+          and (not TOTAL or qnums == list(range(1, TOTAL + 1))))
+if not seq_ok:
+    print(f'WARN: Q numbers not sequential ({len(qnums)} events, '
+          f'min {min(qnums) if qnums else 0}, max {max(qnums) if qnums else 0}, '
+          f'dup {sorted({n for n in qnums if qnums.count(n) > 1})[:5]})')
+    print('      renumbering questions by stream position')
+    old_to_new = {}
+    k = 0
+    for e in events:
+        if e[1] == 'Q':
+            k += 1
+            old_to_new[e[2]] = k
+            e[2] = k
+    qnums = [e[2] for e in events if e[1] == 'Q']
+    assert qnums == list(range(1, len(qnums) + 1)), 'renumber failed'
+    print('      renumbered ->', len(qnums), 'questions')
 
 # cloze / comprehension books print the set's exam label + passage *above* the
 # questions. Track the pending exam for every book so per-question blocks that
@@ -126,7 +146,7 @@ for i, ln in enumerate(lines):
                 ln2 for ln2 in lines[head:i]
                 if ln2.strip() and not (exam_re.search(ln2) and DATE_RE.search(ln2))
                 and not is_noise(ln2))
-        if INLINE or has_sets:
+        if has_sets:
             passage_for[qn] = cur_passage
 
 runs = []
@@ -151,20 +171,32 @@ missing_exam = []
 last_exam_type = 'SSC CGL 2025 (Tier-1)'
 practice_ranges = [tuple(map(int, m.groups()))
                    for m in (RANGE_RE.search(ln) for ln in lines) if m]
+if old_to_new:
+    olds = sorted(old_to_new)
+    import bisect
+    def map_range(a, b):
+        lo = bisect.bisect_left(olds, a)
+        hi = bisect.bisect_right(olds, b) - 1
+        return None if lo > hi else (old_to_new[olds[lo]], old_to_new[olds[hi]])
+    practice_ranges = [r for r in (map_range(a, b) for a, b in practice_ranges) if r]
+    exam_for = {old_to_new.get(k, k): v for k, v in exam_for.items()}
+    set_of = {old_to_new.get(k, k): v for k, v in set_of.items()}
+    passage_for = {old_to_new.get(k, k): v for k, v in passage_for.items()}
 is_practice = lambda qnum: any(a <= qnum <= b for a, b in practice_ranges)
 
 for eidx, e in enumerate(events):
     if e[1] != 'Q':
         continue
     nxt = events[eidx + 1][0] if eidx + 1 < len(events) else len(lines)
-    body = lines[e[0] + 1:nxt]
+    raw_body = lines[e[0] + 1:nxt]
+    body = raw_body
     if INLINE:
         body = [ln for ln in body if re.search(r'\([a-d]\)', ln)]
     qnum = e[2]
     prompt_lines = []
     opts = []
     if INLINE:
-        chunks = re.split(r'\(([a-d])\)', e[3])
+        chunks = re.split(r'\(\s*([a-d])\s*\)', e[3])
         head = chunks[0].strip()
         if head:
             prompt_lines.append(head)
@@ -186,6 +218,12 @@ for eidx, e in enumerate(events):
             body = body[:i] + ([rest] if rest else []) + body[i + 1:]
             break
     if exam is None:
+        for line in raw_body:
+            m = exam_re.search(line)
+            if m:
+                exam = m.group(0).strip()
+                break
+    if exam is None:
         exam = exam_for.get(qnum)
     if exam is None:
         missing_exam.append(qnum)
@@ -199,7 +237,9 @@ for eidx, e in enumerate(events):
             break
         if is_noise(line):
             continue
-        chunks = re.split(r'\(([a-d])\)', line)
+        if KEY_LINE_RE.match(line.strip()):
+            continue
+        chunks = re.split(r'\(\s*([a-d])\s*\)', line)
         head = chunks[0].strip()
         if head:
             if cur is not None:
@@ -214,7 +254,7 @@ for eidx, e in enumerate(events):
         opts.append(cur)
 
     prompt = clean_text(' '.join(' '.join(prompt_lines).split()).strip())
-    if INLINE and qnum in passage_for and passage_for[qnum].strip():
+    if INLINE and has_sets and qnum in passage_for and passage_for[qnum].strip():
         prompt = clean_text(' '.join(passage_for[qnum].split()).strip())
     passage = ''
     if not INLINE:

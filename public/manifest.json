@@ -109,6 +109,60 @@
           "color": "#10b981",
           "tag": "CGL • Sel Post • Steno",
           "order": 6
+        },
+        {
+          "id": "ows",
+          "title": "One Word Substitution",
+          "topic": "Vocabulary – One-word substitutes",
+          "file": "subjects/ows.json",
+          "total": 681,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "🔤",
+          "subtitle": "Replace a phrase with a single word.",
+          "color": "#ec4899",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 7
+        },
+        {
+          "id": "sentence-improvement",
+          "title": "Sentence Improvement",
+          "topic": "Grammar – Sentence improvement",
+          "file": "subjects/sentence-improvement.json",
+          "total": 740,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "✏️",
+          "subtitle": "Improve the underlined part of the sentence.",
+          "color": "#6366f1",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 8
+        },
+        {
+          "id": "spot-the-error",
+          "title": "Spot the Error",
+          "topic": "Grammar – Error spotting",
+          "file": "subjects/spot-the-error.json",
+          "total": 700,
+          "exams": [
+            "SSC CGL 2025 (Tier-1)",
+            "SSC Selection Post (Phase-XIII) 2025",
+            "SSC Stenographer 2025 (Tier-1)",
+            "Pinnacle Practice Set"
+          ],
+          "icon": "🔍",
+          "subtitle": "Find the part of the sentence with an error.",
+          "color": "#14b8a6",
+          "tag": "CGL • Sel Post • Steno • Practice",
+          "order": 9
         }
       ]
     },

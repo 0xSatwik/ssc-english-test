@@ -5,12 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SSC English Practice Lab</title>
 <link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700&family=Manrope:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#0e1320; --bg2:#0a0f1b; --card:#151d2e; --card2:#1b2540; --card3:#202c4d;
     --line:#283355; --line2:#33406b; --txt:#eaf0fb; --muted:#8fa0c0; --dim:#6b7892;
     --accent:#3b82f6; --accent2:#8b5cf6; --ok:#2dd4a7; --wrong:#f87171; --mark:#fbbf24;
     --skip:#64748b; --shadow:0 10px 30px rgba(0,0,0,.35); --rad:16px;
+    --font-display:"Fraunces",Georgia,"Times New Roman",serif;
+    --font-ui:"Manrope",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+    --font-body:"Source Serif 4",Georgia,"Times New Roman",serif;
   }
   html[data-theme="light"]{
     --bg:#eef2f9; --bg2:#e6ecf6; --card:#ffffff; --card2:#f4f7fe; --card3:#e9effc;
@@ -20,13 +26,12 @@
   }
   *{box-sizing:border-box}
   html,body{margin:0;padding:0;background:var(--bg);color:var(--txt);
-    font-family:"Segoe UI",system-ui,-apple-system,"Helvetica Neue",Roboto,Arial,sans-serif;
+    font-family:var(--font-body);
     -webkit-font-smoothing:antialiased}
   ::-webkit-scrollbar{width:10px;height:10px}
   ::-webkit-scrollbar-thumb{background:var(--line2);border-radius:8px}
   ::-webkit-scrollbar-track{background:transparent}
-  button{font-family:inherit;cursor:pointer}
-  input,select{font-family:inherit}
+  button,input,select{font-family:var(--font-ui)}
   .hidden{display:none !important}
 
   .topnav{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:12px;
@@ -37,7 +42,7 @@
     display:flex;align-items:center;justify-content:center;font-weight:800;color:#fff;font-size:16px;
     box-shadow:0 4px 14px color-mix(in srgb,var(--accent) 45%,transparent)}
   .navtt{flex:1;min-width:0}
-  .navtt .n1{font-weight:800;font-size:15px;letter-spacing:.2px}
+  .navtt .n1{font-family:var(--font-ui);font-weight:800;font-size:15px;letter-spacing:.2px}
   .navtt .n2{font-size:11px;color:var(--muted)}
   .navbtns{display:flex;gap:8px;align-items:center}
   .btn{border:1px solid var(--line);background:var(--card2);color:var(--txt);padding:8px 15px;
@@ -62,7 +67,8 @@
     letter-spacing:1.4px;color:var(--accent);border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);
     background:color-mix(in srgb,var(--accent) 12%,transparent);padding:6px 13px;border-radius:999px;
     text-transform:uppercase}
-  .hero h1{font-size:clamp(26px,4.6vw,42px);margin:16px 0 8px;line-height:1.12;
+  .hero h1{font-family:var(--font-display);font-size:clamp(28px,4.6vw,46px);margin:16px 0 8px;
+    line-height:1.12;font-weight:600;letter-spacing:.2px;
     background:linear-gradient(95deg,var(--txt) 30%,var(--accent) 60%,var(--accent2));
     -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
   .hero p{color:var(--muted);font-size:14.5px;max-width:600px;margin:0 auto}

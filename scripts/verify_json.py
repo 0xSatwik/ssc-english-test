@@ -44,11 +44,14 @@ NOISE_EXACT = {
     'Solutions : -', 'www.ssccglpinnacle.com', 'TG: @ikunal_x',
     'eduquity-based pattern (ebp)', 'Fill in the blanks', 'Fill  in  the  blanks',
     'CLOZE TEST', 'Cloze  Test', 'Comprehension', 'PARA JUMBLE', 'Para Jumble',
-    'Parajumble',
+    'Parajumble', 'Sentence Improvement', 'One Word Substitution', 'Spot the Error',
+    'SPOT THE ERROR',
 }
 NOISE_SUBSTR = ('Examination wise Questions', 'Direction  :-', 'Direction :-',
                 'Read the following passages', 'some words have been deleted')
 DATE_RE2 = re.compile(r'\d{1,2}/\d{1,2}/\d{4}')
+KEY_LINE_RE = re.compile(
+    r'^\(\s*[a-d]\s*\)\s*[a-d]\s*(?:\(\s*[a-d]\s*\)\s*[a-d]\s*){1,3}$')
 def is_noise(s):
     s = s.strip()
     if not s:
@@ -93,6 +96,47 @@ def col_text(ws):
     return out
 
 
+def text_from_words_fine(words, gap=5.0):
+    vlines = {}
+    for w in words:
+        k = round(w['top'] / 2.5)
+        nk = None
+        for kk in list(vlines):
+            if abs(kk - k) <= 1:
+                nk = kk
+                break
+        if nk is None:
+            vlines[k] = []
+            nk = k
+        vlines[nk].append(w)
+    frags = []
+    for k in sorted(vlines):
+        ws2 = sorted(vlines[k], key=lambda w: w['x0'])
+        cur = []
+        prev = None
+        for w in ws2:
+            if prev is not None and w['x0'] - prev >= gap:
+                if cur:
+                    frags.append(cur)
+                cur = []
+            cur.append(w)
+            prev = w['x1']
+        if cur:
+            frags.append(cur)
+    F = sorted(frags, key=lambda f: min(w['x0'] for w in f))
+    cols, curc, prevx = [], [], None
+    for f in F:
+        x0 = min(w['x0'] for w in f)
+        if prevx is not None and x0 - prevx >= gap:
+            cols.append(curc)
+            curc = []
+        curc.append(f)
+        prevx = max(w['x1'] for w in f)
+    if curc:
+        cols.append(curc)
+    return [col_text([w for f in cl for w in f]) for cl in cols]
+
+
 stream_lines = []
 with pdfplumber.open(PDF) as pdf:
     for page in pdf.pages:
@@ -119,6 +163,7 @@ with pdfplumber.open(PDF) as pdf:
             else:
                 del bds[best[0] - 1]
         bounds = [0.0] + bds + [xs[-1] + 1.0]
+        block = []
         for k in range(len(bounds) - 1):
             lo, hi = bounds[k], bounds[k + 1]
             ws = [w for w in words if lo <= w['x0'] < hi]
@@ -126,7 +171,18 @@ with pdfplumber.open(PDF) as pdf:
                 s = s.replace('S SC ', 'SSC ').replace('S  C ', 'SSC ')
                 s = re.sub(r'^Q\.(\d+)(?=\s*\([a-d])', r'Q.\1.', s)
                 if s and not is_noise(s):
-                    stream_lines.append(s)
+                    block.append(s)
+        merged = any(re.search(r'(?<!\A) ?\bQ\.\d+\.', s) or re.search(r'(?<!\A) ?\bSol\.\d+\.', s)
+                     or 'S ol.' in s for s in block)
+        if merged:
+            block = []
+            for cl in text_from_words_fine(words):
+                for s in cl:
+                    s = s.replace('S ol.', 'Sol.').replace('S SC ', 'SSC ').replace('S  C ', 'SSC ')
+                    s = re.sub(r'^Q\.(\d+)(?=\s*\([a-d])', r'Q.\1.', s)
+                    if s and not is_noise(s):
+                        block.append(s)
+        stream_lines.extend(block)
 
 # independent engine cross-check: pypdf layout text, global counts + Sol letters
 pdf_layout = ''
@@ -134,13 +190,14 @@ with pypdf.PdfReader(PDF) as reader:
     for page in reader.pages:
         pdf_layout += (page.extract_text(extraction_mode='layout') or '') + '\n'
 pdf_layout = pdf_layout.replace('S SC ', 'SSC ').replace('S  C ', 'SSC ')
-pdf_sol = [(int(a), b) for a, b in re.findall(r'Sol\.(\d+)\.\s*\(([abcd])\)', pdf_layout)]
+pdf_sol = [(int(a), b) for a, b in re.findall(r'Sol\.(\d+)\.{1,2}\s*\(([abcd])\)', pdf_layout)]
 pdf_qcount = len(re.findall(r'\bQ\.\d+(?:\.|\s|\()', pdf_layout))
 
-q_re = re.compile(r'^Q\.(\d+)\.\s?(.*)$')
-s_re = re.compile(r'^Sol\.(\d+)\.\s?\(([abcd])\)\s?(.*)$')
+q_re = re.compile(r'^Q\.(\d+)(?:\.|\s)(.*)$')
+s_re = re.compile(r'^Sol\.(\d+)\.{0,2}\s*\(([abcd])\)\s?(.*)$')
 events, body_lines = [], []
-for i, ln in enumerate(stream_lines):
+for i, ln0 in enumerate(stream_lines):
+    ln = re.sub(r'^[a-z]\.(?=Q\.\d+)', '', ln0.replace('S ol.', 'Sol.'))
     m = q_re.match(ln)
     if m:
         events.append((i, 'Q', int(m.group(1))))
@@ -152,6 +209,19 @@ for i, ln in enumerate(stream_lines):
         body_lines.append((i, m.group(3)))
         continue
     body_lines.append((i, ln))
+
+qnums0 = [e[2] for e in events if e[1] == 'Q']
+if len(set(qnums0)) != len(qnums0) or qnums0 != list(range(1, len(qnums0) + 1)):
+    print('WARN verify: Q numbers not sequential — renumbering by stream position')
+    k = 0
+    fixed = []
+    for e in events:
+        e = list(e)
+        if e[1] == 'Q':
+            k += 1
+            e[2] = k
+        fixed.append(tuple(e))
+    events = fixed
 
 qnums = [e[2] for e in events if e[1] == 'Q']
 snums = [e[2] for e in events if e[1] == 'S']
@@ -199,6 +269,7 @@ sol_letters = sol_map
 bodyline = dict(body_lines)
 ev_at = {e[0]: e for e in events}
 INLINE = any(re.search(r'\([a-d]\)', bodyline.get(e[0], '')) for e in events if e[1] == 'Q')
+has_sets = any(re.match(r'^SET[-\s]+\d', ln[1]) for _, ln in enumerate(body_lines))
 exam_for = {}
 passage_for = {}
 cur_exam, cur_passage = None, None
@@ -212,7 +283,7 @@ for i, ln in enumerate(body_lines):
         qn = e[2]
         if cur_exam is not None:
             exam_for[qn] = cur_exam
-        if INLINE:
+        if has_sets:
             if cur_passage is None:
                 head = None
                 for back in range(i - 1, -1, -1):
@@ -230,13 +301,19 @@ for ei, e in enumerate(events):
         continue
     qnum = e[2]
     end = events[ei + 1][0] if ei + 1 < len(events) else len(body_lines)
-    blk = [ln for (j, ln) in body_lines if j > e[0] and j < end]
+    blk_raw = [ln for (j, ln) in body_lines if j > e[0] and j < end]
+    blk = blk_raw
     if INLINE:
         blk = [ln for ln in blk if re.search(r'\([a-d]\)', ln)]
     prompt_lines, exam, opts, cur = [], None, [], None
+    if exam is None:
+        for ln in blk_raw:
+            if EXAM_RE.search(ln) and DATE_RE.search(ln):
+                exam = ln.strip()
+                break
     rem = bodyline.get(e[0], '')
     if INLINE:
-        chunks = re.split(r'\(([a-d])\)', rem)
+        chunks = re.split(r'\(\s*([a-d])\s*\)', rem)
         head = chunks[0].strip()
         if head:
             prompt_lines.append(head)
@@ -249,10 +326,13 @@ for ei, e in enumerate(events):
             continue
         if re.match(r'^SET[-\s]+\d', line) or re.match(r'^Questions\s*\(', line):
             break
-        if exam is None and EXAM_RE.search(line) and DATE_RE.search(line):
-            exam = line
+        if EXAM_RE.search(line) and DATE_RE.search(line):
+            if exam is None:
+                exam = line
             continue
-        chunks = re.split(r'\(([a-d])\)', line)
+        if KEY_LINE_RE.match(line.strip()):
+            continue
+        chunks = re.split(r'\(\s*([a-d])\s*\)', line)
         head = chunks[0].strip()
         if head:
             if cur is not None:
@@ -375,8 +455,10 @@ for qid in sorted(qA):
         L = 'abcd'[i]
         if L not in groups:
             continue
-        gcore = re.sub(r'\(.*?\)\s*', '', groups[L])
         o = a['options'][i]
+        if norm(o) in norm(groups[L]):
+            continue
+        gcore = re.sub(r'\(.*?\)\s*', '', groups[L])
         if norm(o) in norm(gcore):
             continue
         r = SequenceMatcher(None, o.lower(), gcore.lower()).ratio()
