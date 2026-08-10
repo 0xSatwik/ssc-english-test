@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulary Reading — SSC English</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#07090f;--bg2:#0c1019;--card:#111827;--card2:#1a2236;--card3:#1f2a42;
+  --line:#1e293b;--line2:#334155;--txt:#f1f5f9;--muted:#94a3b8;--dim:#64748b;
+  --accent:#6366f1;--accent2:#a855f7;--accent3:#ec4899;--ok:#10b981;--wrong:#ef4444;--mark:#f59e0b;
+  --skip:#475569;--shadow:0 25px 50px -12px rgba(0,0,0,.5);--rad:16px;
+  --font-display:"Playfair Display",Georgia,serif;
+  --font-ui:"DM Sans",system-ui,-apple-system,sans-serif;
+  --font-mono:"JetBrains Mono",monospace;
+}
+html[data-theme="light"]{
+  --bg:#f8fafc;--bg2:#f1f5f9;--card:#ffffff;--card2:#f8fafc;--card3:#e2e8f0;
+  --line:#e2e8f0;--line2:#cbd5e1;--txt:#0f172a;--muted:#475569;--dim:#94a3b8;
+  --accent:#4f46e5;--accent2:#9333ea;--accent3:#db2777;--ok:#059669;--wrong:#dc2626;--mark:#d97706;
+  --skip:#94a3b8;--shadow:0 25px 50px -12px rgba(0,0,0,.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--bg);color:var(--txt);font-family:var(--font-ui);
+  -webkit-font-smoothing:antialiased;line-height:1.7}
+::-webkit-scrollbar{width:6px}::-webkit-scrollbar-thumb{background:var(--line2);border-radius:99px}
+
+.topnav{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:14px;
+  padding:0 20px;height:60px;background:color-mix(in srgb,var(--bg) 75%,transparent);
+  backdrop-filter:blur(20px);border-bottom:1px solid var(--line)}
+.logo{width:40px;height:40px;border-radius:12px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2),var(--accent3));
+  display:flex;align-items:center;justify-content:center;font-family:var(--font-display);
+  font-weight:700;color:#fff;font-size:15px}
+.navtt{flex:1}.navtt .n1{font-weight:700;font-size:15px}.navtt .n2{font-size:11.5px;color:var(--muted)}
+.btn{border:1px solid var(--line);background:var(--card2);color:var(--txt);padding:9px 18px;
+  border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;transition:.2s;font-family:var(--font-ui)}
+.btn:hover{border-color:var(--accent);transform:translateY(-1px)}
+.btn.pri{background:linear-gradient(135deg,var(--accent),var(--accent2));border:none;color:#fff}
+.btn.sm{padding:6px 13px;font-size:12px;border-radius:8px}
+.iconbtn{width:40px;height:40px;display:flex;align-items:center;justify-content:center;
+  border:1px solid var(--line);background:var(--card2);border-radius:10px;font-size:16px;cursor:pointer}
+.iconbtn:hover{border-color:var(--accent)}
+
+.wrap{max-width:1100px;margin:0 auto;padding:24px 20px 80px}
+.hero{text-align:center;padding:40px 0 20px}
+.hero h1{font-family:var(--font-display);font-size:clamp(28px,4vw,44px);font-weight:700;
+  background:linear-gradient(135deg,var(--txt),var(--accent),var(--accent2));
+  -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:8px}
+.hero p{color:var(--muted);font-size:15px;max-width:600px;margin:0 auto}
+
+.tabs{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin:24px 0}
+.tab{border:1px solid var(--line);background:var(--card2);color:var(--muted);padding:10px 20px;
+  border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;transition:.2s}
+.tab:hover{border-color:var(--accent);color:var(--txt)}
+.tab.act{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,var(--card2));color:var(--txt)}
+
+.stats{display:flex;gap:20px;justify-content:center;margin:16px 0;flex-wrap:wrap}
+.stats .s{font-size:12px;color:var(--muted)}.stats .s b{display:block;font-size:20px;color:var(--txt);
+  font-family:var(--font-display)}
+
+.searchbar{max-width:500px;margin:20px auto;position:relative}
+.searchbar input{width:100%;padding:13px 44px;border-radius:14px;background:var(--card);
+  border:1px solid var(--line);color:var(--txt);font-size:14px;outline:none;font-weight:500}
+.searchbar input:focus{border-color:var(--accent)}
+.searchbar .mag{position:absolute;left:15px;top:13px;color:var(--dim)}
+
+.vocab-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px;margin-top:24px}
+
+.vocab-card{background:var(--card);border:1px solid var(--line);border-radius:var(--rad);padding:20px;
+  transition:transform .2s,border-color .2s,box-shadow .2s}
+.vocab-card:hover{transform:translateY(-3px);border-color:var(--accent);
+  box-shadow:0 10px 30px rgba(0,0,0,.3)}
+
+.vocab-card .word{font-family:var(--font-display);font-size:22px;font-weight:600;color:var(--txt);
+  margin-bottom:4px}
+.vocab-card .word .pos{font-size:11px;font-weight:600;color:var(--accent);border:1px solid color-mix(in srgb,var(--accent) 30%,transparent);
+  background:color-mix(in srgb,var(--accent) 8%,transparent);padding:2px 8px;border-radius:6px;
+  margin-left:8px;vertical-align:2px;font-family:var(--font-ui)}
+.vocab-card .meaning{font-size:14px;color:var(--muted);margin:6px 0;line-height:1.6}
+.vocab-card .bengali{font-size:13px;color:var(--accent2);margin:4px 0;font-style:italic}
+
+.vocab-card .field{margin:10px 0}
+.vocab-card .field .label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;
+  color:var(--dim);margin-bottom:4px}
+.vocab-card .field .val{font-size:13.5px;color:var(--txt);line-height:1.5}
+.vocab-card .field .val.syn{color:var(--ok)}
+.vocab-card .field .val.ant{color:var(--wrong)}
+.vocab-card .field .val.example{color:var(--muted);font-style:italic;border-left:3px solid var(--accent);
+  padding-left:10px;margin-top:4px}
+
+.vocab-card .exam-tag{font-size:10px;color:var(--dim);margin-top:8px}
+
+.pagination{display:flex;gap:8px;justify-content:center;margin-top:32px;flex-wrap:wrap}
+.pagination .pg{width:38px;height:38px;border-radius:8px;border:1px solid var(--line);background:var(--card2);
+  color:var(--txt);font-size:13px;font-weight:600;display:flex;align-items:center;justify-content:center;
+  cursor:pointer;transition:.15s;font-family:var(--font-mono)}
+.pagination .pg:hover{border-color:var(--accent)}
+.pagination .pg.act{background:var(--accent);border-color:var(--accent);color:#fff}
+
+.loading{text-align:center;padding:40px;color:var(--muted)}
+.spinner{width:20px;height:20px;border:2px solid var(--line2);border-top-color:var(--accent);
+  border-radius:50%;display:inline-block;animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.fadein{animation:fadein .3s ease}
+@keyframes fadein{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+@media(max-width:620px){
+  .vocab-grid{grid-template-columns:1fr}
+  .hero h1{font-size:28px}
+}
+</style>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="logo">SE</div>
+  <div class="navtt">
+    <div class="n1">Vocabulary Reading</div>
+    <div class="n2">SSC English Practice Lab</div>
+  </div>
+  <div style="display:flex;gap:8px">
+    <button class="iconbtn" id="theme-btn" title="Toggle theme">☀️</button>
+    <a href="index.html" class="btn sm">⌂ Home</a>
+  </div>
+</nav>
+
+<div class="wrap">
+  <div class="hero">
+    <h1>📖 Vocabulary Reading</h1>
+    <p>Read and learn vocabulary with meanings, synonyms, antonyms, example sentences, and Bengali translations — all from SSC 2025 exam papers.</p>
+  </div>
+
+  <div class="tabs" id="tabs">
+    <button class="tab act" data-topic="antonyms">↔️ Antonyms</button>
+    <button class="tab" data-topic="synonyms">🔗 Synonyms</button>
+    <button class="tab" data-topic="idioms">💭 Idioms</button>
+    <button class="tab" data-topic="homonyms">🔀 Homonyms</button>
+    <button class="tab" data-topic="ows">🔤 One Word Subs</button>
+    <button class="tab" data-topic="spelling-check">✍️ Spelling</button>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="searchbar">
+    <span class="mag">🔍</span>
+    <input id="search" placeholder="Search vocabulary..." autocomplete="off">
+  </div>
+
+  <div id="vocab-list" class="vocab-grid"></div>
+  <div class="pagination" id="pagination"></div>
+  <div class="loading" id="loading" style="display:none"><span class="spinner"></span> Loading...</div>
+</div>
+
+<script>
+"use strict";
+const $=s=>document.querySelector(s);
+const esc=t=>String(t==null?"":t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+// Theme
+let theme=localStorage.getItem("ssc-theme")||"dark";
+function applyTheme(t){theme=t;document.documentElement.dataset.theme=t;
+  $("#theme-btn").textContent=t==="dark"?"☀️":"🌙";localStorage.setItem("ssc-theme",t);}
+applyTheme(theme);
+$("#theme-btn").addEventListener("click",()=>applyTheme(theme==="dark"?"light":"dark"));
+
+// Bengali meanings dictionary (common SSC vocabulary)
+const bengaliMap = {
+  "benevolent":"দয়ালু, উদার","malevolent":"অনিষ্টকামী","potentate":"শাসক, সম্রাট",
+  "frail":"দুর্বল","placate":"শান্ত করা","exasperate":"বিরক্ত করা","eschew":"পরিহার করা",
+  "shun":"এড়িয়ে চলা","capricious":"চঞ্চল, অস্থির","fickle":"অস্থির","quiescent":"স্থির, শান্ত",
+  "auspicious":"শুভ","pusillanimous":"কাপুরুষ, ভীরু","cowardly":"কাপুরুষ",
+  "mellifluous":"মধুর, মিষ্টধ্বনি","misanthrope":"মানবজাতির বিদ্বেষী",
+  "philanthropist":"পরোপকারী","gregarious":"সামাজিক","taciturn":"অল্পভাষী",
+  "loquacious":"বাচাল","garrulous":"বকবককারী","reticent":"সংযত",
+  "vociferous":"কোলাহলকারী","obsequious":"তোষামদকারী","sycophant":"স্তুতিবাদী",
+  "magnanimous":"উদার","parsimonious":"কৃপণ","miserly":"কৃপণ",
+  "ephemeral":"ক্ষণস্থায়ী","transient":"ক্ষণস্থায়ী","perpetual":"চিরন্তন",
+  "ubiquitousser":"সর্বব্যাপী","obscure":"অস্পষ্ট","eloquent":"বাকপটু",
+  "pragmatic":"বাস্তববাদী","dogmatic":"মতবাদী","empirical":"অভিজ্ঞতামূলক",
+  "ambivalent":"দ্বিধাগ্রস্ত","indifferent":"উদাসীন","altruistic":"পরোপকারী",
+  "egoistic":"স্বার্থপর","nihilist":"নাস্তিক","fatalist":"ভাগ্যবাদী",
+  "stoic":"অনাসক্ত","hedonist":"সুখবাদী","cynic":"জগদ্বিদ্বেষী",
+  "optimist":"আশাবাদী","pessimist":"নৈরাশ্যবাদী","skeptic":"সংশয়বাদী",
+  "pacifist":"শান্তিবাদी","anarchist":"রাজনৈতিক অশান্তিবাদী","militant":"যোদ্ধা",
+  "zealot":"উগ্র সমর্থক","bigot":"সংকীর্ণ মনা","despot":"স্বৈরশাসক",
+  "tyrant":"অত্যাচারী","autocrat":"স্বৈরাচারী","oligarch":"ক্ষুদ্দল শাসক",
+  "bureaucrat":"সরকারি কর্মচারী","demagogue":"জননেতা","aristocrat":"অভিজাত",
+  "plutocrat":"ধনী শ্রেণির শাসক","theocrat":"ধর্মীয় শাসক",
+  "meritocracy":"যোগ্যতাভিত্তিক শাসন","kleptocracy":"চুরিভিত্তিক শাসন",
+  "kakistocracy":"সবচেয়ে খারাপদের শাসন","gerontocracy":"বৃদ্ধদের শাসন",
+  "plutocracy":"ধনীদের শাসন","belligerent":"যুদ্ধপ্রিয়","pugnacious":"ঝগড়াটে",
+  "truculent":"আক্রমণাত্মক","acrimonious":"তিক্ত","contentious":"বিতর্কিত",
+  "litigious":"মামলাবাজ","obstreperous":"উচ্ছৃঙ্খল","recalcitrant":"অমনীয়",
+  "intransigent":"অনমনীয়","implacable":"অশান্ত","vindictive":"প্রতিশোধপরায়ণ",
+  "rancorous":"বিদ্বেষপূর্ণ","spiteful":"বিদ্বেষী","malicious":"দুর্বুদ্ধি",
+  "nefarious":"নীচ","atrocious":"নৃশংস","heinous":"জঘন্য",
+  "egregious":"চরম খারাপ","flagrant":"সুস্পষ্ট","arrant":"পরিপূর্ণ",
+  "arrant":"সম্পূর্ণ","arrant":"পরম","consummate":"পরিপূর্ণ",
+  "quintessential":"সারমর্ম","archetypal":"আদর্শ","prototypical":"আদর্শ",
+  "exemplary":"অনুকরণীয়","stellar":"উজ্জ্বল","stellar":"তারকা-সংক্রান্ত",
+  "stellar":"চমৎকার","sublime":"উচ্চ","mundane":"সাধারণ",
+  "prosaic":"সাধারণ","pedestrian":"সাধারণ","banal":"তুচ্ছ",
+  "trite":"পুরাতন","hackneyed":"পুরাতন","cliched":"গতানুগতিক",
+  "insipid":"নিরস","vapid":"নিরস","jejune":"অপরিণত",
+  "surreptitious":"গোপন","clandestine":"গোপন","covert":"গোপন",
+  "furtive":"লুকানো","furtive":"গোপন","furtive":"চুরি করা",
+  "stealthy":"চুরি করা","surreptitious":"চুরি করা","surreptitious":"লুকানো",
+  "arcane":"রহস্যময়","esoteric":"গূঢ়","abstruse":"দুর্বোধ্য",
+  "recondite":"গূঢ়","occult":"রহস্যময়","cryptic":"রহস্যময়",
+  "enigmatic":"রহস্যময়","inscrutable":"অনুধাবনযোগ্য",
+  "mystical":"রহস্যময়","mystical":"অতিপ্রাকৃত",
+  "magnificent":"বিশাল, জাঁকজমকপূর্ণ","splendid":"বিশাল, চমৎকার",
+  "superficial":"তুচ্ছ, উপরিভাগের","shallow":"অগভীর",
+  "profound":"গভীর","esoteric":"গূঢ়","mundane":"সাধারণ",
+  "resilient":"স্থিতিস্থাপক","tenacious":"দৃঢ়","adamantine":"অটল",
+  "indomitable":"অদমনীয়","formidable":"ভয়ঙ্কর","insurmountable":"অতিক্রমযোগ্য",
+  "insuperable":"অনতিক্রম্য","irrefutable":"অখণ্ডনীয়",
+  "irrevocable":"অপরিবর্তনীয়","irreversible":"অপরিবর্তনীয়",
+  "inexorable":"অনড়","inexorable":"অনমনীয়","relentless":"নিরলস",
+  "unremitting":"নিরলস","incessant":"নিরবচ্ছিন্ন","unabating":"নিরবচ্ছিন্ন",
+  "pernicious":"ক্ষতিকর","deleterious":"ক্ষতিকর","detrimental":"ক্ষতিকর",
+  "adverse":"প্রতিকূল","inimikal":"শত্রুতাপূর্ণ","inimical":"শত্রুতাপূর্ণ",
+  "antagonistic":"বিরোধী","hostile":"শত্রুতাপূর্ণ","benevolent":"দয়ালু",
+  "philanthropic":"পরোপকারী","altruistic":"পরোপকারী",
+  "magnanimous":"উদার","munificent":"উদার","generous":"উদার",
+  "liberal":"উদার","prodigal":"অপব্যয়ী","extravagant":"অপব্যয়ী",
+  "frugal":"মিতব্যয়ী","thrifty":"সংযমী","economical":"সংযমী",
+  "prudent":"বিচক্ষণ","sagacious":"বিজ্ঞ","astute":"চতুর",
+  "shrewd":"চতুर","perspicacious":"তীক্ষ্ণবুদ্ধি","discerning":"বিচক্ষণ",
+  "judicious":"বিচক্ষণ","circumspect":"সতর্ক","vigilant":"সজাগ",
+  "wary":"সতর্ক","leery":"সন্দিগ্ধ","guarded":"সতর্ক",
+  "meticulous":"যত্নবান","scrupulous":"নিষ্ঠাবান","punctilious":"যত্নবান",
+  "fastidious":"যত্নবান","exacting":"কঠোর","stringent":"কঠোর",
+  "rigorous":"কঠোর","austere":"কঠোর","spartan":"কঠোর",
+  "ascetic":"তপস্বী","abstemious":"সংযমী","temperate":"সংযমী",
+  "abstinent":"সংযমী","moderate":"পরিমিত","equable":"সমভাবাপন্ন",
+  "equanimous":"সমভাবাপন্ন","imperturbable":"অবিচলিত",
+  "phlegmatic":"অনুত্তেজনীয়","stoic":"অনাসক্ত","stoical":"অনাসক্ত",
+  "impervious":"অভেদ্য","impermeable":"অভেদ্য","impenetrable":"অভেদ্য",
+  "invulnerable":"অভেদ্য","indestructible":"অবিনাশী",
+  "imperishable":"অবিনাশী","immortal":"অমর","eternal":"চিরন্তন",
+  "infinite":"অসীম","boundless":"অসীম","limitless":"অসীম",
+  "unbounded":"অসীম","vast":"বিশাল","immense":"বিশাল",
+  "enormous":"বিশাল","colossal":"বিশাল","monumental":"বিশাল",
+  "prodigious":"বিশাল","gargantuan":"বিশাল","titanic":"বিশাল",
+  "formidable":"ভয়ঙ্কর","forbidding":"ভয়ঙ্কর","menacing":"ভয়ংকর",
+  "ominous":"শুভংকর","inauspicious":"অশুভ","portentous":"শুভংকর",
+  "fateful":"ভাগ্যবহ","momentous":"গুরুত্বপূর্ণ","consequential":"গুরুত্বপূর্ণ",
+  "pivotal":"মূল","crucial":"গুরুত্বপূর্ণ","paramount":"সর্বোচ্চ",
+  "supreme":"সর্বোচ্চ","preeminent":"শ্রেষ্ঠ","foremost":"প্রথম",
+  "predominant":"প্রধান","prevailing":"প্রচলিত","prevalent":"প্রচলিত",
+  "pervasive":"ব্যাপী","rampant":"ব্যাপী","widespread":"ব্যাপক",
+  "omnipresent":"সর্বব্যাপী","ubiquitous":"সর্বব্যাপী",
+  "omniscient":"সর্বজ্ঞ","omnipotent":"সর্বশক্তিমান",
+  "infallible":"ত্রুটিহীন","impeccable":"নিখুঁত","flawless":"ত্রুটিহীন",
+  "pristine":"অক্ষত","immaculate":"পরিষ্কার","spotless":"দাগহীন",
+  "unblemished":"দাগহীন","untarnished":"দাগহীন","unspoiled":"অক্ষত",
+  "virginal":"কুমারী","chaste":"পবিত্র","pure":"বিশুদ্ধ",
+  "pristine":"প্রাচীন","antique":"প্রাচীন","archaic":"প্রাচীন",
+  "obsolete":"পুরাতন","outdated":"পুরাতন","outmoded":"পুরাতন",
+  "anachronistic":"কালবিরুদ্ধ","quaint":"পুরাতন","nostalgic":"স্মৃতিময়",
+  "sentimental":"আবেগপূর্ণ","nostalgia":"স্মৃতিময়তা",
+  "melancholy":"বিষণ্নতা","despondency":"হতাশা","dejection":"বিষণ্নতা",
+  "despair":"নৈরাশ্য","hopelessness":"নৈরাশ্য","desperation":"আত্মহতাশা",
+  "exuberance":"উচ্ছ্বাস","elation":"আনন্দ","euphoria":"সুখানুভূতি",
+  "jubilation":"আনন্দ","ecstasy":"পরমানন্দ","rapture":"পরমানন্দ",
+  "bliss":"পরমসুখ","serenity":"শান্তি","tranquility":"শান্তি",
+  "equanimity":"সমভাব","composure":"শান্তভাব","poise":"সংযম",
+  "decorum":"শিষ্টাচার","propriety":"শোভনতা","decorum":"মর্যাদা",
+  "etiquette":"শিষ্টাচার","protocol":"নিয়মাবলী","formality":"আনুষ্ঠানিকতা",
+  "convention":"রীতিনীতি","tradition":"ঐতিহ্য","custom":"প্রথা",
+  "ritual":"অনুষ্ঠান","ceremony":"অনুষ্ঠান","rite":"অনুষ্ঠান",
+  "sacrament":"ধর্মবিধি","ordinance":"আদেশ","edict":"আদেশ",
+  "decree":"আদেশ","mandate":"আদেশ","fiat":"আদেশ",
+  "diktat":"আদেশ","ukase":"আদেশ","ultimatum":"চূড়ান্ত প্রস্তাব",
+  "ultimatum":"শেষ সতর্কতা","deadline":"সময়সীমা","timeframe":"সময়সীমা",
+};
+
+// State
+let currentTopic = 'antonyms';
+let allItems = [];
+let filtered = [];
+let page = 1;
+const perPage = 50;
+
+const topicFiles = {
+  'antonyms':'subjects/antonyms.json',
+  'synonyms':'subjects/synonyms.json',
+  'idioms':'subjects/idioms.json',
+  'homonyms':'subjects/homonyms.json',
+  'ows':'subjects/ows.json',
+  'spelling-check':'subjects/spelling-check.json',
+};
+
+const topicLabels = {
+  'antonyms':'↔️ Antonyms','synonyms':'🔗 Synonyms','idioms':'💭 Idioms',
+  'homonyms':'🔀 Homonyms','ows':'🔤 One Word Substitutions','spelling-check':'✍️ Spelling Check',
+};
+
+// Tab switching
+document.querySelectorAll('.tab').forEach(t=>{
+  t.addEventListener('click',()=>{
+    document.querySelectorAll('.tab').forEach(x=>x.classList.remove('act'));
+    t.classList.add('act');
+    currentTopic = t.dataset.topic;
+    page = 1;
+    loadTopic();
+  });
+});
+
+async function loadTopic(){
+  const list = $('#vocab-list');
+  list.innerHTML='<div class="loading"><span class="spinner"></span> Loading...</div>';
+  
+  const file = topicFiles[currentTopic];
+  try{
+    const r = await fetch(file);
+    const data = await r.json();
+    allItems = data.questions;
+    filtered = allItems;
+    renderStats();
+    renderPage();
+  }catch(e){
+    list.innerHTML='<div class="loading">Failed to load topic.</div>';
+  }
+}
+
+function renderStats(){
+  $('#stats').innerHTML=
+    `<div class="s"><b>${allItems.length}</b>words</div>`+
+    `<div class="s"><b>${filtered.length}</b>showing</div>`+
+    `<div class="s"><b>${topicLabels[currentTopic].split(' ')[0]}</b>topic</div>`;
+}
+
+function renderPage(){
+  const list = $('#vocab-list');
+  const start = (page-1)*perPage;
+  const items = filtered.slice(start, start+perPage);
+  
+  if(!items.length){
+    list.innerHTML='<div class="loading">No results found.</div>';
+    $('#pagination').innerHTML='';
+    return;
+  }
+
+  list.innerHTML = items.map((q,i)=>{
+    const word = extractWord(q);
+    const meaning = extractMeaning(q);
+    const bengali = getBengali(word);
+    const syns = extractSynonyms(q);
+    const ants = extractAntonyms(q);
+    const example = extractExample(q);
+    const exam = q.exam || '';
+    
+    return `<div class="vocab-card fadein">
+      <div class="word">${esc(word)}${currentTopic==='ows'?'<span class="pos">n.</span>':''}</div>
+      ${meaning?`<div class="meaning">${esc(meaning)}</div>`:''}
+      ${bengali?`<div class="bengali">🇧🇩 ${esc(bengali)}</div>`:''}
+      ${syns?`<div class="field"><div class="label">Synonyms</div><div class="val syn">${esc(syns)}</div></div>`:''}
+      ${ants?`<div class="field"><div class="label">Antonyms</div><div class="val ant">${esc(ants)}</div></div>`:''}
+      ${example?`<div class="field"><div class="label">Example</div><div class="val example">${esc(example)}</div></div>`:''}
+      ${exam?`<div class="exam-tag">${esc(exam)}</div>`:''}
+    </div>`;
+  }).join('');
+
+  renderPagination();
+}
+
+function extractWord(q){
+  const p = q.prompt;
+  // For antonyms/synonyms: extract quoted word
+  const m = p.match(/["'"']([^"'"']+)["'"']/);
+  if(m) return m[1];
+  // For idioms: the prompt IS the idiom
+  if(currentTopic==='idioms') return p.replace(/^(Choose|Select|What is|Identify).*?[:"]/i,'').trim();
+  // For homonyms: first sentence
+  if(currentTopic==='homonyms') return p.split('.')[0]+'.';
+  // For OWS: extract the definition
+  if(currentTopic==='ows'){
+    const m2 = p.match(/["'"']([^"'"']+)["'"']/);
+    if(m2) return m2[1];
+    return p.length>60?p.substring(0,60)+'...':p;
+  }
+  // For spelling: extract word from options
+  if(currentTopic==='spelling-check'){
+    const correct = q.options[q.answer];
+    return correct;
+  }
+  return p.substring(0,50);
+}
+
+function extractMeaning(q){
+  const expl = q.explanation || '';
+  // Extract the meaning from explanation
+  const m = expl.match(/\(([a-d])\)\s*(.+?)(?:\s*-\s*(.+?))?(?:\n|$)/);
+  if(m) return m[3] || m[2];
+  return expl.split('\n')[0].replace(/^\([a-d]\)\s*/,'').substring(0,120);
+}
+
+function extractSynonyms(q){
+  if(currentTopic==='synonyms'){
+    return q.options.filter((_,i)=>i!==q.answer).slice(0,2).join(', ');
+  }
+  return '';
+}
+
+function extractAntonyms(q){
+  if(currentTopic==='antonyms'){
+    return q.options.filter((_,i)=>i!==q.answer).slice(0,2).join(', ');
+  }
+  return '';
+}
+
+function extractExample(q){
+  const expl = q.explanation || '';
+  const m = expl.match(/E\.g\.[-–]?\s*(.+?)(?:\n|$)/i);
+  if(m) return m[1];
+  // For idioms, extract usage
+  const m2 = expl.match(/['"'](.+?)['"']/);
+  if(m2 && m2[1].length>20) return m2[1];
+  return '';
+}
+
+function getBengali(word){
+  const w = word.toLowerCase().trim();
+  if(bengaliMap[w]) return bengaliMap[w];
+  // Try without quotes
+  const clean = w.replace(/['"]/g,'').trim();
+  if(bengaliMap[clean]) return bengaliMap[clean];
+  return '';
+}
+
+// Pagination
+function renderPagination(){
+  const total = Math.ceil(filtered.length/perPage);
+  if(total<=1){$('#pagination').innerHTML='';return;}
+  
+  let html='';
+  for(let i=1;i<=Math.min(total,20);i++){
+    html+=`<div class="pg ${i===page?'act':''}" onclick="goPage(${i})">${i}</div>`;
+  }
+  if(total>20) html+='<div class="pg">...</div>';
+  $('#pagination').innerHTML=html;
+}
+
+window.goPage = function(p){page=p;renderPage();window.scrollTo({top:200,behavior:'smooth'});};
+
+// Search
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.toLowerCase();
+  if(!q){filtered=allItems;}else{
+    filtered=allItems.filter(item=>{
+      const word=extractWord(item).toLowerCase();
+      const meaning=extractMeaning(item).toLowerCase();
+      const expl=(item.explanation||'').toLowerCase();
+      return word.includes(q)||meaning.includes(q)||expl.includes(q);
+    });
+  }
+  page=1;
+  renderStats();
+  renderPage();
+});
+
+// Boot
+loadTopic();
+</script>
+</body>
+</html>
